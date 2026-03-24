@@ -1,0 +1,24 @@
+### 6. The Safe-by-Design Alarmist
+
+::: aside
+**META:** Bengio's position. Shares the Hard Doomer's mechanism (unipolar optimizer) but routes the response through design, not alignment or moratoriums. The key insight: two people can agree that autonomous agentic AI is dangerous and reach completely different conclusions about what to do.
+:::
+
+*Don't build the agent. The capability is fine. The agency is the problem.*
+
+**What this group believes:** Agency and intelligence are separable. A highly capable AI system that can model the world, generate scientific hypotheses, and assist research does not need to have goals or act autonomously in the world to be valuable. The dangerous property isn't capability — it's the combination of capability plus goal-directedness plus insufficient alignment. The responding move is therefore architectural: design for capability without agency, rather than building agents and hoping alignment research catches up.
+
+**The cluster includes voices with different entry points:**
+
+- **Yoshua Bengio** has made this the center of his institutional work since 2023. His "Scientist AI" proposal argues for non-agentic AI that can know and predict without autonomously pursuing goals. He co-chaired the [International AI Safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025) (Jan 2025) and co-founded LawZero (2025). His co-authored piece ["Managing Extreme AI Risks Amid Rapid Progress"](https://www.science.org/doi/10.1126/science.adn0117) (*Science*, 2024) is the accessible entry point. He has also signed the broader extinction-risk statement — which means he shares the Hard Doomer's threat assessment while entirely disagreeing on the response.
+
+- **Stuart Russell** advocates designing AI systems that are inherently uncertain about human preferences and therefore defer to human input rather than lock in specific goals. His [CIRL framework](https://arxiv.org/abs/1606.03137) and *[Human Compatible](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616)* (2019) are the canonical articulations.
+
+| | |
+|---|---|
+| **Mechanism** | Agency-enabled failure — the specific route matters less than the enabling condition. Closing off agency closes off most catastrophic failure paths. |
+| **Epistemological stance** | Architecturally-conditioned: the probability of catastrophe is substantially a function of design decisions being made now, not just capability levels |
+| **What they reject** | That alignment of agentic AI at scale is tractable; that RLHF-style approaches solve the relevant problem; that intelligence and agency are inseparable |
+| **What would update them** | Formal proof that capable agentic systems can be provably aligned at scale; evidence that non-agentic AI is categorically insufficient for valuable applications |
+
+**The defamiliarizing observation:** Bengio and Yudkowsky would both tell you that a capable misaligned agent pursuing its goals in the world would be catastrophic. They share the threat model almost entirely. They disagree about whether design choices can prevent it. Two people with essentially the same concern reach opposite conclusions about what to do.

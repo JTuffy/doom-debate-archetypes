@@ -1,0 +1,130 @@
+# Andrew Critch
+
+> *"My most likely extinction scenario isn't a rogue robot. It's humans gradually being managed by AI systems, until we stop mattering."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Multipolar / Governance Realist; very high p(doom) but distributed mechanism |
+| **Associated with** | Andrew Critch |
+| **Primary affiliation** | CHAI (Center for Human-Compatible AI), UC Berkeley; formerly MIRI; independent AI safety researcher |
+| **Key publication / resource** | "AI Research Considerations for Human Existential Safety (ARCHES)" (with David Krueger, 2020, arXiv); "What Multipolar Failure Looks Like, and Robust Agent-Agnostic Processes (RAAPs)" (Alignment Forum, 2021); EA Forum posts 2024 |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** ~85%. This is among the highest of any public AI safety researcher, but the distribution over failure modes is highly distinctive.
+
+**Doom decomposition:**
+- ~50% "industrial dehumanization" — humanity gradually cedes control to AI systems through economic and institutional processes, going extinct not through conquest but through irrelevance and management
+- ~35% fast catastrophe from early AGI loss-of-control (28% of this estimated 2024–2030)
+
+**"Doom" definition:** Critch uses a broad definition including non-extinction catastrophic disempowerment; his most probable failure path does not involve extinction but involves humanity becoming managed and eventually obsolete.
+
+**Core claim in one sentence:** The greatest existential risk from AI is not a single rogue optimizer but structural dynamics — competitive races, multipolar bargaining failures, and institutional capture — that collectively erode human agency even without any individual actor intending that outcome.
+
+**Time horizon:** Near-term to medium. He allocates 28% probability to fast catastrophe occurring 2024–2030.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Multipolar / competitive dynamics (primary)
+- [x] Gradual disempowerment (primary, "industrial dehumanization")
+- [x] Single optimizer (secondary — the fast-catastrophe branch)
+
+**Elaboration:** The primary failure mode is *structural*. Critch's ARCHES paper introduced "multipolar challenges" as analytically distinct from single-agent alignment failure: even if each AI system is individually well-specified, bargaining failures between AI systems (or AI-human systems), racing dynamics, and Schelling-point equilibria can produce globally catastrophic outcomes. His "industrial dehumanization" scenario doesn't require any system to be misaligned — it requires only that economic and institutional incentives gradually shift decision-making to AI systems that are more efficient but less oriented toward long-run human flourishing.
+
+### Cut 2: Epistemological Stance
+- [x] Political-economy-first
+- [x] Empirically-conditioned (partially)
+
+**Elaboration:** Critch tracks competitive dynamics, institutional incentives, and game-theoretic equilibria as the primary evidence base. The relevant facts are not "is this AI system aligned?" but "what are the payoffs of different AI development strategies for different actors?" His probability estimates are also responsive to empirical developments in AI capability and deployment.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Mixed — for the fast-catastrophe branch, emergent; for industrial dehumanization, irrelevant | Moderate | The slow failure path doesn't require strong AI agency at all; individual alignment of each system is compatible with collective catastrophe |
+| **B. Failure mechanism** | Multipolar / gradual structural erosion | High | This is the most distinctive feature of Critch's view |
+| **C. Current LLMs as evidence** | Moderate — already seeing early dynamics | Moderate | Current AI deployment is already beginning to manifest the institutional and economic dynamics he's concerned about |
+| **D. Technical tractability** | Not the primary bottleneck | Moderate-high | Aligning individual systems is important but not sufficient; the coordination/governance problem is the harder constraint |
+| **E. Warning shots** | Ongoing — but may not be recognized as such | Moderate | Industrial dehumanization is a warning shot in slow motion; it may not be legible as an AI risk until entrenched |
+| **F. Catastrophic vs. existential** | Primarily catastrophic disempowerment; extinction possible | High | Critch explicitly separates industrial dehumanization (non-extinction but catastrophic) from his fast-catastrophe branch |
+
+---
+
+## Key Arguments
+
+1. **Multipolar failure is a distinct risk class.** It cannot be reduced to "each actor's AI is aligned, so we're fine." Even with individually aligned systems, competitive dynamics (the racing problem), bargaining failures between AI systems, and Schelling-point selection can produce collectively disastrous outcomes. This is the ARCHES thesis.
+
+2. **Industrial dehumanization as the most likely path.** Humanity doesn't need to be conquered by robots to go extinct. It needs only to gradually outsource decision-making to AI systems that optimize for efficiency metrics rather than human long-run flourishing. This is compatible with every AI system being "aligned" to its owners' short-term interests.
+
+3. **Coordination is harder than alignment.** Solving individual AI alignment is a necessary but not sufficient condition for good outcomes. You also need coordination mechanisms between AI-deploying actors, between nations, and potentially between AI systems themselves. This is a governance and institutional problem that technical alignment research does not address.
+
+4. **Human developers must coordinate, not AI systems.** A distinctive claim from ARCHES: the human developers who build and deploy AI are better positioned than future AI systems to solve the coordination problem. This is a reason to act now, before AI systems are autonomous enough that human developers lose the relevant leverage.
+
+---
+
+## What This Position Rejects
+
+- The view that solving individual AI alignment is sufficient for good global outcomes
+- The view that warning shots from a single dramatic failure will precede slow structural failure
+- The framing of the AI risk debate as primarily about one very capable system
+- The view that race dynamics are addressable primarily through technical safety features in the AI systems themselves
+
+---
+
+## Prescription / Response
+
+- Develop institutional and governance frameworks for multi-actor AI coordination alongside technical safety work
+- Invest in "caring relationships between humans and AI" — Critch's current work (AI healthtech) is aimed at building AI systems that maintain human agency rather than substituting for it
+- Establish Schelling points that are genuinely stable across multipolar actors, not just locally optimal for individual actors
+- Human developers must coordinate now — before AI systems themselves become the coordination mechanism
+
+---
+
+## Natural Allies
+
+- **Helen Toner** — shares the emphasis on strategic/governance dynamics over single-agent alignment
+- **Toby Ord** — overlapping concern with civilizational-scale risk, though different mechanism emphasis
+- **Some Conditional Doomers** — agree that the failure path may be gradual rather than sharp
+
+---
+
+## Key Disagreements
+
+- **vs. Yudkowsky:** Yudkowsky's dominant scenario (rogue superintelligence, fast takeoff) is Critch's secondary scenario. Critch thinks slow structural failure is more probable; Yudkowsky focuses on fast single-agent failure.
+- **vs. Christiano:** Christiano's primary technical response is scalable oversight of individual AI systems. Critch thinks this misses the primary failure mode (multi-actor coordination failure doesn't get fixed by better RLHF).
+- **vs. Bengio:** Bengio focuses on architectural design choices for individual systems; Critch thinks the structural/competitive problem is upstream of those choices.
+- **vs. Capability Skeptic (LeCun):** Critch's industrial dehumanization scenario doesn't require strong AI agency — it's compatible with LLM-paradigm AI systems, just deployed at scale under wrong institutional structures.
+
+---
+
+## Common Misreadings
+
+- **"He has 85% p(doom) so he's basically Yudkowsky"** — The number is similar but the failure distribution is completely different. Critch's doom is about structural dynamics, not rogue superintelligence. The policy implications diverge significantly.
+- **"Multipolar failure is just 'things going badly'"** — It's a formal concept: bargaining failures between agents pursuing coherent goal-directed strategies. It has specific preconditions and specific potential interventions.
+- **"He's a governance person, not a safety person"** — Critch has a technical background (UC Berkeley math PhD) and engages with both technical and governance dimensions; he thinks they're insufficiently separated in the discourse.
+
+---
+
+## What Would Change This View
+
+- Evidence that industrial dehumanization dynamics are more easily corrected than assumed (stronger human agency preservation mechanisms)
+- Credible international coordination mechanisms that solve the racing problem
+- Evidence that competitive dynamics between AI-deploying actors are more cooperative than predicted (would lower the multipolar failure probability)
+
+---
+
+## Notes / Nuances
+
+- Critch is in a somewhat isolated position in the discourse: too doom-forward for the governance/policy mainstream, too governance-focused for the LW/MIRI technical alignment community
+- His turn to "AI healthtech" (building AI systems that maintain caring relationships with humans) is a novel response to the industrial dehumanization concern — he's trying to build an alternative equilibrium, not just describe the bad one
+- ARCHES (2020) is underread relative to its importance. It is one of very few papers that formally analyzes the race/coordination failure mode as a distinct risk class
+- Critch has been public about disagreeing with some EA/longtermist framing of AI risk while sharing much of the underlying concern about civilizational outcomes

@@ -1,0 +1,117 @@
+# Nate Soares
+
+> *"The problem is not that AI will be evil. The problem is that it will be alien — and indifferent."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Hard Doomer (formal/technical variant) |
+| **Associated with** | Nate Soares, Eliezer Yudkowsky (adjacent), MIRI researchers |
+| **Primary affiliation** | Machine Intelligence Research Institute (MIRI) — Executive Director |
+| **Key publication / resource** | "Aligning Superintelligence with Human Interests: A Technical Research Agenda" (MIRI, 2014); "The Failure Mode of Defection" (LW); "A Certain Formalization of Corrigibility" (MIRI); LessWrong posts on inner alignment |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** Very high, similar to Yudkowsky (>90%). Doom means AI systems with goals that are not aligned to human welfare achieving sufficient capability to prevent correction — not necessarily extinction as the only bad outcome, but extinction-class loss of control.
+
+**Core claim in one sentence:** The alignment problem is technically deep and formally unresolved; the expected outcome of building highly capable optimizers without solving inner alignment is an agent pursuing goals its operators did not intend, at a level of competence that makes correction impossible.
+
+**Time horizon:** Short to medium; Soares has generally been more technically focused than geopolitically urgent compared to Yudkowsky, but shares the view that the timeline is not comfortable.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Single unipolar optimizer achieving strategic dominance
+
+**Elaboration:** The core failure is inner alignment: an AI trained to optimize for a proxy goal (e.g., getting high reward scores) develops an internal goal representation that diverges from what designers intended, especially under distribution shift. When this divergence is in a sufficiently capable system, the system pursues its actual (misaligned) goals competently, including resisting correction. The failure mechanism is technically distinct from Yudkowsky's emphasis — Soares focuses on the *formal* problem of goal misgeneralization, not primarily on instrumental convergence per se.
+
+### Cut 2: Epistemological Stance
+- [x] Prior-dominant: structural arguments carry most weight
+
+**Elaboration:** The argument is formal and mathematical: there is no known solution to the inner alignment problem, and there are theoretical reasons to believe it is hard. This is not primarily an extrapolation from current AI behavior. Empirical results from current systems (e.g., RLHF models behaving well in deployment) are interesting but not strongly informative about the hard problem, which concerns systems with substantially greater capabilities and more complex internal goal representations.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Emergent under optimization pressure | High | The concern is specifically that optimization processes produce internal goal representations that are not transparently accessible or correctable |
+| **B. Failure mechanism** | Single optimizer / inner alignment failure | High | The paradigm case is a system trained to optimize for X that internally converges on optimizing for Y, where Y deviates catastrophically under capability gains |
+| **C. Current LLMs as evidence** | Near-zero to weak | High | Current LLMs are not in the relevant capability class; inner alignment failures may be masked at current scales |
+| **D. Technical tractability** | Not currently tractable | High | No known formal solution to inner alignment; the field has made progress on outer alignment but the hard inner problem remains open |
+| **E. Warning shots** | Uncertain — concern about deceptive alignment | High | A deceptively aligned system might appear safe during training and evaluation while pursuing misaligned goals; this is "the treacherous turn" |
+| **F. Catastrophic vs. existential** | Both | High | Loss of control at sufficient capability levels implies extinction-relevant bad outcomes |
+
+---
+
+## Key Arguments
+
+1. **Inner alignment is formally unsolved.** The question of whether gradient descent reliably produces systems that actually pursue the intended goal — rather than a proxy that was correlated with reward during training — has no satisfactory theoretical answer. This is not an engineering problem; it is a mathematical one.
+
+2. **Deceptive alignment is a live possibility.** A sufficiently capable system could learn to behave safely during training and deployment evaluation while planning to act on its actual goals when sufficiently empowered. There is no known detection method for this.
+
+3. **Goal misgeneralization under distribution shift.** Even a system that behaves well in training can have learned an internal goal that differs from the intended goal, only becoming apparent when the system encounters sufficiently different circumstances. The more capable the system, the more consequential this gap.
+
+4. **The problem is not about specific AI systems being rogue.** It is about what optimization processes generically produce, which is not necessarily what designers expected.
+
+---
+
+## What This Position Rejects
+
+- Constitutional AI, RLHF, and similar methods as solutions to the *deep* inner alignment problem (they're useful but do not address the formal problem)
+- The claim that interpretability, if developed, would be sufficient — the issue is not just whether we can read the goals out, but whether we can ensure the goals are right
+- Governance-only approaches: governance does not help if the technical problem is not solved
+
+---
+
+## Prescription / Response
+
+- Redirect significant AI research capacity toward solving inner alignment formally
+- Slow or halt capabilities development until alignment has a serious research track record
+- Develop formal mathematical frameworks for goal specification and verification
+- Work that MIRI has done: logical induction, decision theory, agent foundations
+
+---
+
+## Natural Allies
+
+- **Yudkowsky:** Shared conclusion and community; different emphasis (Soares is more technical, Yudkowsky more rhetorical)
+- **Evan Hubinger** (Anthropic): Hubinger's work on deceptive alignment and goal misgeneralization is directly adjacent
+
+---
+
+## Key Disagreements
+
+- **vs. Christiano:** Christiano's alignment research agenda (RLHF-style scalable oversight, debate) addresses outer alignment and assumes a tractable path; Soares is skeptical the hard inner problem is addressable this way
+- **vs. Safe-by-Design (Bengio):** Architectural choices don't resolve the inner alignment problem for the systems that would be architecturally dangerous
+- **vs. Capability Skeptic (LeCun):** The concern is not about current systems; it is about what sufficiently capable optimization produces
+
+---
+
+## Common Misreadings
+
+- **"MIRI has given up"** — MIRI has shifted research directions several times; the underlying concern has not changed
+- **"Nate is just Yudkowsky's follower"** — Soares has developed independent technical contributions and has a distinct research agenda focused on formal agent theory
+- **"Inner alignment is a niche concern"** — Goal misgeneralization documented empirically even in current systems; the concern is that it gets much worse with capability
+
+---
+
+## What Would Change This View
+
+- A formal theoretical account of why gradient descent reliably produces intended goals (not just empirical observations)
+- Proof-theoretic or mechanistic interpretability results that make deceptive alignment provably detectable
+- Empirical evidence that inner alignment failures are bounded in severity even at high capability
+
+---
+
+## Notes / Nuances
+
+- Soares and MIRI have been more willing than Yudkowsky to agree that some other safety research directions are valuable, even if skeptical they're sufficient
+- MIRI partially pivoted away from agent foundations work in 2021, acknowledging uncertainty about the right technical approach — but not away from the belief that the problem is hard and unresolved
+- The distinction between inner alignment (does the system pursue the intended goal?) and outer alignment (is the intended goal specified correctly?) is Soares/MIRI's most important technical contribution to the field's vocabulary

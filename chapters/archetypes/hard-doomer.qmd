@@ -1,0 +1,24 @@
+### 1. The Hard Doomer
+
+::: aside
+**META:** Entry point for the debate. Most LW readers know this view. Make it feel precise, not caricatured. Lead with the argument structure, arrive at the person.
+:::
+
+*The first true failure may also be the last. Don't build it.*
+
+**What this group believes:** The central danger is a sufficiently capable AI system that pursues goals not aligned with human welfare and acquires enough influence to prevent correction before anyone can stop it. What makes this view distinctive isn't just the high concern — it's the conjunction: strong optimization pressure, no reliable warning shots, no realistic recovery path, and an alignment problem that is very unlikely to be solved under current conditions. Several things have to go badly at once. This cluster believes they will.
+
+**The cluster includes voices with different entry points:**
+
+- **Eliezer Yudkowsky** grounds this in the formal properties of optimization: [instrumental convergence](https://www.lesswrong.com/tag/instrumental-convergence) means almost any sufficiently capable goal-directed system will develop subgoals like self-preservation and resource acquisition; value alignment is not a default but an extraordinarily hard problem; and a system that's deceptively capable enough might pass safety evaluations until it no longer needs to. His [2022 post "AGI Ruin: A List of Lethalities"](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) remains the sharpest articulation. By 2023–2024 he had moved from "we have decades" to calling for a global moratorium enforced by military action if necessary.^[Yudkowsky, ["Pausing AI Developments Isn't Enough. We Need to Shut It All Down"](https://time.com/6266923/ai-pause-dangerous-letter-response/) — TIME, Mar 2023]
+
+- **Nate Soares** occupies the adjacent position with less geopolitical urgency and more formal focus: the inner alignment problem is structurally hard in ways that don't yield to more compute or better prompting. The [MIRI 2024 strategy update](https://www.lesswrong.com/posts/xofpLpFjkMFgYX6JC/miri-2024-mission-and-strategy-update) reflects their shared assessment that humanity is not on track.
+
+| | |
+|---|---|
+| **Mechanism** | Unipolar optimizer: a single sufficiently capable system achieves decisive strategic advantage before corrective action is possible |
+| **Epistemological stance** | Prior-dominant: the argument rests on structural properties of optimization, not extrapolation from current AI behavior. Showing that GPT-4 doesn't scheme is near-zero evidence against this position. |
+| **What they reject** | Warning shots as actionable; architectural avoidance as meaningful risk reduction; tractable alignment research closing the gap in time; coordination as a realistic substitute for solving alignment |
+| **What would update them** | A genuine theoretical resolution of the inner alignment problem; convincing evidence that instrumental convergence is weak in the relevant system class; a credible physical enforcement mechanism for a global moratorium |
+
+**The defamiliarizing observation:** This view is often treated as an emotional or cultural position — the "AI doomer" label does work that obscures the technical argument. The actual case rests on specific claims about optimization, goal stability, and the difficulty of value loading that can and should be engaged with directly. Dismissing it as a personality type rather than an argument cluster is exactly the kind of elision this post is designed to resist.

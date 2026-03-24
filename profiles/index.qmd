@@ -1,0 +1,49 @@
+# Doom Debate Profile Index
+
+All profiles share a common schema (see [`_template.md`](_template.md)).
+
+---
+
+## Profiles by Archetype
+
+| Profile | Archetype | p(doom) | Failure Mechanism | Epist. Stance |
+|---|---|---|---|---|
+| [Yudkowsky](yudkowsky.md) | Hard Doomer | >95% (extinction) | Single unipolar optimizer | Prior-dominant |
+| [Soares](soares.md) | Hard Doomer (formal) | >90% | Single optimizer / inner alignment | Prior-dominant |
+| [Bostrom](bostrom.md) | Structural Doomer (canonical, evolved) | ~10–40%? (shifted) | Single optimizer → DSA (historical) | Prior-dominant → empirical |
+| [Hinton](hinton.md) | Structural Doomer (late-onset) | ~10–20% (extinction) | Gradual capability → goal divergence | Empirical-conditioned |
+| [Ord](ord.md) | GCR Framer (between Structural & Conditional) | ~10% (existential, century) | Portfolio across mechanisms | Empirical / decomposition |
+| [Christiano](christiano.md) | Conditional Doomer / AI Control Optimist | 10–20% catast.; ~46% aggregate bad | Gradual oversight erosion | Empirical-conditioned |
+| [Amodei](amodei.md) | Conditional Doomer / Build Carefully | 10–25% | Misuse (near); gradual erosion (long) | Empirical + architectural |
+| [Critch](critch.md) | Multipolar / Governance Realist | 85% (mostly industrial dehumanization) | Multipolar / structural erosion | Political-economy |
+| [Grace](grace.md) | Epistemic Hygienist / Gradualist | Not stated; tracks expert median 5%, mean 16% | No commitment | Decomposition-first |
+| [Bengio](bengio.md) | Safe-by-Design Alarmist | High (signed extinction statement) | Agency-enabled (any route) | Architecturally-conditioned |
+| [LeCun](lecun.md) | Paradigm Skeptic / Capability Skeptic | ~0% for AI-autonomy doom | None accepted (power concentration only) | Empirical-conditioned |
+
+---
+
+## Key Crux Comparison
+
+| Profile | A: Agency emergent? | C: Current LLMs as evidence? | D: Tractable? | E: Warning shots? | F: Extinction focus? |
+|---|---|---|---|---|---|
+| Yudkowsky | Yes — emergent | Near-zero | No | No | Yes |
+| Soares | Yes — optimization pressure | Near-zero | No | Uncertain (deception) | Yes |
+| Bostrom (historical) | Yes | Weak | Hard | Uncertain | Yes |
+| Hinton | Probably | Moderate | Uncertain | Uncertain | Yes |
+| Ord | Uncertain | Weak-moderate | Uncertain | Possible | Yes (strict def.) |
+| Christiano | Partial | Weak-moderate | Yes | Yes | Both |
+| Amodei | Both | Strong | Yes | Ongoing | Both |
+| Critch | Mixed | Moderate | Not primary bottleneck | Ongoing (slow) | Both |
+| Grace | Open | Moderate | Open | Probably | Tracks both |
+| Bengio | Design choice | Moderate-high | Via design | Early signs | Both |
+| LeCun | No (current paradigm) | Strong (against doom) | Irrelevant | Inherent limits | No |
+
+---
+
+## Thinkers Not Profiled (yet)
+
+- **Helen Toner** — governance/strategic lens; CSET, OpenAI board; adjacent to Critch
+- **Stuart Russell** — corrigibility and human-compatible AI; distinct technical approach
+- **Kate Crawford / Timnit Gebru** — present-harms / power-critique cluster
+- **Sam Altman** — nominal high concern + builds anyway; OpenAI "responsible scaling" framing
+- **Evan Hubinger** — deceptive alignment / goal misgeneralization; technically adjacent to Soares

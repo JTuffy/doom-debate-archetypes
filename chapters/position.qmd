@@ -1,0 +1,27 @@
+## V. Where I Stand
+
+::: aside
+**META:** Demonstrates the framework rather than just describing it. The author locates their own position using the same crux structure as the archetypes. Be honest about uncertainty and archetype misfit — that's the point. TBDs are filled by the author only — do not infer or fill in.
+:::
+
+**Archetype cluster:** Between Conditional Doomer and Structural Doomer — high-ish concern, mechanism not fully settled.
+
+**Crux positions:**
+
+| Crux | My position | Notes |
+|---|---|---|
+| **A. Agency emergent vs. design choice** | Design choice | Agency at the dangerous scale is not an automatic consequence of capability — it is built in. This is load-bearing for everything downstream. |
+| **B. Primary failure mechanism** | *[TBD — single optimizer? multipolar? gradual?]* | |
+| **C. Current LLMs as evidence** | *[TBD — strong / weak / near-zero]* | |
+| **D. Technical tractability** | Tractable but pessimistic | The control problem is probably not unsolvable in principle, but I don't think we're on track to solve it in time under current conditions. |
+| **E. Warning shots actionable** | *[TBD]* | |
+| **F. Catastrophic vs. existential** | *[TBD]* | |
+
+**What this position implies:**
+
+- If agency is a design choice, then the Safe-by-Design and architectural-avoidance responses are *not* wishful thinking — they're actually the more tractable intervention. But pessimism on tractability means I don't think design choices alone will be sufficient without substantial governance pressure too.
+- This position doesn't fit cleanly into any single archetype — which is exactly what the framework is supposed to surface.
+
+**What would update me significantly:**
+
+- *[TBD — fill in]*

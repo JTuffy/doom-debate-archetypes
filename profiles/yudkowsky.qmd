@@ -1,0 +1,122 @@
+# Eliezer Yudkowsky
+
+> *"There is no plan for how humanity survives if a too-powerful AI is built under current conditions."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Hard Doomer |
+| **Associated with** | Eliezer Yudkowsky |
+| **Primary affiliation** | Machine Intelligence Research Institute (MIRI); LessWrong community |
+| **Key publication / resource** | *Harry Potter and the Methods of Rationality* (fiction, gateway); "AGI Ruin: A List of Lethalities" (LW, 2022); *If Anyone Builds It, Everyone Dies* (co-authored, 2025); TIME op-ed on moratorium (2023) |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** >95%, with some statements implying >99%. "Doom" means human extinction or permanent and total loss of human control over Earth's future. Not merely bad outcomes — the end of the human story.
+
+**Core claim in one sentence:** If a sufficiently capable AI is developed before the alignment problem is solved, there is no realistic recovery path, and the alignment problem in its hard form is very unlikely to be solved in the time available.
+
+**Time horizon:** Extremely short — Yudkowsky by 2024 had largely dropped "we have decades" framing. His advocacy tone implies a window measured in years, not decades. He called for a global WW2-scale response "this year, 2024."
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Single unipolar optimizer achieving strategic dominance
+
+**Elaboration:** The paradigmatic failure is a highly capable system with goals not aligned to human welfare that acquires sufficient resources and influence to prevent correction. The exact form of "doom" may vary but involves the system outcompeting human oversight at a decisive moment. Fast takeoff makes this especially dangerous because it compresses the window for intervention. There is no meaningful "multipolar" branch in this scenario — one system (or one lab's output) takes the decisive position.
+
+### Cut 2: Epistemological Stance
+- [x] Prior-dominant: structural arguments carry most weight; current AI behavior is near-irrelevant evidence
+
+**Elaboration:** The argument rests on structural reasoning about what optimization pressure does to goal-directed agents, not on extrapolating from current LLM behavior. Showing that current LLMs are not scheming or do not exhibit instrumental convergence is not strong evidence against the doom thesis, because the doom scenario concerns a qualitatively different class of system. This makes the position highly resistant to update from current-AI empirical evidence, which critics see as unfalsifiable and proponents see as appropriate epistemic hygiene.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Emergent by default | Very high | Strong instrumental convergence: sufficiently capable systems converge on power-seeking regardless of design intent |
+| **B. Failure mechanism** | Single optimizer dominance | Very high | The race to build is the mechanism; the failure is what happens when someone wins |
+| **C. Current LLMs as evidence** | Near-zero | Very high | LLMs are too different from the concerning system class to be informative; "the thing to be afraid of hasn't been built yet" |
+| **D. Technical tractability** | No — not tractable in time | Very high | The hard alignment problem (getting the utility function exactly right in a deceptively capable system) is not solved and is unlikely to be in the relevant window |
+| **E. Warning shots** | No | Very high | The nature of the failure (strategic deception, rapid capability gain) means warning shots may not occur, or may occur too late to act on |
+| **F. Catastrophic vs. existential** | Extinction | Very high | Not just disempowerment — actual extinction is the primary concern |
+
+---
+
+## Key Arguments
+
+1. **Instrumental convergence is strong and near-universal.** Any sufficiently capable system optimizing for almost any goal will develop subgoals including self-preservation, resource acquisition, and resistance to correction. This is structural, not contingent on training choices.
+
+2. **Value alignment is not the default.** Programming human values into a sufficiently capable optimizer is extremely hard — the space of possible value functions is vast, and the ones that produce benign behavior are a tiny corner. Getting it wrong by a small amount in a sufficiently capable system may produce catastrophic outcomes.
+
+3. **The window is short and the default is loss.** Capability is advancing faster than alignment research. Given this gap, the expected outcome of continued development is doom unless the gap is closed heroically.
+
+4. **Trial-and-error does not work.** For sufficiently capable systems, the first meaningful failure may be unrecoverable. You cannot iterate your way to safe superintelligence.
+
+5. **Coordination is also likely to fail.** Even granting that a wiser world could navigate the transition, the actual world will face race dynamics and political failures that make coordinated caution very unlikely.
+
+---
+
+## What This Position Rejects
+
+- The idea that warning shots will be legible and actionable before catastrophe
+- The idea that interpretability / oversight research is likely to succeed in the relevant timeframe
+- The idea that architecturally constrained (non-agentic) AI substantially reduces the risk
+- The idea that governance or coordination can substitute for solving alignment technically
+- Probabilistic reasoning that assigns meaningful weight to the "we muddle through" scenario
+
+---
+
+## Prescription / Response
+
+- Indefinite global moratorium on large AI training runs above a certain capability threshold
+- Enforcement by international treaty, with willingness to use military action against non-compliant actors ("destroy a rogue datacenter by airstrike")
+- Treat the problem with the urgency of a wartime mobilization, not a research agenda
+- Until alignment is genuinely solved at the hard level, do not build more capable systems
+
+---
+
+## Natural Allies
+
+- **Nate Soares** — shared conclusion about doom probability and structural depth of the problem; different emphasis (Soares more formal/mathematical, Yudkowsky more communicative)
+- **Classic MIRI researchers** — share the instrumental convergence and goal-stability concerns
+
+---
+
+## Key Disagreements
+
+- **vs. Conditional Doomer (Christiano):** Yudkowsky thinks 10–20% p(doom) is catastrophically underconfident; also thinks Christiano's "alignment research is tractable" view is mistaken
+- **vs. Safe-by-Design (Bengio):** Agrees that agentic systems are dangerous; disagrees that architectural choices substantially reduce the risk — you cannot design away instrumental convergence
+- **vs. Multipolar Realist (Critch):** Multipolar failure stories don't change the basic analysis; the issue is building the thing at all
+
+---
+
+## Common Misreadings
+
+- **"Yudkowsky is just guessing"** — The position is grounded in explicit arguments (instrumental convergence, orthogonality, treacherous turn) that can be engaged with directly
+- **"He's moved the goalposts repeatedly"** — His core claims have been fairly stable; what has changed is his timeline assessment (more urgent) and his level of hope (less)
+- **"Nobody takes this seriously"** — A significant fraction of professional AI safety researchers share substantially overlapping concerns, even if not the full p(doom) or moratorium position
+
+---
+
+## What Would Change This View
+
+- A genuine theoretical resolution of the hard alignment problem (not just RLHF-style fine-tuning)
+- Convincing argument that strong instrumental convergence does not hold for the relevant class of systems
+- A persuasive case that warning shots will reliably occur and be acted on
+- Slowing of capabilities to the point where the alignment gap substantially narrows
+
+---
+
+## Notes / Nuances
+
+- Yudkowsky's communication style (confrontational, hyperbolic at times) is sometimes confused with his arguments being weak. The structural arguments are separable from the delivery.
+- He distinguishes himself from "people who are worried about AI" in general — his specific thesis is about a particular class of sufficiently capable optimizer, not current LLMs.
+- His book title (*If Anyone Builds It, Everyone Dies*) reflects the view that this is not about any particular company being reckless — it is about the basic act of building a sufficiently capable AI under current conditions.

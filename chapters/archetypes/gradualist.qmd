@@ -1,0 +1,22 @@
+### 5. The Gradualist Forecaster
+
+::: aside
+**META:** Easy to misread as "less worried." She's not — she's making a methodological claim. The defamiliarizing move: decomposition-first thinkers often end up with *higher* effective concern than their median p(doom) suggests, because refusing to commit on uncertain sub-claims produces wider probability distributions, not narrower ones. Lead with this. The survey data is confirmatory, not the headline.
+:::
+
+*The question isn't what probability you assign. It's whether you even have a well-formed question to assign it to.*
+
+**What this group believes:** Decomposition-first methodologists often end up *more* concerned about AI risk than their median p(doom) suggests — not less. Here's why: when you refuse to bundle uncertain sub-claims into a single number and instead reason through them separately, you discover that your uncertainty over each sub-claim compounds. A 30% chance that instrumental convergence bites at the relevant capability level, times a 40% chance that takeoff is fast enough to foreclose correction, times a 25% chance that coordination fails — produces a distribution with significant tail mass even if no individual estimate is alarming. Stated p(doom) medians of 5–10% from this cluster often represent the median of a wide distribution with a meaningful right tail, not a dismissal. The Gradualist Forecaster isn't saying "don't worry." They're saying "worry properly."
+
+**The cluster includes voices with different entry points:**
+
+- **Katja Grace** (AI Impacts) has done the most systematic work on decomposing the assumptions underlying AI risk claims, and on actually polling the field. The [2024 AI researcher survey](https://aiimpacts.org/2023-expert-survey-on-progress-in-ai/)^[Grace et al., "Thousands of AI Authors on the Future of AI," AI Impacts, Jan 2024. n=2,778 respondents with published AI venue papers.] — 2,778 respondents — found medians of roughly 5% p(doom) and means around 16%, with 37–51% assigning >10% chance of an extinction-level outcome. Her methodological emphasis: the survey measures *bundles of views*, not well-specified claims. That's precisely the problem she's trying to surface, and the fact that 37–51% of the respondents still assign meaningful extinction mass makes the "AI researchers dismiss risk" read straightforwardly false.
+
+- **Metaculus and the forecasting community** represent another version of this stance: applying calibration norms and decomposed question structures to claims that the broader debate treats as single yes/no positions. The forecasting literature doesn't have a single named spokesperson here, but its epistemological approach — break the question into resolvable sub-questions, track accuracy, resist narrative — is exactly what this cluster is doing.
+
+| | |
+|---|---|
+| **Mechanism** | Decomposition-first: refuses to assign a mechanism before separating the sub-claims |
+| **Epistemological stance** | Decomposition-first, then empirically-conditioned: the methodology question precedes the empirical question |
+| **What they reject** | That bundled assumptions can carry the epistemic weight of specific predictions; that a low p(doom) median implies dismissal of risk; that any single number is meaningful without specifying what "doom" means |
+| **What would update them** | Better-specified cruxes from other clusters — claims that are actually resolvable by evidence or forecasting rather than structural arguments about optimization |

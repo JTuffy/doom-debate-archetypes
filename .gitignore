@@ -1,0 +1,17 @@
+# Quarto output directories
+_book/
+_site/
+.quarto/
+
+# Quarto per-file build artifacts
+*_files/
+*.html
+
+# Archive (old working files, superseded by index.qmd)
+archive/
+
+# Agent workspace
+agent_workspace/
+
+/.quarto/
+**/*.quarto_ipynb

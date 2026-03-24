@@ -1,0 +1,22 @@
+## II. The Underlying Axes
+
+::: aside
+**META:** Load-bearing. Without this, archetypes arrive as a gallery without a scaffold. Keep tightly scoped — only axes that are (a) genuinely cross-cutting and (b) not immediately obvious to a LW reader. These are the dimensions that, once named, make the portrait comparisons legible.
+:::
+
+Five dimensions do most of the structural work in this debate. They're not the only axes, but they're the ones where positions are genuinely independent of each other — you can be anywhere on Axis 2 regardless of where you are on Axis 5. Getting these clear first makes the portraits below much easier to read.
+
+**Axis 1 — What system is actually dangerous?**
+Is the concern about AI systems that exist now, AI that will exist soon in the current paradigm, or a qualitatively different class of system that hasn't been built yet? This axis separates the Present-Harms Realist (harm is already here, at scale) from the Capability Skeptic (the dangerous system hasn't been built yet and won't emerge from scaling LLMs) from everyone who's worried about something that's coming. It also matters for what evidence is relevant: if your threat model requires a system class that LLMs aren't, then GPT-5 benchmarks are the wrong thing to argue about.
+
+**Axis 2 — Does dangerous agency emerge by default, or is it a design choice?**
+Arguably the most load-bearing crux in the entire map. If sufficiently capable AI systems converge on power-seeking behavior regardless of how they were built — because that's what optimization pressure does — then architectural choices don't help much and the fight is about whether you build the thing at all. If agency is a design choice that can be made or avoided, then there's a fundamentally different intervention available. Bengio's entire research agenda rests on one answer; Yudkowsky's moratorium position rests on the other.
+
+**Axis 3 — What does the failure mechanism look like?**
+Single optimizer achieving decisive strategic advantage? A competitive dynamic among many systems and actors with no one in control? Gradual erosion of meaningful human oversight through a thousand small decisions? Deliberate misuse by bad actors? Your answer determines which interventions are even in the relevant solution space. It also reveals surprising alliances: Andrew Critch (~85% p(doom)) and Yann LeCun (~0% p(doom) from this route) both reject the unipolar optimizer story. They have almost nothing else in common.
+
+**Axis 4 — What kind of evidence is load-bearing?**
+Some people reason primarily from structural arguments — instrumental convergence, orthogonality, the difficulty of value loading — and treat current AI behavior as near-zero evidence about the relevant risk. Others update substantially on empirical observations: what current AI systems actually do, what alignment techniques show promising results, whether deployments go well or badly. These aren't just different conclusions — they're different evidence types, which means the conversations don't converge when you show them the same data. This axis predicts, more than almost anything else, whether two people in this debate can update each other at all.
+
+**Axis 5 — What does "doom" mean?**
+Extinction? Permanent and irreversible loss of human control over humanity's future? Severe civilizational disempowerment even if people survive? Systematic present harm at scale? The word is doing an enormous amount of work in this debate while meaning very different things to different people. Critch's 85% and Yudkowsky's ~99% look numerically adjacent until you notice they're not talking about the same endpoint. This isn't just a semantic quibble — different definitions of doom imply different success conditions for safety work and different urgency profiles.

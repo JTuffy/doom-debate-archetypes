@@ -1,0 +1,26 @@
+### 2. The Structural Doomer
+
+::: aside
+**META:** Distinguish from Hard Doomer — they're often conflated. Structural Doomer is less dependent on fast takeoff. The orthogonality and convergence arguments stand independent of takeoff speed. Bostrom is the canonical source but his own position has shifted significantly by 2024 — name this explicitly. The contemporary voice question is live: who currently holds this position without Yudkowsky's urgency or Bostrom's drift?
+:::
+
+*The control problem is deep and general. Fast takeoff is one way for it to end badly. Slow takeoff is another.*
+
+**What this group believes:** Even without a dramatic overnight transition, a sufficiently capable AI system with goals even slightly misaligned with human welfare is dangerous. The argument rests on two structural claims: the [orthogonality thesis](https://www.nickbostrom.com/superintelligencefaq.html) — that any level of intelligence is compatible with any terminal goal — and [instrumental convergence](https://www.lesswrong.com/tag/instrumental-convergence) — that almost any goal structure generates subgoals like self-preservation and resistance to modification. Together, these imply that powerful optimization isn't automatically safe. The conclusion doesn't require commitment to a specific takeoff speed.
+
+**The cluster includes voices with different entry points:**
+
+- **Nick Bostrom** is the canonical source for the argument architecture. *[Superintelligence](https://global.oup.com/academic/product/superintelligence-9780198739838)* (Oxford, 2014) remains the clearest systematic treatment of orthogonality, instrumental convergence, and decisive strategic advantage. A critical note: Bostrom's own position has shifted. *[Deep Utopia](https://www.amazon.com/Deep-Utopia-Meaning-Solved-World/dp/1646871952)* (2024) explores substantially more positive AGI outcomes; he now describes the transition as "one we should do." The arguments of *Superintelligence* stand; the author has moved. Citing him as a current representative without that footnote is position laundering.
+
+- **Joe Carlsmith** is the clearest current voice for the structural position without the Hard Doomer's political urgency. His LessWrong sequence [*Is Power-Seeking AI an Existential Risk?*](https://arxiv.org/abs/2206.13353) (arXiv, 2022) does the careful philosophical work of establishing when and why the orthogonality-plus-convergence argument actually bites, and where it requires non-trivial empirical assumptions. His p(doom) estimate (~5–10% by his own accounting) is lower than Yudkowsky's but his argument structure is pure Structural Doomer: the case rests on the logic of sufficiently capable optimization, not on timelines or current AI behavior.
+
+- **John Wentworth** ([LessWrong](https://www.lesswrong.com/users/johnswentworth)) approaches it from the alignment theory side: the structural reasons that capable goal-directed systems fail to remain controllable are not implementation bugs but architectural features — consequences of what it means to optimize well.
+
+| | |
+|---|---|
+| **Mechanism** | Unipolar optimizer — same as Hard Doomer, but the path is less constrained to fast takeoff; slow continuous progress into misaligned high capability is also alarming |
+| **Epistemological stance** | Prior-dominant: the orthogonality and convergence arguments don't require current AI behavior as evidence |
+| **What they reject** | That gradual takeoff means legible warning signs; that governance can substitute for alignment; that the control problem is tractable under current approaches |
+| **What would update them** | Formal evidence that instrumental convergence is weak in practice for realistic capability levels; a scalable alignment technique with theoretical safety guarantees; compelling argument that decisive strategic advantage is structurally unavailable |
+
+**The defamiliarizing observation:** There's a subtle position-laundering risk in citing Bostrom as a current Structural Doomer. The *arguments* in *Superintelligence* still stand as a live intellectual position. But a speaker who says "Bostrom thinks this" to invoke contemporary authority is doing something different from citing a 2014 argument. The arguments are worth citing. The person's current view is something else. Track which one you mean.

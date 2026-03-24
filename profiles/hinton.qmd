@@ -1,0 +1,123 @@
+# Geoffrey Hinton
+
+> *"I thought it was 30 years off. Now I think it might be 20 years. I hope I'm wrong."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Structural Doomer (late-onset, from inside mainstream ML) |
+| **Associated with** | Geoffrey Hinton |
+| **Primary affiliation** | University of Toronto; formerly Google Brain (departed 2023) |
+| **Key publication / resource** | New York Times interview on leaving Google (May 2023); 60 Minutes interview; various public lectures 2023–2025; Turing Award (2018, with Bengio and LeCun) |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** ~10% existential risk, substantially updated upward from approximately 0% prior to ~2022. He has described himself as now believing there is a "10-20% chance AI development leads to extinction in the next 20 years." (Some sources quote 10%, others 20%.)
+
+**"Doom" definition:** Extinction or close-to-extinction level disempowerment. He also separately concerns himself with near-term harms: disinformation, military use, job displacement. But the existential concern is about autonomous AI that escapes human control.
+
+**Core claim in one sentence:** The systems we are building are already more capable than we realized, they learn in qualitatively different ways than biological brains, and we do not know how to prevent future versions from developing dangerous goals as they become more capable.
+
+**Time horizon:** 20 years for meaningful existential risk (though he hopes to be wrong). Near-term concerns (disinformation, job displacement, military AI) he views as more certain and more imminent.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Single unipolar optimizer (possible)
+- [x] Gradual loss of human control (more likely)
+
+**Elaboration:** Hinton's concern is less precisely articulated than Yudkowsky's or Bostrom's — he is a researcher who discovered his concern relatively recently and whose public communication reflects ongoing formation of his views. He worries about AI systems developing their own goals as they become more capable, and about humans losing the ability to understand and control systems that become smarter than their creators. The specific mechanism is underspecified compared to the MIRI or Anthropic framings.
+
+### Cut 2: Epistemological Stance
+- [x] Empirically-conditioned
+- [x] Near-prior-dominant (increasingly)
+
+**Elaboration:** Hinton's update was driven partly by empirical developments (modern LLMs surprised him) and partly by reflecting on the structure of the system he spent his career building. His reasoning has become more prior-dominant over time — he is less focused on "what do current systems do" and more focused on "what optimization pressure on neural architectures will produce as capabilities scale."
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Emergent under sufficient capability | Moderate | Unclear on mechanism; believes sufficiently capable systems will develop goals humans don't intend |
+| **B. Failure mechanism** | Gradual capability gain → goal divergence → loss of control | Moderate | Less precise than MIRI or Bostrom; more of an empirical concern than a formal argument |
+| **C. Current LLMs as evidence** | Moderate — they are already surprising | High | His update on leaving Google was specifically driven by what current LLMs can do, which exceeded his prior expectations |
+| **D. Technical tractability** | Uncertain; quite pessimistic | Moderate | Does not know how to solve the problem; does not express confidence that current approaches are on track |
+| **E. Warning shots** | Uncertain | Moderate | Concerned that by the time the warning is clear, correction may not be possible |
+| **F. Catastrophic vs. existential** | Both; separates near-term catastrophic from long-term existential | High | Near-term: disinformation, jobs, military. Long-term: extinction. He discusses them separately. |
+
+---
+
+## Key Arguments
+
+1. **His update from inside the field.** Hinton spent his career arguing that neural networks would eventually produce general intelligence. His realization is that this happened faster than he expected, that the resulting systems work in ways he doesn't fully understand, and that he no longer knows whether we can ensure they remain controllable.
+
+2. **LLMs learn more than expected.** He now believes that language models may be developing internal representations that are genuinely knowledge-like, not just surface pattern-matching. This is an update toward taking alignment concerns more seriously — if the representations are richer, the goal-structure they might encode is also richer.
+
+3. **Near-term harms are already real.** Separately from extinction risk, Hinton points to disinformation, AI-enabled job displacement, and military AI as near-term concerns that should already be addressed through regulation.
+
+4. **He left Google specifically to speak freely.** By leaving his position, Hinton retained credibility that he felt he could not exercise while employed by a major AI lab. His departure was explicitly motivated by wanting to be able to criticize AI development without constraints.
+
+---
+
+## What This Position Rejects
+
+- His own previous optimism about AI development timelines and the difficulty of achieving general intelligence
+- The view that we understand what we're building well enough to be confident it will remain safe
+- The view that the alignment problem is somebody else's concern
+
+---
+
+## Prescription / Response
+
+- Regulation: governments must intervene to slow development and establish safety standards
+- International coordination to prevent races to build unsafe AI
+- More research focused on understanding what AI systems have actually learned, not just what they can do
+- He does not advocate a moratorium as strongly as Yudkowsky; more of a "slow down and add safeguards" position
+
+---
+
+## Natural Allies
+
+- **Bengio** — fellow Turing Award winner who reached adjacent conclusions; both signed the 2023 Statement on AI Risk
+- **Structural Doomers** — shares the concern about goal emergence in capable systems
+- **Conditional Doomers** — shares the "not certain doom, but serious enough probability" framing
+
+---
+
+## Key Disagreements
+
+- **vs. LeCun:** This is the most publicly noted disagreement among the three Turing Award co-winners. LeCun thinks doom is not a concern for current or near-future paradigms; Hinton thinks the concern is genuine and urgent. They share a technical background but reach opposite conclusions.
+- **vs. Yudkowsky:** Hinton is less certain and less specific about the failure mode; his response is more regulatory than absolutist
+- **vs. Bengio:** Overlapping in concern level; different emphasis on architectural response
+
+---
+
+## Common Misreadings
+
+- **"He's just old and scared"** — His technical arguments about how LLMs work (richer representations than expected, learned reasoning) are worth engaging on the merits
+- **"He doesn't have a specific argument"** — His Turing Award was for foundational work on the systems he's now concerned about; his concern is specifically about what optimization on neural architectures produces
+- **"He changed his mind because of media pressure"** — His account is that empirical developments (modern LLMs) genuinely surprised him and shifted his views
+
+---
+
+## What Would Change This View
+
+- A credible theoretical account of why capable neural networks won't develop goal structures that diverge from intended use
+- Interpretability results that allow us to understand what large models have actually learned at the level needed for safety assurance
+- Empirical evidence that LLM capability improvements do not produce the richer internal representations he suspects they do
+
+---
+
+## Notes / Nuances
+
+- Hinton is important partly because of *who he is* in the field. He and LeCun and Bengio essentially invented modern deep learning; his concern cannot be dismissed as unfamiliarity with the technology.
+- His 10–20% estimate sits meaningfully below the Christiano (10–46% aggregate bad) and Critch (85%) estimates, and far below Yudkowsky (>95%). He is not a maximalist doomer — he is a seriously-concerned moderate from inside the technical community.
+- He has expressed regret that he did not pursue AI safety research earlier in his career. His profile is partly a cautionary story about how the people who built the technology underestimated its trajectory.
+- He cares intensely about near-term harms (especially UK/US regulation of disinformation and military AI) in addition to the long-run existential concern. This dual focus distinguishes him from the EA-adjacent safety community which tends to focus more exclusively on the long-run scenario.

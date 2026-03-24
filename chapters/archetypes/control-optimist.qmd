@@ -1,0 +1,26 @@
+### 9. The AI Control Optimist *(Gap Archetype — provisional)*
+
+::: aside
+**META:** Christiano's ARC, Anthropic interpretability and evals. Agrees risk is serious; conditionally optimistic on technical tractability. May be a sub-branch of the Conditional Doomer, or a genuinely distinct cluster. Treat as provisional — surface the question of whether this belongs as a standalone archetype or should be folded into #3.
+:::
+
+*The risk is real. The control problem is probably tractable. Here's how.*
+
+**What this group believes:** AI can be catastrophically dangerous, and the probability of bad outcomes is not small. But the probability is also substantially contingent on technical progress in interpretability, oversight, and control — and that progress is achievable. This is a more specific claim than the Conditional Doomer's path-sensitivity: it pins the crux specifically on whether scalable human oversight of AI systems is technically feasible. The answer, on this view, is probably yes — with significant investment in the right research directions.
+
+**The cluster includes voices with different entry points:**
+
+- **Paul Christiano** ([METR](https://metr.org) / formerly ARC Evals) bridges this archetype and #3. His probability estimates are Conditional Doomer range; his research agenda is squarely AI Control Optimist. His core position: AI oversight that remains robust even if the AI is actively trying to subvert it is technically achievable.
+
+- **Ryan Greenblatt et al.** — ["AI Control: Improving Safety Despite Intentional Subversion"](https://arxiv.org/abs/2312.06942) (arXiv, 2023) is the clearest technical articulation: designing oversight protocols that remain effective even if the system being evaluated is attempting to appear safe while being unsafe.
+
+- **Evan Hubinger et al.** — ["Sleeper Agents"](https://arxiv.org/abs/2401.05566) (arXiv, 2024) demonstrates the scope of the problem while remaining within a framework that treats it as tractable.
+
+| | |
+|---|---|
+| **Mechanism** | Unipolar optimizer — but the response is: build oversight mechanisms that scale to that capability level |
+| **Epistemological stance** | Empirically-conditioned: confident that technical progress in interpretability and control is achievable because early results are promising |
+| **What they reject** | That the control problem is generically intractable; that governance and architectural choices alone are sufficient without technical oversight work |
+| **What would update them** | Discovery of fundamental theoretical barriers to scalable oversight; empirical evidence that AI systems can systematically deceive robust evaluation protocols |
+
+**The open question for this taxonomy:** Is this archetype genuinely distinct from #3 (Conditional Doomer)? The cruxes are related but different: #3 is about path-of-development sensitivity; #9 is specifically about whether technical oversight is achievable. A Conditional Doomer who doesn't do safety research is still #3. Someone doing active work premised on tractability is #9. The boundary may be behavioral as much as epistemic.

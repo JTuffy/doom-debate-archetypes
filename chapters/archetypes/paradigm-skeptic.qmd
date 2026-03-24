@@ -1,0 +1,22 @@
+### 7. The Capability / Paradigm Skeptic
+
+::: aside
+**META:** LeCun's position. He's not a capability-ceiling believer — he's a paradigm skeptic. Current LLMs aren't on the path to the dangerous thing. Don't let this get caricatured as "AI is safe." He has a positive research agenda (world models) and a real power-concentration concern.
+:::
+
+*Current LLMs aren't on the path to the dangerous thing. This is a paradigm claim, not a ceiling claim.*
+
+**What this group believes:** The specific failure mode that doom arguments concern — a strategically agentic, goal-directed system that acquires influence and resists correction — requires properties that current large language models don't have and aren't acquiring through scale alone. LLMs lack persistent memory, genuine world-models, causal reasoning, and autonomous goal pursuit. They are powerful predictors of text. Expressing concern about doom from *this* system class is therefore a category error. The paradigm skeptic isn't saying AI can't become dangerous — they're saying the path to dangerous AI doesn't run through scaled-up next-token prediction.
+
+**The cluster includes voices with different entry points:**
+
+- **Yann LeCun** (Meta Chief AI Scientist) is the most prominent voice. His claim is paradigm-specific: current AI is ["not even as smart as dogs or cats"](https://www.businessinsider.com/meta-yann-lecun-ai-not-as-smart-as-dogs-cats-2023-6)^[Viva Tech, Jun 2023; reaffirmed at WSJ Tech Live, Oct 2024] — and he means this technically, not rhetorically. The reference isn't to raw intelligence but to embodied understanding, intuitive physics, persistent world-models, and causal reasoning. His [world model whitepaper](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022) and JEPA architecture are the positive counterproposal. His near-term concern isn't extinction — it's power concentration by the handful of companies with sufficient compute and data.
+
+- **François Chollet** shares the paradigm skepticism from a different angle: his [ARC-AGI benchmark](https://arcprize.org) is specifically designed to probe deep reasoning that LLMs fail at, and his view is that emergent capabilities celebrated in the LLM literature are forms of sophisticated interpolation, not genuine generalization.
+
+| | |
+|---|---|
+| **Mechanism** | None from current paradigm; the dangerous failure mode requires a system class that doesn't yet exist and won't emerge from current architectures |
+| **Epistemological stance** | Empirically-conditioned: current AI behavior is strong evidence about relevant risk, because the absence of goal-directedness and world-models is directly observable |
+| **What they reject** | That LLM scaling leads to strategically agentic systems; that doom arguments about hypothetical future AI justify concern about current AI; the anthropomorphization of text prediction |
+| **What would update them** | Demonstration that LLM-scale systems exhibit genuine causal reasoning, persistent goal pursuit, or world-model-driven planning — not just better benchmark scores |

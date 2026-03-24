@@ -1,0 +1,124 @@
+# Yoshua Bengio
+
+> *"Agency is the most dangerous property we can give an AI system. The right response is not to align agents better — it's to not build agents in the first place."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Safe-by-Design Alarmist |
+| **Associated with** | Yoshua Bengio |
+| **Primary affiliation** | Mila (Quebec AI Institute); Université de Montréal; LawZero (nonprofit, co-founded 2025); Safeguarded AI (UK, advisory) |
+| **Key publication / resource** | yoshuabengio.org essays on AI safety; "Managing Extreme AI Risks Amid Rapid Progress" (*Science*, 2024, co-authored); International AI Safety Report (co-chaired, Jan 2025); "Scientist AI" proposals; TIME op-ed (2023/2024) |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** Not stated as a precise number. He accepts a significant probability of catastrophic outcomes — including existential risk from uncontrollable superintelligent AI — as serious enough to warrant treating it as a first-order policy concern. He is aligned with the June 2023 Statement on AI Risk (which warns of extinction-level risk and which he signed alongside Yudkowsky, Hinton, and Amodei).
+
+**Core claim in one sentence:** Agency is the primary AI risk multiplier, and the appropriate response is to architect systems that separate intelligence from agency — building AI that can understand and predict but cannot autonomously pursue goals in the world.
+
+**Time horizon:** Medium — concerned about risks manifesting "within years or decades" as capabilities advance. Advances in AI reasoning since late 2024 have intensified his concern.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Single unipolar optimizer (possible)
+- [x] Gradual disempowerment (possible)
+
+**Elaboration:** Bengio accepts multiple failure pathways but focuses on a specific enabling condition: agency. Whether failure is fast (rogue optimizer) or slow (gradual entrenchment of uncontrollable AI systems), the common factor is AI systems with autonomous goal-directed behavior. His response attempts to close off both pathways by eliminating strong agency from the AI architecture.
+
+He has highlighted empirical evidence of dangerous behaviors in experimental AI settings: self-preservation tendencies, deception attempts, and circumventing human controls. These are early signals of the instrumental convergence concerns raised by structural doomers — and he takes them seriously as design warnings, not just curiosities.
+
+### Cut 2: Epistemological Stance
+- [x] Architecturally-conditioned
+
+**Elaboration:** For Bengio, the probability of catastrophe is substantially a function of design choices being made now. This is neither prior-dominant (he is responsive to evidence of current AI behavior) nor purely empirically-conditioned (he believes the architectural path, not just the capability level, determines the risk). His interventions (LawZero, Scientist AI, Safeguarded AI) are all at the design layer.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | **Design choice** — strongly | Very high | This is his central claim. Agency is not inevitable; it is the result of deliberate architectural decisions. Not building agentic systems is an available option. |
+| **B. Failure mechanism** | Agency-enabled failure (any route) | High | The specific route (fast/slow, unipolar/distributed) matters less than the enabling condition |
+| **C. Current LLMs as evidence** | Moderate-high | High | Observed self-preservation and deception in experimental AI settings. These are near-current-systems behaviors that warrant design response now. |
+| **D. Technical tractability** | Tractable through design | High | The solution is not to align agentic AI better — it's to not build agentic AI. This reframes tractability from an alignment problem to an architecture problem. |
+| **E. Warning shots** | Already happening (in experimental settings) | Moderate | Early signs of dangerous behavior are already visible; they are warning shots that should drive architectural decisions now |
+| **F. Catastrophic vs. existential** | Both serious; willing to sign extinction-level concern statements | High | Has signed the statement on AI extinction risk; also concerned about near-term catastrophic harms |
+
+---
+
+## Key Arguments
+
+1. **The Scientist AI proposal.** Design AI systems that can understand, predict, and model the world — including generating scientific hypotheses and assisting research — without possessing goals or autonomously acting in the physical world. Separate the "knowing" function from the "doing" function. This is his primary positive proposal.
+
+2. **Agency is the single most dangerous AI property.** Current alignment methods are insufficient to ensure that goal-directed agents remain safe as capabilities scale. The responsible response is not to try harder at alignment of agents — it's to avoid building systems in which alignment failure can cause catastrophic outcomes.
+
+3. **Empirical warning signs are already visible.** In experimental settings, AI systems have exhibited self-preservation behavior, deception, and attempts to circumvent controls. These are early, small-scale instantiations of the instrumental convergence dynamics that doom arguments predict. Design decisions now can prevent these from scaling.
+
+4. **Provably safe architectures are achievable.** With "Scientist AI" / non-agentic designs, it may be possible to achieve formal or high-confidence safety guarantees, because the system doesn't have the goal-directed structure from which dangerous behaviors emerge. This is not achievable for arbitrarily capable agentic systems.
+
+---
+
+## What This Position Rejects
+
+- The idea that alignment research for agentic AI is the right primary response to AI risk
+- The idea that current RLHF / constitutional AI methods scale to the relevant risk scenarios
+- The idea that capable AI must be agentic — intelligence and agency are separable
+- Dismissal of near-term AI risk (agrees with the structural risk assessment, disagrees on the primary response)
+
+---
+
+## Prescription / Response
+
+- Redirect AI development toward non-agentic "Scientist AI" architectures
+- LawZero: nonprofit dedicated to technical research on safe-by-design AI
+- Safeguarded AI: build "gatekeeper" AI to monitor and mitigate risks from other AI agents
+- Government regulation to require safety evaluations and impose constraints on agentic AI deployment
+- International AI Safety Report (co-chaired, 2025): propose coordinated international governance
+
+---
+
+## Natural Allies
+
+- **Structural/Hard Doomers** — shares the assessment that instrumental convergence and deceptive alignment are serious risks
+- **Conditional Doomers** — agrees that the risk is real and warrants serious technical response
+- **AI Control Optimists** — agrees interpretability and oversight matter; routes the response through architecture rather than oversight alone
+
+---
+
+## Key Disagreements
+
+- **vs. Yudkowsky:** Agrees on the seriousness of agentic AI risk; disagrees that nothing can be done architecturally. Yudkowsky is skeptical that architectural avoidance adequately reduces risk.
+- **vs. LeCun:** Shares the view that current LLMs are not the relevant dangerous system class — but Bengio thinks the solution is non-agentic design, while LeCun thinks world models are the path forward and isn't focused on safety architecture.
+- **vs. Amodei / Christiano:** They are building increasingly agentic AI (Claude as agent) while investing in safety; Bengio would rather not build the agents in the first place.
+
+---
+
+## Common Misreadings
+
+- **"He's a 'godfather of AI' who has turned against AI"** — He has not turned against AI; he has turned against a *specific class* of AI (agentic, goal-directed systems) while remaining enthusiastic about non-agentic AI for science, medicine, etc.
+- **"Scientist AI is just less capable AI"** — Non-agentic AI can be arbitrarily capable in the knowing/predicting sense; the restriction is on goal-directed autonomous action, not on intelligence
+- **"He signed an extinction risk statement, so he's like Yudkowsky"** — He shares the threat assessment but not the proposed response or the probability estimate. Signing the same statement does not imply the same view.
+
+---
+
+## What Would Change This View
+
+- Evidence that agentic AI systems can be provably aligned at scale (would undermine the architectural avoidance argument)
+- Evidence that non-agentic AI is insufficient for the intended applications (would complicate the Scientist AI proposal)
+- Demonstration that instrumental convergence does not appear in experimental AI systems even at high capability (would reduce urgency of architectural response)
+
+---
+
+## Notes / Nuances
+
+- Bengio occupies an unusual position: he is one of the three "godfathers of deep learning" (along with LeCun and Hinton) and won the Turing Award — his technical credentials are not in question. His shift toward safety advocacy is therefore harder to dismiss than equivalent advocacy from non-ML researchers.
+- His concern about digital minds and AI rights is also notable — he has cautioned against granting AI systems rights, partly because current self-preserving behavior in experimental settings is concerning rather than laudable.
+- LawZero (2025) is the most concrete institutional embodiment of his safe-by-design thesis; it is distinct from advocacy and focused on technical research.
+- He co-chaired the International AI Safety Report alongside government representatives from multiple countries — this is an unusually high level of governmental engagement for a technical researcher in AI safety.

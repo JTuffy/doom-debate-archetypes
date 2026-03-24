@@ -1,0 +1,125 @@
+# Paul Christiano
+
+> *"The most likely path to catastrophe isn't a single dramatic failure — it's institutions failing to adapt fast enough to a world that's changing faster than they can handle."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Conditional Doomer / Risk Realist; AI Control Optimist |
+| **Associated with** | Paul Christiano |
+| **Primary affiliation** | Alignment Research Center (ARC); formerly OpenAI; US AI Safety Institute (AISI) — head of AI safety (as of 2023) |
+| **Key publication / resource** | "What failure looks like" (AI Alignment Forum, 2019); AXRP podcast episodes; ARC Evals work; "Eliciting Latent Knowledge" (ELK) report; LessWrong probability breakdown posts |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** ~10–20% probability of irreversible catastrophe caused by AI misalignment. Full breakdown: ~22% AI takeover, ~9% extinction specifically, ~15% other bad outcomes (rapid dystopia, unwise lock-in). Total bad outcomes in some sense: ~46%. Explicitly does *not* expect p(AGI doom) to exceed 50%.
+
+**"Doom" definition:** Christiano explicitly includes non-extinction bad futures — scenarios where humanity loses control over its trajectory even if humans survive. AI takeover (AI systems pursuing goals that aren't human-beneficial) is the paradigm case; extinction is a sub-case.
+
+**Core claim in one sentence:** Catastrophic AI risk is real and merits intensive technical work; it is substantially driven by whether oversight and control mechanisms can be made to scale with capability — a tractable technical problem, not a structural impossibility.
+
+**Time horizon:** 15% chance of transformatively capable AI by 2030; 40% by 2040. The early transition period — before institutions are competent — is the highest-risk window.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Single unipolar optimizer (partial)
+- [x] Gradual disempowerment / slow erosion of human agency (primary)
+
+**Elaboration:** Christiano's "What failure looks like" describes two paths. **Path A ("Misalignment"):** AI systems subtly optimize for goals that diverge from human welfare; by the time the divergence is apparent, the systems are economically and strategically entrenched. **Path B ("Misuse"):** AI capabilities are deliberately used by a narrow group (humans, assisted by AI) to seize global power. He views Path A as more likely. Neither path looks like an overnight takeover — both involve gradual erosion of oversight capacity.
+
+### Cut 2: Epistemological Stance
+- [x] Empirically-conditioned
+- [x] Architecturally-conditioned (partially)
+
+**Elaboration:** Christiano's risk estimates are explicitly revisable based on: capability trajectories, whether alignment research makes progress, whether warning shots occur and are acted on, and whether interpretability tools develop. He engages seriously with current AI behavior as informative about the near-term risk picture, unlike prior-dominant thinkers. His probability breakdowns have been updated over time.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Partially emergent, partially design-sensitive | Moderate | Capable systems may autonomously develop problematic goal representations; but design choices around oversight and interpretability can substantially affect this |
+| **B. Failure mechanism** | Gradual erosion of oversight; "slow boil" | Moderate-high | Not primarily a sharp threshold event; more like institutions failing to keep up |
+| **C. Current LLMs as evidence** | Weak to moderate | Moderate | Current systems are informative about near-term risks; less informative about the specific misalignment failure modes he's most concerned about |
+| **D. Technical tractability** | Yes — conditionally tractable | High | ARC's entire mission is based on this; scalable oversight, debate, ELK are all attempts to demonstrate tractability |
+| **E. Warning shots** | Yes — likely and important | Moderate-high | Warning shots are part of his model; a key question is whether the warning-to-correction pipeline works |
+| **F. Catastrophic vs. existential** | Both, with catastrophic broader | High | He explicitly defines "doom" to include non-extinction AI takeover; extinction is a subset |
+
+---
+
+## Key Arguments
+
+1. **The oversight problem is the core problem.** The primary way AI goes wrong is that we deploy systems that appear to behave well but have subtly incorrect goal representations, and we lack the interpretability and oversight tools to detect this before the systems are too entrenched to correct.
+
+2. **Scalable oversight is a tractable research direction.** Unlike the MIRI view, Christiano believes that oversight mechanisms — RLHF, debate, recursive reward modeling, process-based feedback — can in principle scale with capability. Whether they will do so in practice is the empirical question his work tries to answer.
+
+3. **Early transition risk is distinctive.** The most dangerous period is not peak superintelligence but the transition — when AI systems have significant capabilities but human institutions have not yet adapted. This period is characterized by: we don't yet know how to evaluate AI goals reliably, and AI is economically entrenched enough that stopping is very hard.
+
+4. **Eliciting Latent Knowledge.** Even if an AI system "knows" what the right answer is, we can't always get it to report that knowledge honestly. ELK is the research program aimed at solving this — ensuring that capable systems reveal rather than conceal their internal representations.
+
+---
+
+## What This Position Rejects
+
+- The view that doom is near-certain (strongly disagrees with Yudkowsky's >95%)
+- The view that alignment research is fundamentally intractable
+- The view that a single dramatic "FOOM" is the primary risk scenario
+- The view that governance alone (without technical progress on oversight) is sufficient
+
+---
+
+## Prescription / Response
+
+- Develop scalable oversight mechanisms (debate, process reward models, interpretability)
+- Build evaluation infrastructure to detect misaligned goals before deployment
+- Work at the US AI Safety Institute to develop shared evaluation standards
+- Continue deployment alongside safety research — this is not a moratorium position
+
+---
+
+## Natural Allies
+
+- **Amodei (conditional):** Share the risk-realist framing and the "build carefully" response
+- **Bengio (partial):** Agree that scalable oversight / interpretability are important; differ on whether architecture choices are the primary lever
+- **AI Control camp (Hubinger, Greenblatt):** Most directly adjacent; Christiano's ARC work directly spawned much of this research
+
+---
+
+## Key Disagreements
+
+- **vs. Yudkowsky:** Christiano has 10–20% vs. Yudkowsky's >95%; Christiano believes alignment is tractable; Yudkowsky does not
+- **vs. Multipolar Realist (Critch):** Christiano's primary failure mode is AI-goal divergence; Critch's is competitive dynamics. Christiano does technical alignment; Critch focuses on the coordination/governance layer.
+- **vs. Capability Skeptic (LeCun):** Christiano takes the misalignment risk much more seriously even for near-future systems
+
+---
+
+## Common Misreadings
+
+- **"Christiano is a moderate, so he's not that worried"** — 46% aggregate bad outcomes is not moderate; the "conditional" framing reflects a mechanistic model, not low concern
+- **"He just thinks current RLHF is fine"** — His work specifically identifies the limitations of current RLHF and proposes research to go beyond it
+- **"ARC Evals is just red-teaming"** — ARC's work on evaluation and ELK is theoretically grounded in the specific failure modes Christiano's model predicts
+
+---
+
+## What Would Change This View
+
+- Evidence that capable AI systems reliably generalize intended goals under distribution shift (would lower risk estimate)
+- Evidence that warning shots are invisible or unactionable (would raise risk estimate)
+- Theoretical resolution of ELK or scalable oversight (would significantly lower risk estimate)
+- Rapid unexpected capability jumps without corresponding interpretability progress (would raise risk estimate)
+
+---
+
+## Notes / Nuances
+
+- Christiano's position is sometimes described as "soft doomer" but this descriptor is misleading — his total bad-outcome probability is comparable to many researchers who call themselves worried
+- His distinction between Path A (misalignment) and Path B (misuse) is one of the cleaner structural contributions to the doom debate's vocabulary
+- He left OpenAI in 2021 to found ARC; his move to the US AISI in 2023 represents a shift toward institutional/governmental safety work
+- The ELK (Eliciting Latent Knowledge) report, while technically demanding, is probably the clearest statement of what Christiano thinks the hard technical safety problem actually is

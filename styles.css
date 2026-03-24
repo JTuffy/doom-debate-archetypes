@@ -1,0 +1,78 @@
+/* dd-post — custom styles for Quarto HTML output */
+
+/* Aside / margin note styling */
+.column-margin {
+  font-size: 0.82em;
+  color: #555;
+  border-left: 2px solid #ccc;
+  padding-left: 0.75em;
+  font-style: italic;
+  overflow: visible;
+  max-height: none;
+}
+
+/* META aside blocks get a distinct tint */
+aside.meta-note {
+  background: #f8f5ee;
+  border-left: 3px solid #c8a84b;
+  border-radius: 2px;
+  padding: 0.5em 0.75em;
+  font-size: 0.80em;
+  color: #4a4030;
+}
+
+/* Portrait tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.2em 0;
+  font-size: 0.94em;
+}
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.55em 0.8em;
+  vertical-align: top;
+}
+td:first-child {
+  font-weight: 600;
+  width: 30%;
+  background: #f9f9f9;
+}
+
+/* Archetype portrait headers */
+h3 {
+  margin-top: 2.2em;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.2em;
+}
+
+/* Taglines */
+p em:first-child {
+  display: block;
+  font-size: 1.0em;
+  color: #333;
+  margin-bottom: 0.6em;
+}
+
+/* Citation footnotes in margin */
+.footnote-ref {
+  font-size: 0.8em;
+  vertical-align: super;
+}
+
+/* Hide scrollbar on TOC sidebar and margin sidebar */
+#quarto-sidebar,
+#quarto-margin-sidebar,
+.quarto-sidebar-toggle-contents {
+  scrollbar-width: none; /* Firefox */
+}
+#quarto-sidebar::-webkit-scrollbar,
+#quarto-margin-sidebar::-webkit-scrollbar,
+.quarto-sidebar-toggle-contents::-webkit-scrollbar {
+  display: none; /* Chrome / Safari */
+}
+
+/* Suppress headroom.js floating TOC toggle — sidebar TOC already covers this */
+#quarto-toc-toggle {
+  display: none !important;
+}

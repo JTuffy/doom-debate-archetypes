@@ -1,0 +1,79 @@
+---
+title: "Archetypes of the Doom Debate"
+subtitle: "Mapping AI Risk Viewpoints"
+date: "March 2026"
+author: "[Author TBD]"
+---
+
+::: {.callout-note collapse="true" title="Document Meta — read this first"}
+This document is a structured draft for a LessWrong post mapping viewpoints in the AI doom debate. The meta notes throughout are **permanent structural documentation** — they explain why each section is shaped the way it is and what to resist when writing. Never delete or shorten them. In this Quarto format, meta notes appear as margin asides when rendered.
+
+**Structure:**
+
+- **§I — Why This Map Exists:** The hook. 3 paragraphs. Creates the problem the post solves.
+- **§II — The Underlying Axes:** The scaffold. Five cross-cutting axes that prime the reader before portraits.
+- **§III — The Archetypes:** Seven portrait-shaped fingerprints of distinct view clusters. Uniform shape by design.
+- **§IV — Three Cuts:** Regroupings of the seven archetypes by mechanism, epistemological stance, and core crux.
+- **§VI — What This Map Is Good For:** Brief closing. What the map does, doesn't do, points toward.
+
+**Writing discipline:** All portraits must have inline links. p(doom) numbers must cite where they were stated and specify what definition of doom applies. `[CITATION NEEDED: ...]` markers stay until resolved.
+:::
+
+---
+
+## I. Why This Map Exists
+
+::: aside
+**META:** Short. 2–3 paragraphs max. Create the problem the post solves — don't summarize the archetypes. Three beats: the frustrating observation → the non-obvious thesis → what this post does and doesn't do. The "but you didn't take a side" objection is forestalled in beat 3. Author locates position in §V.
+:::
+
+The debate about AI risk is loud and getting louder. What it isn't, mostly, is legible. Consider: Yoshua Bengio and Eliezer Yudkowsky share the same threat model almost entirely — both believe a sufficiently capable AI system with misaligned goals, acting in the world, would be catastrophic. One of them thinks the right response is to avoid building agentic systems. The other thinks that won't work and wants a global moratorium enforced by treaty. They agree on the danger and disagree violently on the prescription, and a conversation between them would look, from the outside, like a disagreement about whether AI is dangerous. It isn't. It's a disagreement about whether architecture choices can foreclose the dangerous trajectory. These are not the same question.
+
+Or consider: someone with 22% p(doom) and someone with 2% p(doom) can have incompatible disagreements and also almost no disagreements at all, depending on which 22% and which 2% they're talking about. The question "what's your p(doom)?" almost never locates the actual disagreement.
+
+This is partly vibes, yes. But there's a structural reason too: the debate is not one-dimensional. It isn't a line running from "not worried" to "very worried" where more information moves you left or right. It's a space with several independent axes — about what kind of AI system is dangerous, about whether powerful agency emerges by default or requires deliberate design, about whether the failure mode is one system winning or many systems and actors collectively producing a catastrophe nobody designed, about whether current AI behavior is evidence about the relevant risk or a distractor from it, and about what "doom" even means. People who look superficially close in p(doom) are sometimes making entirely different causal claims, and people who look far apart are sometimes disagreeing about very little.
+
+This post draws a map. It doesn't say who's right. A map of a debate isn't useful because it picks winners — it's useful because it shows where the actual disagreements are, which makes them addressable. The seven archetypes and five axes below are an attempt at that. But the framework comes first.
+
+---
+
+{{< include chapters/axes.qmd >}}
+
+---
+
+{{< include chapters/archetypes/intro.qmd >}}
+
+{{< include chapters/archetypes/hard-doomer.qmd >}}
+
+---
+
+{{< include chapters/archetypes/structural-doomer.qmd >}}
+
+---
+
+{{< include chapters/archetypes/conditional-doomer.qmd >}}
+
+---
+
+{{< include chapters/archetypes/multipolar.qmd >}}
+
+---
+
+{{< include chapters/archetypes/gradualist.qmd >}}
+
+---
+
+{{< include chapters/archetypes/safe-by-design.qmd >}}
+
+---
+
+{{< include chapters/archetypes/paradigm-skeptic.qmd >}}
+
+---
+
+{{< include chapters/cuts.qmd >}}
+
+---
+
+{{< include chapters/utility.qmd >}}
+

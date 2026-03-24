@@ -1,0 +1,122 @@
+# Dario Amodei
+
+> *"I think there's something like a 25% chance things go really, really badly. That's a lot. And the responsible answer to that is not to stop — it's to try to be the ones who get there first, carefully."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Conditional Doomer / "Build Carefully" |
+| **Associated with** | Dario Amodei |
+| **Primary affiliation** | Anthropic (co-founder and CEO); formerly OpenAI (VP Research) |
+| **Key publication / resource** | "Machines of Loving Grace" essay (Anthropic, 2024); various public interviews; Anthropic's "Responsible Scaling Policy" and "Claude's Soul" document |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** ~10–25% personal estimate; publicly stated ~25% chance of "things going really, really badly." "Doom" is not precisely defined but includes catastrophic societal disruption, severely misused/runaway AI, and existential-class outcomes. Amodei does *not* primarily frame his concern as extinction — he focuses more on misuse and near-term catastrophic harm.
+
+**Core claim in one sentence:** Advanced AI is probably coming very soon (possibly within 1–2 years at smarter-than-Nobel-laureate level), carries genuine catastrophic risk that deserves a 25% weight, and the best response is to build it as carefully as possible at the frontier rather than cede that position to less safety-conscious actors.
+
+**Time horizon:** Very short. Amodei (early 2026) has stated that AI smarter than a Nobel-laureate-level researcher across all fields could arrive within 1–2 years. This is among the most aggressive near-term timelines of any major lab leader.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Human misuse of AI capabilities (primary, near-term concern)
+- [x] Single optimizer / gradual erosion (secondary, longer-term)
+
+**Elaboration:** Amodei's most recently stated primary concern is **misuse**: AI enabling malicious actors to synthesize bioweapons or gain access to "esoteric, uncommon knowledge" — by 2025–2026. This is explicitly not about AI systems acting autonomously. The longer-run concern is more Christiano-style: AI systems entrenched before oversight is adequate. Importantly, his institutional response (Anthropic's safety research) addresses both, but the public communication has shifted toward near-term misuse as the most proximate threat.
+
+### Cut 2: Epistemological Stance
+- [x] Empirically-conditioned
+- [x] Architecturally-conditioned (via Responsible Scaling Policy)
+
+**Elaboration:** Amodei tracks capability progress empirically and updates his views accordingly. Anthropic's Responsible Scaling Policy commits to evaluating each new model generation's capabilities and safety before deploying — this is an architecturally/empirically conditioned approach to risk. He's notably willing to update timelines (and has, toward shorter) based on observed progress.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Both; design-sensitive | Moderate | Anthropic builds agentic systems (Claude as agent) while investing in safety; this implies design choices matter but agency is increasingly default |
+| **B. Failure mechanism** | Misuse (near-term); gradual erosion (long-term) | Moderate-high | Explicit in recent interviews that bioweapon misuse is the proximate concern |
+| **C. Current LLMs as evidence** | Strong | High | Current LLMs are approaching the relevant capability class in Amodei's timeline; he treats present systems as meaningfully dangerous |
+| **D. Technical tractability** | Tractable — Anthropic's bet | High | Anthropic's entire existence is premised on safety research being tractable enough to make meaningful progress |
+| **E. Warning shots** | Ongoing — some already here | Moderate | Misuse concerns are already partially manifesting; this is not strictly a future-warning scenario |
+| **F. Catastrophic vs. existential** | Primarily catastrophic; existential possible | Moderate | The 25% estimate includes a range of bad outcomes, not just extinction |
+
+---
+
+## Key Arguments
+
+1. **The "race to the top" logic.** If powerful AI is going to be built regardless, it is better to have safety-conscious organizations at the frontier than to cede that position. Stopping development at safety-focused labs would not stop development overall — it would just shift who leads.
+
+2. **Near-term misuse is the most proximate catastrophic risk.** Before longer-run alignment failure scenarios materialize, AI may enable malicious actors to cause mass harm through bioweapons or cyberattacks. This is a concern on the timescale of years, not decades.
+
+3. **Responsible Scaling Policy as operationalized caution.** Anthropic has committed to evaluation gates before each new capability tier: if a model reaches certain dangerous capability thresholds, it will not be deployed until safety work is adequate. This is a practical operationalization of contingent development.
+
+4. **The positive case is extraordinary.** "Machines of Loving Grace" (2024) lays out Amodei's vision of what AI could do for biology, medicine, and human welfare. The upside potential is large enough to warrant continuing rather than halting — if the risk can be managed.
+
+---
+
+## What This Position Rejects
+
+- Unilateral moratorium / global halt (rejects as unenforceable and counterproductive given race dynamics)
+- The view that current LLMs are already safe enough to deploy without ongoing safety investment
+- Pure capability-skeptic dismissal of near-term catastrophic risks
+- The view that governance alone (without technical safety work) is sufficient
+
+---
+
+## Prescription / Response
+
+- Build at the frontier with robust safety evaluation gates (Responsible Scaling Policy)
+- Invest ~20%+ of compute/resources in safety research alongside capability development
+- Engage government regulators to establish shared standards for evaluation
+- Push for international coordination on the most dangerous capability thresholds (bioweapons uplift, cyberattack capabilities)
+
+---
+
+## Natural Allies
+
+- **Christiano** — share the conditional risk realist framing; Christiano did foundational technical work at Anthropic before ARC
+- **Bengio (partial)** — agree on the seriousness of near-term AI risk; differ on whether to build at all
+- **Conditional Doomer cluster generally** — similar probability estimates and non-moratorium conclusion
+
+---
+
+## Key Disagreements
+
+- **vs. Yudkowsky:** Amodei disagrees that the responsible answer is a halt; his "race to the top" logic is something Yudkowsky explicitly rejects
+- **vs. LeCun:** Amodei takes current systems much more seriously as approaching the dangerous capability class
+- **vs. Critch:** Amodei's near-term concern is misuse by humans; Critch's is structural competitive dynamics — different failure mechanisms even with adjacent concern levels
+
+---
+
+## Common Misreadings
+
+- **"He's just saying scary things for press attention"** — Anthropic's institutional actions (safety research investment, RSP, government engagement) are consistent with genuine belief
+- **"He contradicts himself by building"** — The "race to the top" logic is explicitly his answer to this; you can think the risk is 25% and still conclude that careful building is better than ceding the frontier
+- **"Anthropic is just OpenAI with better PR"** — Anthropic has produced genuinely distinctive safety research (constitutional AI, mechanistic interpretability, RSP structure)
+
+---
+
+## What Would Change This View
+
+- Evidence that race dynamics are more controllable than assumed (would make the halt-vs-build tradeoff different)
+- Evidence that safety research is not keeping pace with capabilities (would push toward more restrictive policy)
+- Evidence that misuse risk is closer or further than expected (has already updated his timeline toward shorter)
+
+---
+
+## Notes / Nuances
+
+- Amodei is in an unusual position: he genuinely believes there's a 25% chance of catastrophe and is also one of the people most rapidly advancing capabilities. This is sometimes read as hypocrisy; he reads it as the most responsible available choice.
+- "Machines of Loving Grace" is a deliberately hopeful counterpoint to doom-forward AI commentary. But Amodei explicitly says it's contingent on AI development going well, not an unconditional prediction.
+- The distinction between Amodei and Christiano: Christiano's primary frame is the structural alignment problem (what if systems develop wrong goals?); Amodei's primary near-term frame is misuse (what if humans use these tools for destructive purposes?). Both care about both, but the emphasis differs.
+- Anthropic was founded specifically because Amodei and others disagreed with OpenAI's leadership about safety prioritization — the institutional choice reflects the risk belief, not the other way around.

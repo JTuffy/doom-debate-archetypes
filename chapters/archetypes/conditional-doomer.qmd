@@ -1,0 +1,22 @@
+### 3. The Conditional Doomer / Risk Realist
+
+::: aside
+**META:** Most important archetype to get right — most commonly mislabeled as "moderate." Christiano's numbers aren't moderate. He has a different mechanism. The key is that conditional doomers think catastrophe is plausible-to-likely but not necessarily via a single clean unipolar event. "Conditional" refers to path-sensitivity, not to low concern.
+:::
+
+*High risk, less brittle failure model. A 22% chance of AI takeover is not a conservative estimate.*
+
+**What this group believes:** Catastrophic or existential risk from AI is real, and in some versions of this cluster, quite high. What distinguishes this view from the Hard and Structural Doomer is not lower concern — it's a less brittle failure model. This cluster allows for uneven progress, partial warning shots, gradual entrenching of dangerous systems, and paths where institutions *almost* adapt but not quite. Doom, on this view, doesn't require a single clean threshold.
+
+**The cluster includes voices with different entry points:**
+
+- **Paul Christiano** puts the probability of AI-caused irreversible catastrophe at roughly 22% AI takeover (15% by systems we build, 7% by systems those build), [with ~11% chance most humans die](https://www.alignmentforum.org/posts/a392MCzsGXAZP88Sq/my-views-on-doom), with additional mass on lesser bad outcomes. His concern centers on *early transition risks* — the window before human institutions are competent to manage advanced AI. Warning shots are possible and could be actionable; the question is whether they would be.
+
+- **Dario Amodei** updated his p(doom) to [25% in an October 2025 Axios interview](https://www.axios.com/2025/10/01/dario-amodei-anthropic-pdoom-25-percent) (previously 10–25%). His most publicly prominent near-term concern is misuse — specifically, AI lowering the barrier to catastrophic bioweapon synthesis. This differs from Christiano's emphasis: Amodei's primary risk is less about AI systems behaving unexpectedly and more about humans using AI capabilities to do catastrophic things intentionally.
+
+| | |
+|---|---|
+| **Mechanism** | Mixed and path-dependent: includes both unipolar optimizer scenarios and misuse by actors, with probability distributed across trajectories |
+| **Epistemological stance** | Empirically-conditioned: probability is substantially revisable based on capability trajectories, warning shots, and alignment progress over the next few years |
+| **What they reject** | That doom is necessarily a single invisible threshold event; that warning shots are impossible; that current technical safety work is irrelevant to the outcome |
+| **What would update them** | A period of capability gains with no concerning misalignment signals; credible interpretability breakthroughs; demonstrated alignment techniques that scale; or conversely, an early warning shot that triggers serious policy response |

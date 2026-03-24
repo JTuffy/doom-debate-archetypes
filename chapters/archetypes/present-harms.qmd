@@ -1,0 +1,24 @@
+### 8. The Present-Harms / Power-Critique Realist
+
+::: aside
+**META:** Sits "outside" the standard doom frame but matters for completeness and for what it implies about the taxonomy itself. If doom includes severe systematic harm through already-deployed systems, this view is already inside the debate. Don't treat this as a token inclusion — it raises a real definitional challenge. Who counts as representative here is sensitive; avoid the identity-politics read.
+:::
+
+*The catastrophe isn't coming. It's already being distributed.*
+
+**What this group believes:** The framing of AI risk as a future speculative danger systematically underweights harm that is already occurring and already being scaled. Bias in hiring, lending, and criminal justice. Surveillance infrastructure that targets marginalized populations. Labor displacement without redistribution. Epistemic pollution at scale. Power concentration in a handful of companies. These aren't precursors to doom — they are doom for the people already experiencing them. Positioning them as lesser concerns relative to speculative extinction scenarios is itself a contested political choice, not a neutral epistemic one.
+
+**The cluster includes voices with different entry points:**
+
+- **Kate Crawford** (*[Atlas of AI](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/)*, Yale 2021) provides the foundational political-economy critique: AI systems are not neutral technologies but are embedded in — and reproduce — existing structures of power, extraction, and labor exploitation.
+
+- **Timnit Gebru** ([DAIR Institute](https://www.dair-institute.org/)) and Emily Bender et al. (["Stochastic Parrots"](https://dl.acm.org/doi/10.1145/3442188.3445922), FAccT 2021) argue specifically that the emphasis on speculative long-term risk actively crowds out resources, attention, and regulatory energy from near-term harms to real people right now. This is a resource-allocation argument as much as a risk-framing one.
+
+| | |
+|---|---|
+| **Mechanism** | Compounding present harms and power concentration — current structural dynamics already entrenched and already scaling |
+| **Epistemological stance** | Political-economy-first: the relevant evidence is sociological, empirical, and distributional — who is harmed, by what systems, under whose governance |
+| **What they reject** | That speculative extinction risk warrants priority over documented present harms; that "AI doom" requires the absence of an already-existing catastrophe; that AI risk discourse is politically neutral |
+| **What would update them** | Governance structures that address present harms at least as urgently as speculative future ones; evidence that long-term risk discourse is not systematically crowding out near-term harm reduction |
+
+**The definitional challenge for the map:** This archetype implies a different definition of doom. If doom = severe systematic harm to large numbers of people right now, this view is already *inside* the debate, not adjacent to it. That's a challenge to how the taxonomy is framed, and worth naming explicitly.

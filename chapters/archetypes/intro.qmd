@@ -1,0 +1,22 @@
+## III. The Archetypes
+
+::: aside
+**META:** Portrait gallery. Each entry is a concise fingerprint, not a full essay. Order moves from most structurally familiar → most defamiliarizing. Uniform portrait shape is a design choice: forces comparison, resists the urge to give more space to views you find compelling.
+:::
+
+### Portrait Shape
+
+::: aside
+**META (structure):** This shape is a design constraint, not a template. Fields are fixed — do not add rows to the table. The defamiliarizing observation is optional and should only appear when there's a genuine surprise worth naming.
+:::
+
+> *[Tagline — one sentence, punchy, in italics]*
+
+**What they believe:** [2–3 sentences — core view, what's distinctive]
+
+| | |
+|---|---|
+| **Mechanism** | [Which failure mechanism from Axis 3] |
+| **Epistemological stance** | [Which stance from Axis 4] |
+| **What they reject** | [1–2 things neighboring views believe that this position denies] |
+| **What would update them** | [Evidence or argument that would move this position] |

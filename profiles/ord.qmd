@@ -1,0 +1,126 @@
+# Toby Ord
+
+> *"We are at a peculiar moment — perhaps the most important in all of human history. And we are not treating it that way."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Global Catastrophic Risk (GCR) Framer — sits between Structural Doomer and Conditional Doomer |
+| **Associated with** | Toby Ord |
+| **Primary affiliation** | Future of Humanity Institute, Oxford (now closed); Oxford Population Ethics; Senior Research Fellow |
+| **Key publication / resource** | *The Precipice: Existential Risk and the Future of Humanity* (Hachette, 2020); "Existential Risk and Existential Hope" (FHI working paper) |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** *The Precipice* (2020) assigns approximately **10% probability** to AI-related existential catastrophe in the next century. This is a considered estimate that separates AI risk from other GCRs (total estimated existential risk: ~16–17%, with AI the dominant component at ~10%).
+
+**"Doom" definition:** Ord uses "existential catastrophe" to mean: (1) extinction of humanity, or (2) permanent and drastic curtailment of humanity's long-run potential. He explicitly distinguishes this from merely catastrophic events, however terrible. This is a stricter definition than Critch's "industrial dehumanization" and a broader one than pure extinction.
+
+**Core claim in one sentence:** Humanity is passing through a "precipice" — a particularly dangerous period in which our technological power has outrun our wisdom and institutions — and AI is the dominant risk in that portfolio, warranting much more serious institutional attention than it currently receives.
+
+**Time horizon:** The 10% figure covers "the next century." He does not commit to specific near-term predictions about AGI timelines. The defining temporal claim is that *now* is the precipice period — not a specific year of catastrophe.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Single unipolar optimizer (possible)
+- [x] Multipolar / competitive dynamics (possible)
+- [x] Misuse (possible)
+
+**Elaboration:** Ord's GCR framing is explicitly agnostic across failure mechanisms. *The Precipice* treats AI risk as a portfolio of possible failure modes rather than a single dominant mechanism. He engages seriously with misaligned AI, race dynamics, and deliberate misuse as three distinct contributors to the ~10% figure. This is more portfolio-theoretic than most other positions in the taxonomy.
+
+### Cut 2: Epistemological Stance
+- [x] Empirically-conditioned
+- [x] Decomposition-first (partially)
+
+**Elaboration:** Ord grounds his probability estimates in historical base rates of catastrophe, expected value calculations, and expert surveys. He is not prior-dominant — his estimates are explicitly revisable and he treats the question as empirical. He also engages in decomposition: separating AI risk from other GCRs, and separating AI failure modes from each other.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Uncertain; takes the concern seriously | Moderate | Engages with the technical arguments from *Superintelligence* without committing fully |
+| **B. Failure mechanism** | Portfolio across mechanisms | Moderate | His 10% is not attached to a single failure mode |
+| **C. Current LLMs as evidence** | Weak to moderate | Moderate | Current systems are informative for near-term timelines; he is tracking the field |
+| **D. Technical tractability** | Uncertain; possibly tractable | Moderate | Does not share MIRI's pessimism, but also does not share ARC's optimism; treats as open |
+| **E. Warning shots** | Possible; not reliable | Moderate | The precipice framing implies the dangerous period may overlap with the warning period |
+| **F. Catastrophic vs. existential** | Existential (strictly defined) | High | His 10% is specifically for existential catastrophe, not merely catastrophic harm |
+
+---
+
+## Key Arguments
+
+1. **The precipice as a historical concept.** Ord argues that humanity is passing through a brief but uniquely dangerous period in which our capability to cause catastrophe has grown faster than our wisdom to avoid it. This is not a permanent condition but a transition. The key question is whether we navigate it successfully.
+
+2. **Portfolio of existential risks.** AI at ~10% is the dominant risk, but Ord also catalogs nuclear war (~0.1%), engineered pandemic (~0.3%), climate change (~0.1%), and other GCRs. The aggregate ~16–17% is a meaningful probability of existential catastrophe within a century. This framing places AI in a broader empirical context.
+
+3. **Expected value argument for prioritization.** Even if the probability of existential catastrophe is "only" 10%, the expected cost in terms of lost human potential (all future generations, potentially trillions of people and other beings) is enormous. This justifies treating GCR reduction as among the most important questions a society can address.
+
+4. **The long-run perspective.** Ord's concern is not primarily about the humans alive today but about all the descendants who might exist if humanity navigates the precipice successfully. This is the longtermist foundation of his analysis.
+
+---
+
+## What This Position Rejects
+
+- Treating AI risk as either clearly manageable or clearly catastrophic without careful probability calibration
+- Ignoring AI risk in favor of more immediate-seeming concerns
+- The view that extinction risk requires near-certainty to motivate serious action (10% is plenty)
+
+---
+
+## Prescription / Response
+
+- Invest substantially in existential risk research and reduction
+- Build institutions for long-run civilizational risk management
+- International coordination on the most dangerous AI development thresholds
+- Treat the precipice as an all-of-society challenge, not just a research question
+
+---
+
+## Natural Allies
+
+- **Conditional Doomers (Christiano, Amodei)** — overlapping probability range and non-fatalistic framing
+- **Structural Doomers** — takes *Superintelligence*-style arguments seriously as contributors to the 10%
+- **Multipolar Realists** — race dynamics are part of his AI risk portfolio
+- **Katja Grace** — shares the empirically-grounded, portfolio-theoretic approach
+
+---
+
+## Key Disagreements
+
+- **vs. Yudkowsky:** Ord's 10% is dramatically lower than Yudkowsky's >95%. Ord also does not treat doom as near-certain-absent-heroic-intervention.
+- **vs. LeCun:** Ord takes AI existential risk seriously at the 10% level; LeCun dismisses it effectively to 0% for current paradigms.
+- **vs. Present-Harms Realists:** Ord's concern is specifically existential; he does not dispute present harms but his analysis is focused on extinction-class outcomes.
+
+---
+
+## Common Misreadings
+
+- **"He's just a philosopher doing speculative ethics"** — *The Precipice* engages extensively with empirical evidence, historical base rates, and expert surveys; it is not purely speculative
+- **"10% is low, so he's not really worried"** — 10% probability of existential catastrophe is an enormous number; Ord uses the expected-value frame to show that even low probabilities justify major intervention
+- **"He's EA and therefore X"** — Ord is a founder of the EA movement but his risk analysis in *The Precipice* is intended to stand independently of EA's broader commitments
+
+---
+
+## What Would Change This View
+
+- Technical evidence about AI capability trajectories that substantially shifts the expected timing and severity of AI risks
+- Track record on AI safety research demonstrating meaningful progress on the hard problems
+- Evidence that coordination mechanisms are more or less tractable than assumed
+
+---
+
+## Notes / Nuances
+
+- Ord is somewhat distinctive in the discourse because he takes AI risk seriously *without* coming from either the rationalist/EA community or from inside AI research. His background is moral philosophy and population ethics.
+- *The Precipice* is probably the most accessible and carefully argued book-length treatment of existential risk; it is widely read outside the AI safety bubble
+- His 10% estimate for AI specifically is often underappreciated as evidence that serious, careful, non-MIRI thinkers assign meaningful probability to AI existential risk
+- FHI was closed by Oxford in 2024. This represents a significant institutional loss for the existential risk research field, though Ord and others continue their work independently or at other institutions
+- Ord explicitly distinguishes human extinction from "permanent curtailment of long-run potential" — the latter includes scenarios like global totalitarianism enabled by AI, which would be existentially bad even if humans survive

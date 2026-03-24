@@ -1,0 +1,121 @@
+# Katja Grace
+
+> *"The disagreement among AI experts is not whether AI is risky. It is whether the risk is 1% or 20%. That is not a small disagreement."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Gradualist Forecaster / Epistemic Hygienist |
+| **Associated with** | Katja Grace |
+| **Primary affiliation** | AI Impacts (founder and lead researcher) |
+| **Key publication / resource** | "Thousands of AI Authors on the Future of AI" (AI Impacts survey, January 2024, with co-authors); aiimpacts.org; "Slowing Down vs. Having It Out" (LW); Future of Life Institute recorded interview on AI takeoff |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** Not publicly stated as a personal number. Her contribution is primarily methodological — she insists on not providing a single number without first decomposing the assumptions that underlie it. The 2024 AI Impacts survey she leads reports: *median 5%, mean 16%* p(doom) among 2,778 AI researchers — and she takes these numbers seriously as data.
+
+**Core claim in one sentence:** The most important task in AI risk reasoning is to stop bundling distinct empirical assumptions into a single "doom feeling" and instead treat each assumption as a separable question with its own evidence base.
+
+**Time horizon:** She has tracked expert forecasts on AI capability timelines closely; the 2024 survey found a 50% probability of AI outperforming humans in all tasks by 2047 — 13 years earlier than the 2022 estimate of 2060, largely attributed to progress since ChatGPT.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- No single primary mechanism endorsed
+
+**Elaboration:** Grace's methodological stance is to not pre-commit to a single failure mechanism. Her work explicitly tries to hold open the question of which mechanism is most probable. She has noted that "the world could be taken over without a step change" (gradual processes suffice for catastrophe) but also that this "seems less likely" than scenarios involving discontinuous progress. This is a considered agnosticism, not indifference.
+
+### Cut 2: Epistemological Stance
+- [x] Decomposition-first: insists on separating bundled assumptions before assigning a number
+
+**Elaboration:** This is the defining feature of Grace's contribution. A standard doom argument bundles: fast takeoff + recursive self-improvement + emergence of coherent agency + weak warning + coordination failure + decisive strategic advantage. Grace's argument is that these are *separate empirical claims*, each requiring separate evidence, and that treating them as a package produces noise not signal. She is not saying these assumptions are false; she is saying they should not be assumed jointly without individual justification.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Open question | Low | Her methodological stance says this should be asked empirically, not assumed |
+| **B. Failure mechanism** | Uncertain; concerns rapid discontinuous progress more than slow | Moderate | Has noted that slow-takeoff scenarios are "less likely to result in takeover," implying she takes discontinuous scenarios more seriously as risk pathways |
+| **C. Current LLMs as evidence** | Moderate — some evidence for concern | Moderate | Survey data shows AI experts aren't dismissing risk; LLMs have accelerated timeline expectations meaningfully |
+| **D. Technical tractability** | Open question | Low | Does not take a strong position; the right response to epistemic uncertainty is better evidence, not assumed tractability or intractability |
+| **E. Warning shots** | Probably, but uncertain | Moderate | Does not strongly assert either way; her concern is that if we assume warning shots without checking, we may be wrong |
+| **F. Catastrophic vs. existential** | Tracks both in surveys | — | Survey questions include both extinction and "similarly bad" disempowerment |
+
+---
+
+## Key Arguments
+
+1. **Bundled assumptions are the primary epistemic problem in doom debates.** Fast takeoff, recursive self-improvement, coherent agency, coordination failure, decisive strategic advantage, and weak warning may all be correlated to some extent — but they should not be collapsed into one latent variable called "doomer worldview."
+
+2. **Expert surveys are undervalued evidence.** AI Impacts surveys give a structured window into what AI researchers actually believe, aggregated across a large sample. The 2024 results challenge both the "nobody serious believes in AI risk" framing (median 5%, mean 16% is not negligible) and the "doom is obvious" framing (50%+ of researchers do not think it's a >50% probability event).
+
+3. **Historical tech transitions provide calibration data.** Nuclear weapons are relatively rare as examples of technology producing step-change catastrophic capability. Most technological jumps produce gradual adjustment. This doesn't rule out discontinuous AI progress but sets a prior that should be engaged with explicitly.
+
+4. **Timeline forecasting requires honest uncertainty quantification.** The 13-year acceleration between 2022 and 2024 surveys suggests expert forecasts are responsive to evidence. Good forecasting tracks this; doom rhetoric that ignores the evidential basis of timeline estimates is doing something different from forecasting.
+
+---
+
+## What This Position Rejects
+
+- Treating any single doom scenario as the "default" without explicit probability assignment to its specific assumptions
+- The framing that disagreement with a specific doom story = dismissing AI risk generally
+- Conflating "I don't know if fast takeoff will happen" with "I think AI is safe"
+- Arguments that are structurally immune to empirical disconfirmation (prior-dominant reasoning exclusively)
+
+---
+
+## Prescription / Response
+
+- Better empirical tracking of AI capabilities, timelines, and deployment dynamics
+- Survey-based methods to aggregate expert opinion systematically
+- Decompose the cruxes — build separate research programs for separate assumptions
+- Forecast track records: hold AI risk arguments accountable to predictions the way forecasting communities do
+
+---
+
+## Natural Allies
+
+- **Conditional Doomers (Christiano)** — share the empirically-conditioned approach
+- **Toby Ord** — shares the concern-without-fatalism framing
+- **Forecasting community (Metaculus, Manifold)** — methodological alignment on prediction track records
+
+---
+
+## Key Disagreements
+
+- **vs. Hard/Structural Doomers (Yudkowsky, Soares):** Grace's methodology requires treating the structural arguments as empirical claims subject to evidence, not as priors that override evidence. Prior-dominant reasoning is exactly what she resists.
+- **vs. Capability Skeptic (LeCun):** Grace does not dismiss doom probability — she just insists it be computed carefully. LeCun dismisses it wholesale.
+- **vs. Present-Harms Realist:** Grace's work is primarily about existential/catastrophic risk magnitude, not present harms; her surveys ask specifically about extinction-level and extreme disempowerment outcomes.
+
+---
+
+## Common Misreadings
+
+- **"Grace thinks AI is safe"** — Her surveys show she takes the risk seriously and that most AI researchers do too
+- **"She's just saying we don't know anything"** — The claim is methodological: know what you know separately, before combining. Not that nothing is known.
+- **"AI Impacts is a doomer organization"** — AI Impacts explicitly does not have a fixed position; it aims to track the empirical landscape including both risk estimates and counter-evidence
+- **"She disagrees with Yudkowsky so she must be an optimist"** — Her methodology disagrees with how Yudkowsky reasons, not necessarily with his conclusions about AI risk in general
+
+---
+
+## What Would Change This View
+
+- Evidence that specific bundled assumptions (e.g., fast takeoff + strong agency + weak warning) are highly correlated empirically (would partially vindicate bundled reasoning)
+- Evidence that one assumption is decisively falsified (would allow tighter probability assignments)
+- Track record data on AI capability forecasts (she actively builds this)
+
+---
+
+## Notes / Nuances
+
+- AI Impacts is probably the most systematic empirical tracking effort focused specifically on AI risk assumptions; it deserves more engagement from both doom and anti-doom camps
+- Grace's quote — "the disagreement is whether the risk is 1% or 20%" — is worth highlighting because it reframes the debate: at both ends of that range, significant investment in safety research is probably justified
+- Her work on AI takeoff speeds is particularly valuable: she distinguishes between whether a step-change happens, what its magnitude is, and whether it would be detectable in time — these are separate questions that doom arguments often conflate
+- She is neither an EA-aligned longtermist (skeptical of some of that community's framing) nor a dismissive skeptic — she occupies a genuinely independent epistemic position

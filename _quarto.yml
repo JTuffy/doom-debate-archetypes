@@ -1,0 +1,21 @@
+project:
+  type: default
+  render:
+    - index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: left
+    toc-depth: 3
+    toc-expand: 1
+    number-sections: false
+    reference-location: margin
+    citation-location: margin
+    footnotes-hover: true
+    smooth-scroll: true
+    fontsize: 1.05em
+    linestretch: 1.6
+    max-width: 850px

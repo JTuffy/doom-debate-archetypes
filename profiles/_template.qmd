@@ -1,0 +1,125 @@
+# [Name / Label]
+
+> *"[Characteristic quote or tagline]"*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | [Which archetype from the main taxonomy] |
+| **Associated with** | [Person or cluster of people] |
+| **Primary affiliation** | [Lab, institution, community] |
+| **Key publication / resource** | [Paper, book, post, podcast] |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** [Number or range, if stated. Note what definition of "doom" is being used — extinction, catastrophic disempowerment, takeover, etc.]
+
+**Core claim in one sentence:** [What is the single most distinctive belief this position holds?]
+
+**Time horizon:** [When does the relevant risk materialize? Decades? This century? Now?]
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+*What does the path to catastrophe actually look like?*
+
+- [ ] Single unipolar optimizer achieving strategic dominance
+- [ ] Multipolar / competitive dynamics producing catastrophic equilibrium
+- [ ] Gradual disempowerment / slow erosion of human agency
+- [ ] Human misuse of AI capabilities (bioweapons, cyberattack, etc.)
+- [ ] Compounding present harms (bias, surveillance, displacement)
+- [ ] Other: ___
+
+**Elaboration:**
+
+### Cut 2: Epistemological Stance
+*How does this position arrive at its conclusions?*
+
+- [ ] Prior-dominant: structural arguments (orthogonality, convergence) carry most weight; current AI behavior is near-irrelevant evidence
+- [ ] Empirically-conditioned: probability is substantially revisable based on capability trajectories, warning shots, alignment progress
+- [ ] Architecturally-conditioned: probability is substantially a function of design choices being made now
+- [ ] Decomposition-first: insists on separating bundled assumptions before assigning a number; methodology matters as much as conclusion
+- [ ] Political-economy-first: tracks power, institutions, and incentives rather than capability extrapolation
+
+**Elaboration:**
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** — Does coherent agency arise by default in capable systems, or is it a design decision? | Emergent / Design choice / Uncertain | — | |
+| **B. Failure mechanism** — What is the primary route to catastrophe? | (see Cut 1) | — | |
+| **C. Current LLMs as evidence** — Do near-future LLM-paradigm systems provide strong evidence about the relevant risk? | Strong / Weak / Near-zero | — | |
+| **D. Technical tractability** — Is the alignment / oversight / control problem solvable with sufficient effort? | Yes / No / Not the bottleneck | — | |
+| **E. Warning shots** — Will failures be visible and actionable before it's too late? | Yes / No / Ongoing | — | |
+| **F. Catastrophic vs. existential** — Is the core concern extinction-level or "merely" severe civilizational disempowerment? | Extinction / Catastrophic / Both | — | |
+
+---
+
+## Key Arguments
+
+*What are the 3–5 most important claims this position makes, and why does it think they're right?*
+
+1.
+2.
+3.
+
+---
+
+## What This Position Rejects
+
+*What do neighboring positions believe that this one explicitly denies or downweights?*
+
+-
+-
+
+---
+
+## Prescription / Response
+
+*What should actually be done, on this view?*
+
+-
+
+---
+
+## Natural Allies
+
+*Which other archetypes or thinkers does this position substantially agree with, and on what?*
+
+-
+
+---
+
+## Key Disagreements
+
+*Where does this position most predictively diverge from those it is often confused with?*
+
+-
+
+---
+
+## Common Misreadings
+
+*What do people often get wrong about this position?*
+
+-
+
+---
+
+## What Would Change This View
+
+*What empirical or conceptual developments would cause meaningful updating?*
+
+-
+
+---
+
+## Notes / Nuances

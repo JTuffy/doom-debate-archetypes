@@ -1,0 +1,124 @@
+# Yann LeCun
+
+> *"The idea that AI will spontaneously develop a desire to dominate humanity is a sci-fi cliché that has no basis in how any of this actually works."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Capability Skeptic / Paradigm Skeptic |
+| **Associated with** | Yann LeCun |
+| **Primary affiliation** | Meta AI (Chief AI Scientist); NYU (Silver Professor); Turing Award laureate (2018, with Bengio and Hinton) |
+| **Key publication / resource** | "A Path Towards Autonomous Machine Intelligence" (technical proposal, 2022); various Twitter/X threads; public lectures at NYU and elsewhere; Futurism and Business Insider interviews |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** Effectively 0% for extinction-via-rogue-AI in the current paradigm. He describes such scenarios as "complete BS," "preposterously ridiculous," and a "sci-fi cliché." He does assign meaningful probability to harms from AI — specifically power concentration through proprietary AI systems — but not to autonomous-AI-overthrows-humanity scenarios.
+
+**Core claim in one sentence:** Current LLM-paradigm AI systems lack the world models, causal understanding, physical grounding, robust planning, and architectural foundations necessary to produce the coherent goal-directed strategic behavior that doom arguments require — and scaling these systems further won't fix that gap.
+
+**Time horizon:** On his view, the dangerous autonomous AI that doom arguments concern is not coming from the current paradigm. How long before a paradigm that could produce it might emerge: unknown, possibly decades away, possibly never via any plausible path.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- None (for standard doom scenarios)
+- [ ] Human power concentration through proprietary AI (genuine concern)
+
+**Elaboration:** LeCun does not accept any of the standard AI doom failure mechanisms as plausible for the current paradigm. He explicitly denies that AI systems will develop self-preservation drives or strategic intent. However, he does hold a genuine concern about **concentration of power through proprietary AI** — a handful of companies or governments controlling extremely capable AI systems and using them to entrench their power. This is a present-harms / structural-power concern, not a classic doom concern.
+
+### Cut 2: Epistemological Stance
+- [x] Empirically-conditioned: current AI behavior is highly informative
+
+**Elaboration:** LeCun is strongly empirically-conditioned — he reads current LLM behavior as meaningful evidence against doom scenarios. Because he believes the paradigm is what matters (not just capability level), and the current paradigm lacks the relevant properties, current evidence is highly informative for him. This is the inverse of the prior-dominant stance: he treats observed current system behavior as strongly constraining the relevant extrapolation space.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Neither — not emergent in current paradigm, and not a design choice that would produce dangerous agents | Very high | Does not think sufficient agency for doom scenarios will emerge from LLM scaling |
+| **B. Failure mechanism** | No standard doom failure mechanism accepted | Very high | Power concentration through proprietary control is his candidate "real" AI risk |
+| **C. Current LLMs as evidence** | Strong evidence against doom | Very high | LLMs are statistically powerful but lack the architecture for goal-directed strategic behavior |
+| **D. Technical tractability** | Irrelevant — the problem doesn't exist in the required form | Very high | Alignment of autonomous strategic AI agents via any technique is not needed because such agents are not coming from the current paradigm |
+| **E. Warning shots** | Already happening (in the other direction — showing limitations) | High | Every capability evaluation confirms LLMs don't have the relevant properties |
+| **F. Catastrophic vs. existential** | Neither, for AI-autonomy reasons | Very high | Power concentration via proprietary AI is a political problem, not an AI-autonomy problem |
+
+---
+
+## Key Arguments
+
+1. **LLMs are the wrong architecture for doom.** Language models are statistical next-token predictors trained on text. They lack: persistent world models, grounded causal understanding, physical-world interaction, robust planning, episodic memory, and the goal-directed optimization structure that doom arguments require. These are not missing features that scaling will add — they reflect a fundamental architectural mismatch.
+
+2. **Current AI is "less intelligent than a cat."** In terms of genuine world-model formation, physical understanding, and robust causal competence — the kind of intelligence that would be prerequisite for strategic goal pursuit — LeCun places current AI well below what mammalian intelligence achieves automatically. Before worrying about superintelligence, we can't build a system that matches a house cat's physical intelligence.
+
+3. **Doom requires self-preservation drives that don't arise by default.** There is no inherent reason to build AI with human-like drives for self-preservation, domination, or status-seeking. These are not default properties of optimization processes; they would have to be explicitly instilled. (This is the inverse of the instrumental convergence claim.)
+
+4. **The real danger is human power concentration.** A handful of companies or governments controlling very capable AI systems is a genuine threat to democratic society. This is a political and economic problem — not an AI-alignment problem — and it deserves more attention than extinction scenarios.
+
+5. **World models are the path forward.** LeCun's positive proposal is that the right direction for AI is joint embedding predictive architectures (JEPA) and world models — systems that can form internal models of the physical world, predict consequences, and plan. This is different from LLM scaling and would eventually produce more capable AI. But it is not AI that doom arguments predict.
+
+---
+
+## What This Position Rejects
+
+- Instrumental convergence as a meaningful default for current or near-future AI systems
+- The idea that scaling LLMs will produce the strategic, goal-directed behavior doom arguments require
+- Orthogonality thesis as a practical operational concern for near-future systems
+- The claim that alignment is an urgent research priority for preventing AI takeover
+
+---
+
+## Prescription / Response
+
+- Build world models, not bigger LLMs — redirect AI research toward architectures that can genuinely understand
+- Regulate against concentration of AI power in a small number of proprietary actors
+- Maintain open-source AI development to prevent monopolization
+- Actively critique AI doom discourse for causing unnecessary panic and misdirecting safety research priorities
+
+---
+
+## Natural Allies
+
+- **Present-Harms Realists** — shares concern about power concentration and corporate control
+- **Some Gradualist Forecasters** — shares skepticism about bundled assumptions, especially fast takeoff + coherent agency
+- **Capability Skeptics generally** — natural cluster for anyone who thinks current AI paradigms don't threaten extinction
+
+---
+
+## Key Disagreements
+
+- **vs. Bengio:** Both are Turing Award co-winners but profoundly disagree on AI risk. Bengio sees agency as a near-term design-choice risk; LeCun sees agency as not emerging from the current paradigm at all. This is perhaps the sharpest technical disagreement in AI safety discourse between researchers of comparable seniority.
+- **vs. Yudkowsky:** Complete disagreement on the relevant system class, the danger of current AI, and the tractability of solutions
+- **vs. Christiano:** Christiano takes the misalignment concern seriously for current-paradigm systems; LeCun thinks the concern doesn't apply
+
+---
+
+## Common Misreadings
+
+- **"He thinks AI is harmless"** — He has a genuine concern about power concentration through proprietary AI; he's not dismissing AI risks wholesale
+- **"He's just being contrarian"** — His skepticism is technically grounded in specific architectural arguments about what LLMs can and cannot do
+- **"He agrees with standard AI optimists"** — He is not saying AI is good and safe. He is saying the specific doom mechanisms are wrong about the current paradigm.
+- **"He thinks AI can't be dangerous eventually"** — He does think transformative AI is possible; he just thinks it requires architectural shifts away from LLMs, and those shifts are far off
+
+---
+
+## What Would Change This View
+
+- Demonstration that LLM-paradigm systems develop persistent goal-directed strategic behavior independent of prompt engineering
+- Evidence that instrumental convergence dynamics appear empirically in current LLMs (self-preservation, resistance to shutdown) in ways that are robust and architecture-generated
+- A convincing theoretical account of how next-token prediction produces goal-directed agency as an emergent property
+
+---
+
+## Notes / Nuances
+
+- LeCun's public rhetoric is notably sharper than his papers — his technical arguments are more careful than his social media dismissals suggest
+- He is actively building very capable AI at Meta; his skepticism about doom is not a reason to do less, in his view
+- The LeCun-Bengio disagreement is particularly worth studying because they share deep background in the same technical tradition (deep learning, Turing Award) and reach diametrically opposed conclusions about the safety implications of current trends
+- His world models proposal is a genuine alternative research agenda, not just criticism — he thinks there is a right path to transformative AI and that path isn't LLM scaling

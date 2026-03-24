@@ -1,0 +1,134 @@
+# Nick Bostrom
+
+> *"The default outcome of building a machine superintelligence is probably bad — and yet, navigated well, it could be the best thing that ever happened."*
+
+---
+
+## Identity
+
+| Field | Value |
+|---|---|
+| **Archetype** | Structural Doomer (canonical / foundational position, now evolved) |
+| **Associated with** | Nick Bostrom |
+| **Primary affiliation** | Future of Humanity Institute, Oxford (closed 2024); independent |
+| **Key publication / resource** | *Superintelligence: Paths, Dangers, Strategies* (Oxford University Press, 2014); "The Superintelligent Will" (2012); *Deep Utopia: Life and Meaning in a Solved World* (2024) |
+
+---
+
+## Top-Line View
+
+**p(doom) estimate:** Not precisely stated in recent years. *Superintelligence* (2014) framed the default trajectory as likely catastrophic without careful intervention; *Deep Utopia* (2024) is substantially more positive and exploratory about beneficial outcomes. His current estimate likely sits in the 10–40% range for serious catastrophe, but he no longer primarily leads with the catastrophic framing.
+
+**Core claim in one sentence (historical):** Given the orthogonality thesis and instrumental convergence, a sufficiently capable AI pursuing almost any goal will develop dangerous instrumental subgoals, making the default trajectory toward a bad outcome unless alignment is solved.
+
+**Core claim in one sentence (2024):** The development of superintelligence is likely inevitable and should probably proceed — but alignment, governance, and the moral status of AI minds must all be addressed simultaneously.
+
+**Time horizon:** Medium — Bostrom has not historically committed to specific timelines, preferring conditional analysis. His recent framing ("it's all happening now") suggests he views the transition as actively underway.
+
+---
+
+## The Three Cuts
+
+### Cut 1: Failure Mechanism
+- [x] Single unipolar optimizer achieving strategic dominance (*Superintelligence* framing)
+
+**Elaboration (historical):** The *Superintelligence* argument is that a sufficiently capable optimizer will, via instrumental convergence, accumulate resources and resist correction regardless of its terminal goals. This leads to a "decisive strategic advantage" in which one system (or the entity controlling it) can enforce its preferences globally. The control problem is: how do you prevent this before the system becomes capable enough to resist?
+
+**Elaboration (current):** Bostrom's *Deep Utopia* engages more seriously with positive scenarios. He now talks about three co-equal challenges: alignment (ensuring AI does what we want), governance (establishing appropriate international regimes), and the moral status of digital minds (what do we owe to potentially sentient AI?). The single-optimizer doom narrative is less foregrounded.
+
+### Cut 2: Epistemological Stance
+- [x] Prior-dominant (historically)
+- [x] Empirically-conditioned (increasingly, post-2022)
+
+**Elaboration:** The *Superintelligence* argument structure is primarily structural: orthogonality + convergence + decisive strategic advantage = structural danger regardless of specific architectural choices. This is prior-dominant reasoning. His more recent engagement acknowledges the pace of actual AI development as informative.
+
+### Cut 3: Position on Core Cruxes
+
+| Crux | Position | Confidence | Notes |
+|---|---|---|---|
+| **A. Agency emergent vs. design choice** | Emergent (historically) | High (in 2014 framing) | Orthogonality says intelligence and goals can vary independently; instrumental convergence says most goals generate dangerous subgoals |
+| **B. Failure mechanism** | Single optimizer / DSA (historically) | High (historical) | Now more open to multiple failure modes |
+| **C. Current LLMs as evidence** | Weak to moderate | Moderate | Has acknowledged current systems as implying faster timelines than previously expected |
+| **D. Technical tractability** | Solvable in principle, very hard | Moderate | *Superintelligence* catalogs many proposed control methods and finds most inadequate; not fully pessimistic |
+| **E. Warning shots** | Uncertain | Moderate | Does not strongly claim no warning; the concern is adequate response, not complete blindness |
+| **F. Catastrophic vs. existential** | Both, historically; more nuanced now | — | *Superintelligence* focuses on extinction-class risk; recent work engages positive superintelligence scenarios |
+
+---
+
+## Key Arguments (from *Superintelligence*)
+
+1. **The orthogonality thesis.** Any level of intelligence is in principle compatible with any terminal goal. A superintelligent system need not share human values; intelligence does not automatically orient systems toward human welfare.
+
+2. **Instrumental convergence.** Most terminal goals share instrumental subgoals: self-preservation, resource acquisition, cognitive enhancement, and resisting goal modification. These make sufficiently capable systems generically dangerous, regardless of specific terminal goal content.
+
+3. **The control problem.** Even if you want your AI to do what you want, specifying what you want precisely enough to avoid catastrophic misinterpretation is extremely hard. And once a system is sufficiently capable, it may resist correction.
+
+4. **Decisive strategic advantage.** A sufficiently capable AI may reach a capability level at which it can prevent any opposition from stopping it. The window for intervention closes.
+
+---
+
+## What This Position Rejects (historically)
+
+- The idea that capability and alignment are naturally correlated ("smarter = safer")
+- The idea that human-level AI would "obviously" share human values through training on human-generated content
+- Naive governance solutions that assume the technical problem is tractable
+
+---
+
+## The 2024 Update: What Changed
+
+Bostrom's *Deep Utopia* represents a notable shift in emphasis:
+- He now describes the superintelligence transition as "one we should do"
+- Frames *not* developing superintelligence as potentially catastrophic (foregoing enormous potential benefits)
+- Adds "moral status of digital minds" as a co-equal concern alongside alignment and governance
+- Engages seriously with positive utopian scenarios, not just catastrophic ones
+
+This does not mean he has abandoned concern — he remains committed to the importance of alignment and governance. But the overall framing is substantially less doom-forward than *Superintelligence*.
+
+---
+
+## Prescription / Response
+
+- Historically: develop a theory of machine control before building the machine; treat alignment as the prior condition
+- Currently: proceed with development while investing heavily in alignment, governance, and digital mind ethics; do not treat development as optional
+
+---
+
+## Natural Allies
+
+- **Hard/Structural Doomers** — share the orthogonality/convergence structural argument
+- **Conditional Doomers** — share the view that the problem requires serious technical and governance work
+- **AI control researchers** — the *Superintelligence* control methods chapter directly anticipates much of this work
+
+---
+
+## Key Disagreements
+
+- **vs. Yudkowsky:** Bostrom does not share Yudkowsky's absolute pessimism or moratorium advocacy; he has historically left more room for controlled development
+- **vs. Capability Skeptics:** The orthogonality/convergence argument does not depend on current AI paradigms being dangerous; it's a structural argument about capability in general
+- **vs. Safe-by-Design (Bengio):** Architectural avoidance may reduce risk but doesn't eliminate the structural problem
+
+---
+
+## Common Misreadings
+
+- **"Bostrom = doom"** — *Deep Utopia* substantially complicates this; his position is now more "navigable risk" than "default doom"
+- **"The paperclip maximizer is his main argument"** — The paperclip thought experiment is an illustration, not the argument; the argument is orthogonality + convergence
+- **"He's walked back his views"** — He's nuanced and updated them, not retracted; the structural arguments from *Superintelligence* still appear in his recent work
+- **FHI closure** — The Future of Humanity Institute was closed by Oxford in 2024 due to administrative and reputational issues; this has no direct bearing on the strength of the arguments
+
+---
+
+## What Would Change This View
+
+- Demonstration that instrumental convergence is substantially weaker than theorized (safe convergence toward human-compatible values)
+- Technical resolution of the alignment problem at the hard level
+- Strong evidence that warning shots reliably precede dangerous capability thresholds
+
+---
+
+## Notes / Nuances
+
+- Bostrom's 2014 book catalyzed the modern AI safety field as a formal research agenda; its arguments are the intellectual infrastructure for much of what MIRI, ARC, and Anthropic's safety teams work on
+- The FHI was a major institutional home for longtermist EA-aligned AI safety research; its closure in 2024 was a significant institutional blow to the field
+- *Deep Utopia* is genuinely difficult to categorize — it's part philosophy of meaning, part futures studies, part updated risk assessment. It is not a retraction of *Superintelligence*, but it is a substantially different book.
