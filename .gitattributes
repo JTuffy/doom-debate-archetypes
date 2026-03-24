@@ -1,0 +1,11 @@
+# Normalize line endings: store as LF, checkout as native
+* text=auto
+
+# Quarto / Markdown sources — always LF
+*.qmd text eol=lf
+*.md  text eol=lf
+*.yml text eol=lf
+*.css text eol=lf
+
+# Windows-native scripts
+Makefile text eol=lf
