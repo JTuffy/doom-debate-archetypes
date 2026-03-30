@@ -10,7 +10,7 @@ What the map is not useful for: telling you who's right. That's a different proj
 
 An honest caveat: the map itself takes a position. It assumes the debate is conducted in good faith, that crux-identification is the productive move, and that the relevant disagreements are tractable to this kind of analysis. That's a decomposition-first stance (Axis 4, Gradualist Forecaster territory) — which means a committed prior-dominant thinker might find the whole framing beside the point. If you've read this far and feel like it missed something essential about the structure of the problem, that disagreement is also worth naming explicitly.
 
-The most useful thing to take away is probably the transition map in §IV. Next time you find yourself in a confused conversation about AI risk, ask which crux is the load-bearing one. Most confused conversations are confused because two people are treating different cruxes as settled.
+The final utility of this mapping project is found in the transition space of §IV. The map exists to locate the crux. The next time you find yourself in a deadlocked conversation about AI risk, stop asking for their p(doom). Ask them which crux they are treating as settled.
 
 ---
 

@@ -46,12 +46,10 @@ h3 {
   padding-bottom: 0.2em;
 }
 
-/* Taglines */
-p em:first-child {
-  display: block;
+/* Taglines — only match <em> that is the sole child of a <p> */
+p em:only-child {
   font-size: 1.0em;
   color: #333;
-  margin-bottom: 0.6em;
 }
 
 /* Citation footnotes in margin */

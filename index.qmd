@@ -27,13 +27,13 @@ This document is a structured draft for a LessWrong post mapping viewpoints in t
 **META:** Short. 2–3 paragraphs max. Create the problem the post solves — don't summarize the archetypes. Three beats: the frustrating observation → the non-obvious thesis → what this post does and doesn't do. The "but you didn't take a side" objection is forestalled in beat 3. Author locates position in §V.
 :::
 
-The debate about AI risk is loud and getting louder. What it isn't, mostly, is legible. Consider: Yoshua Bengio and Eliezer Yudkowsky share the same threat model almost entirely — both believe a sufficiently capable AI system with misaligned goals, acting in the world, would be catastrophic. One of them thinks the right response is to avoid building agentic systems. The other thinks that won't work and wants a global moratorium enforced by treaty. They agree on the danger and disagree violently on the prescription, and a conversation between them would look, from the outside, like a disagreement about whether AI is dangerous. It isn't. It's a disagreement about whether architecture choices can foreclose the dangerous trajectory. These are not the same question.
+The debate about AI risk is structurally illegible. Yoshua Bengio and Eliezer Yudkowsky share the exact same threat model. Both believe a sufficiently capable AI system with misaligned goals, acting in the world, would be catastrophic. Yet, one thinks the right response is to avoid building agentic systems, while the other believes that will inevitably fail and demands a highly enforced global treaty. They agree on the danger. They disagree violently on the prescription. From the outside, their debate looks like a disagreement about whether AI is a threat at all. It isn't. It is a disagreement about whether architecture choices can actually close the safety gap.
 
-Or consider: someone with 22% p(doom) and someone with 2% p(doom) can have incompatible disagreements and also almost no disagreements at all, depending on which 22% and which 2% they're talking about. The question "what's your p(doom)?" almost never locates the actual disagreement.
+Surface-level metrics continually mask these structural cruxes. Consider: someone with a 22% p(doom) and someone with a 2% p(doom) can harbor incompatible disagreements, or almost no disagreement at all, depending on which definitions of risk they are carrying. The question "what's your p(doom)?" almost never locates the actual argument.
 
-This is partly vibes, yes. But there's a structural reason too: the debate is not one-dimensional. It isn't a line running from "not worried" to "very worried" where more information moves you left or right. It's a space with several independent axes — about what kind of AI system is dangerous, about whether powerful agency emerges by default or requires deliberate design, about whether the failure mode is one system winning or many systems and actors collectively producing a catastrophe nobody designed, about whether current AI behavior is evidence about the relevant risk or a distractor from it, and about what "doom" even means. People who look superficially close in p(doom) are sometimes making entirely different causal claims, and people who look far apart are sometimes disagreeing about very little.
+The debate remains illegible because it is fundamentally multi-dimensional. It isn't a simple continuum running from "not worried" to "very worried" where more information moves you left or right. It operates on several independent, load-bearing axes—such as whether power-seeking emerges by default, or whether current multi-modal models constitute relevant safety evidence. Consequently, individuals who appear aligned on top-level risk are often making entirely contradictory causal claims.
 
-This post draws a map. It doesn't say who's right. A map of a debate isn't useful because it picks winners — it's useful because it shows where the actual disagreements are, which makes them addressable. The seven archetypes and five axes below are an attempt at that. But the framework comes first.
+This post draws a map. It doesn't pick winners. A map of a debate isn't useful because it acts as an arbiter—it is useful because it uncovers the structural disagreements, making them addressable. The following seven archetypes and five axes attempt to locate those Cruxes. The framework comes first.
 
 ---
 
@@ -45,29 +45,41 @@ This post draws a map. It doesn't say who's right. A map of a debate isn't usefu
 
 {{< include chapters/archetypes/hard-doomer.qmd >}}
 
----
+::: aside
+**META (Pivot):** If the Hard Doomer is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power? Enter the Structural Doomer.
+:::
 
 {{< include chapters/archetypes/structural-doomer.qmd >}}
 
----
+::: aside
+**META (Pivot):** The Structural Doomer assumes bad outcomes are the default result of optimization. But what if the structural danger is real, yet alignment is merely an extraordinarily hard engineering problem rather than a theoretical impossibility?
+:::
 
 {{< include chapters/archetypes/conditional-doomer.qmd >}}
 
----
+::: aside
+**META (Pivot):** The Conditional Doomer worries about successfully aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
+:::
 
 {{< include chapters/archetypes/multipolar.qmd >}}
 
----
-
-{{< include chapters/archetypes/gradualist.qmd >}}
-
----
+::: aside
+**META (Pivot):** The Multipolar Realist sees human coordination as the only check against dangerous racing dynamics. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of autonomous agents globally.
+:::
 
 {{< include chapters/archetypes/safe-by-design.qmd >}}
 
----
+::: aside
+**META (Pivot):** The Alarmist wants to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway?
+:::
 
 {{< include chapters/archetypes/paradigm-skeptic.qmd >}}
+
+::: aside
+**META (Pivot):** The Skeptic believes current models won't reach AGI. But what if they actually do, and instead of a sharp capability cliff or an explosion, the transition is just a continuous, mundane process of economic integration?
+:::
+
+{{< include chapters/archetypes/gradualist.qmd >}}
 
 ---
 
