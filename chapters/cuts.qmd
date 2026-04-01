@@ -1,38 +1,24 @@
-## IV. Three Cuts Across the Same Space
+## IV. Two Cuts Across the Same Space
 
 ::: aside
-**META:** The regrouping section. Purpose: show the portrait gallery in Part III is not the only way to slice the space — different cuts reveal different structure. Keep each cut short; the job is to show new patterns, not re-explain the archetypes.
+**META:** The regrouping section. Purpose: show the threat model gallery in Part III is not the only way to slice the space — different cuts reveal different structure. Keep each cut short; the job is to show new patterns, not re-explain the models. Since "Mechanism" is now the primary grouping, we cut by Epistemology and Crux.
 :::
 
-### Cut 1: By Failure Mechanism
-
-::: aside
-**META:** Hidden alliances emerge here. Safe-by-Design and Hard Doomer agree on mechanism (unipolar optimizer) but reach opposite conclusions about what to do. Multipolar Realist and Conditional Doomer may look numerically adjacent but have almost no causal model in common.
-:::
-
-Grouping archetypes by what they think the failure actually looks like reveals some non-obvious structure. The **unipolar optimizer** cluster — Hard Doomer, Structural Doomer, and Safe-by-Design Alarmist — all agree on the basic threat model: a sufficiently capable goal-directed system acquires decisive strategic advantage before correction is possible. What they disagree about is what to do: moratorium (Yudkowsky), alignment research (Soares), architectural avoidance (Bengio). Three very different responses to the same mechanism.
-
-The **distributed / competitive failure** cluster — Multipolar Realist, with Conditional Doomer overlapping somewhat — rejects this. On their view, catastrophe doesn't require one system winning. It can arrive through race dynamics, coordination failures, and the gradual structural erosion of meaningful human oversight, with many actors and many systems each behaving in ways that are individually rational and collectively catastrophic.
-
-**Misuse** (Amodei's primary near-term concern within the Conditional Doomer cluster) is a third mechanism: not misaligned systems behaving unexpectedly, but aligned capabilities being deliberately used to cause harm — lowering the barrier to bioweapon synthesis, for instance. The interventions this implies are almost orthogonal to those implied by the other two mechanisms.
-
-A fourth mechanism that doesn't map cleanly onto any portrait in this gallery: **compounding present harms** — the view that the salient catastrophe isn't future but current, involving systematic harm through already-deployed systems. The map deliberately doesn't include a portrait for this position (those thinkers don't primarily identify as doom-adjacent) but noting the mechanism matters: updating on what "doom" means can move you toward that territory from any starting point.
-
-### Cut 2: By Epistemological Stance
+### Cut 1: By Epistemological Stance
 
 ::: aside
 **META:** The most important cut for a LW audience. This cut reveals why some debates in this space are structurally unresolvable under current conditions — and why that's not anyone's fault. Add the error asymmetry insight here: the people who won't update on current AI behavior often aren't being unreasonable; they're reasoning about which error is worse.
 :::
 
-This cut predicts who can update whom. **Prior-dominant** reasoners — Hard Doomer, Structural Doomer — weight structural arguments (instrumental convergence, orthogonality, the difficulty of value loading) heavily enough that no amount of "current AI behaves fine" updates them much. The argument is about what optimization pressure does, not about what GPT-4 does. Showing them a capable AI being helpful is near-zero evidence against their position.
+This cut predicts who can update whom. **Prior-dominant** reasoners — those holding the Sharp Left Turn or Structural Disempowerment models — weight structural arguments (instrumental convergence, orthogonality, the difficulty of value loading) heavily enough that no amount of "current AI behaves fine" updates them much. The argument is about what optimization pressure does, not about what GPT-4 does. Showing them a capable AI being helpful is near-zero evidence against their position.
 
-**Empirically-conditioned** reasoners — Conditional Doomer, Gradualist Forecaster — update substantially on what AI systems actually do, how alignment techniques perform, and whether warning signs appear during deployment. They're not less rigorous; they're applying a different evidentiary standard.
+**Empirically-conditioned** reasoners — those worried about Control Failures or Mundane Integration — update substantially on what AI systems actually do, how alignment techniques perform, and whether warning signs appear during deployment. They're not less rigorous; they're applying a different evidentiary standard.
 
-**Architecturally-conditioned** (Safe-by-Design) and **political-economy-first** (Multipolar Realist) stances are neither of the above: they update on institutional evidence, deployment environments, and design choices, not on capability curves or convergence arguments. A debate between a prior-dominant and a political-economy-first thinker can look superficially like a capability disagreement while actually being a dispute about what kind of evidence counts.
+**Architecturally-conditioned** (Architectural Agency) and **political-economy-first** (Multipolar Racing) stances are neither of the above: they update on institutional evidence, deployment environments, and design choices, not on capability curves or convergence arguments. A debate between a prior-dominant and a political-economy-first thinker can look superficially like a capability disagreement while actually being a dispute about what kind of evidence counts.
 
 There's a further layer here that doesn't reduce to epistemological stance alone: the clusters are also reasoning asymmetrically about *which error is worse*. Prior-dominant thinkers treat false negatives — building a dangerous system and failing to catch it — as catastrophic and false positives — unnecessary restriction that slows beneficial development — as comparatively tolerable. Empirically-conditioned thinkers often weight these more symmetrically, or reverse the weighting. This asymmetry is almost never surfaced explicitly in the debate, but it explains why showing someone the same evidence can genuinely move them in opposite directions. Two people can share an epistemic standard and reach opposite conclusions if they're reasoning toward different loss functions.
 
-### Cut 3: By Core Crux
+### Cut 2: By Core Crux
 
 ::: aside
 **META:** The practically useful cut. Each crux is a specific binary claim where a real factual disagreement lies, addressable in principle by argument or forecasting. Crux E (warning shots) gets a paragraph, not just a table row — it's the crux with the most available near-term evidence and the most disagreement about what counts.
@@ -43,27 +29,27 @@ There's a further layer here that doesn't reduce to epistemological stance alone
 | **A. Agency emergent vs. design choice** | If emergent → architectural avoidance is wishful thinking; if design choice → path matters enormously and Bengio's agenda is coherent |
 | **B. Primary failure mechanism** | Determines what interventions are even in the solution space — alignment research, governance, architectural choices are each primary responses to different mechanisms |
 | **C. Current LLMs as evidence** | Determines whether current AI behavior is informative about the relevant risk or a distractor from it — the deepest epistemological divide in the debate |
-| **D. Technical tractability of oversight** | Separates Hard Doomer from Conditional Doomer; determines whether safety research is a serious intervention or a distraction from the more fundamental problem |
+| **D. Technical tractability of oversight** | Separates the Sharp Left Turn from Control Failure; determines whether safety research is a serious intervention or a distraction from the more fundamental problem |
 | **E. Warning shots actionable** | Whether early signs of misalignment would be legible, timely, and politically actionable — see below |
 | **F. What "doom" means** | Determines whether Critch and Yudkowsky are in the same debate; whether the endpoint is extinction, disempowerment, or large-scale present harm |
 
-**On Crux E in particular:** The warning shots question is not just theoretical — it's the crux with the most potentially available near-term evidence. Hard Doomers and Conditional Doomers both care about it and disagree sharply about two separate things: (1) whether anything we've *already seen* counts as a warning shot, and (2) whether any future warning shot would be politically actionable in time. Several Conditional Doomers would count certain RLHF failures, unexpected emergent capabilities, and sleeper agent demonstrations as early warning evidence; Hard Doomers typically don't, because their model treats deceptively safe behavior during evaluation as the expected initial state. This means the two clusters can look at identical events and draw opposite conclusions about whether the safety situation is getting better or worse — not because they're reasoning badly, but because they have different priors about what a warning shot would look like before it's too late to matter.
+**On Crux E in particular:** The warning shots question is not just theoretical — it's the crux with the most potentially available near-term evidence. Proponents of both the Sharp Left Turn and Control Failure care about it but disagree sharply about two things: (1) whether anything we've *already seen* counts as a warning shot, and (2) whether any future warning shot would be politically actionable in time. People worried about Control Failure would count certain RLHF failures, unexpected emergent capabilities, and sleeper agent demonstrations as early warning evidence; Sharp Left Turn proponents typically don't, because their model treats deceptively safe behavior during evaluation as the expected initial state. This means the two clusters can look at identical events and draw opposite conclusions about whether the safety situation is getting better or worse — not because they're reasoning badly, but because they have different priors about what a warning shot would look like before it's too late to matter.
 
 ### The Transition Map: Where Would You Move?
 
 ::: aside
-**META:** This is the most dynamic part of the post — it makes the map feel like a useful tool rather than a gallery. A reader who agrees with the Hard Doomer on everything but thinks Crux D is wrong should find themselves in Conditional Doomer territory.
+**META:** This is the most dynamic part of the post — it makes the map feel like a useful tool rather than a gallery. A reader who agrees with the Sharp Left Turn on everything but thinks Crux D is wrong should find themselves in Control Failure territory.
 :::
 
 The cruxes above predict not just who you are but who you'd become if specific beliefs shifted. A map is only useful if it shows movement.
 
 | If you updated on… | And currently believe… | You'd move toward… |
 |---|---|---|
-| **Crux A** — agency *is* a design choice | Hard Doomer | Safe-by-Design Alarmist |
-| **Crux A** — agency is *not* a design choice | Safe-by-Design | Hard Doomer / Structural Doomer |
-| **Crux C** — current LLMs *are* evidence | Hard / Structural Doomer | Paradigm Skeptic or Conditional Doomer |
-| **Crux D** — oversight is tractable | Hard Doomer | Conditional Doomer |
-| **Crux D** — oversight is *not* tractable | Conditional Doomer | Hard Doomer |
-| **Crux B** — primary failure is competitive, not unipolar | Hard / Structural Doomer | Multipolar Realist |
-| **Crux E** — warning shots would *not* be actionable | Conditional Doomer | Hard Doomer |
+| **Crux A** — agency *is* a design choice | Sharp Left Turn | Architectural Agency |
+| **Crux A** — agency is *not* a design choice | Architectural Agency | Sharp Left Turn / Structural Disempowerment |
+| **Crux C** — current LLMs *are* evidence | Sharp Left Turn / Structural Disempowerment | Mundane Integration or Control Failure |
+| **Crux D** — oversight is tractable | Sharp Left Turn | Control Failure |
+| **Crux D** — oversight is *not* tractable | Control Failure | Sharp Left Turn |
+| **Crux B** — primary failure is competitive, not unipolar | Sharp / Structural Disempowerment | Multipolar Racing |
+| **Crux E** — warning shots would *not* be actionable | Control Failure | Sharp Left Turn |
 | **Crux F** — doom encompasses present, distributed harm | Any | Outside this gallery's frame |

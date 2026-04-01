@@ -1,7 +1,18 @@
 project:
-  type: default
-  render:
-    - index.qmd
+  type: website
+  output-dir: _site
+
+website:
+  title: "AI Doom Debate Map"
+  navbar:
+    left:
+      - text: "Threat Models"
+        href: threat-models.qmd
+      - text: "Archetypes"
+        href: archetypes.qmd
+    right:
+      - icon: github
+        href: https://github.com/JTuffy/doom-debate-archetypes
 
 format:
   html:

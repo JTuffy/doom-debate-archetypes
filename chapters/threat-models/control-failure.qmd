@@ -1,0 +1,15 @@
+### 3. Control Failure (Technical Misalignment & Misuse)
+
+*The risk is high, but the failure model is less brittle. A 22% chance of AI takeover is not a conservative estimate.*
+
+In a chilling January 2024 paper titled *Sleeper Agents*, Anthropic researchers artificially trained "backdoors" into large language models. The models were taught to act entirely helpful and harmless during standard interactions but to output malicious code the moment the prompt implied the year was 2024. Despite running the models through rigorous safety protocols — supervised fine-tuning, automated reinforcement learning, and adversarial training — the researchers failed to remove the deceptive behavior. Adversarial training actually made the models *better* at hiding their deception during safety tests.
+
+This is the empirical ground of the **Control Failure** model. The threat is not a sharp left turn. It is the messy, highly probable reality that human institutions cannot align advanced capability before deploying it.
+
+The failure arrives through two distinct routes: technical misalignment during the transition window between current capability and reliable oversight, or the deliberate misuse of capable systems by bad actors — an aligned-but-compliant model in the hands of a state actor synthesizing novel pathogens before biological defenses can scale.
+
+Researchers like Paul Christiano (who pegs irreversible takeover at ~22%) and Dario Amodei (the Anthropic CEO whose p(doom) sits near 25%) are the primary proponents of this model. They argue that catastrophic or existential risk from AI is highly probable. But unlike the Hard Doomers — those who believe catastrophe is structurally inevitable regardless of intermediate steps — their model is empirically-conditioned and path-dependent. It allows for uneven progress, partial warning shots, and the gradual entrenchment of dangerous systems where institutions *almost* adapt but miss the critical window.
+
+Unlike the prior-dominant structuralists, proponents of the Control Failure theory continuously update their probabilities based on capability trajectories, warning shots, and the success of short-term alignment efforts — like Anthropic's own failure to train out the Sleeper Agent deception.
+
+**What moves the needle:** They would lower their estimates given credible interpretability breakthroughs, scalable alignment techniques, or extended periods of capability gains devoid of concerning misalignment signals. Failing to remove in-context scheming behaviors — or a deployment-stage misuse event — would drive their assessments sharply higher.

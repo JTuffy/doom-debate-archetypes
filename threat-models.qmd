@@ -1,0 +1,90 @@
+---
+title: "Archetypes of the Doom Debate"
+subtitle: "Mapping AI Risk Viewpoints — Threat Model Framework"
+date: "March 2026"
+author: "[Author TBD]"
+---
+
+::: {.callout-note collapse="true" title="Document Meta — read this first"}
+This document is a structured draft for a LessWrong post mapping viewpoints in the AI doom debate. The meta notes throughout are **permanent structural documentation** — they explain why each section is shaped the way it is and what to resist when writing. Never delete or shorten them. In this Quarto format, meta notes appear as margin asides when rendered.
+
+**Structure:**
+
+- **§I — Why This Map Exists:** The hook. 3 paragraphs. Creates the problem the post solves.
+- **§II — The Underlying Axes:** The scaffold. Five cross-cutting axes that prime the reader before portraits.
+- **§III — The Threat Models:** Six scenario-shaped fingerprints of distinct failure modes. Uniform shape by design.
+- **§IV — Three Cuts:** Regroupings of the threat models by epistemological stance, and core crux.
+- **§VI — What This Map Is Good For:** Brief closing. What the map does, doesn't do, points toward.
+
+**Writing discipline:** All portraits must have inline links. p(doom) numbers must cite where they were stated and specify what definition of doom applies. `[CITATION NEEDED: ...]` markers stay until resolved.
+:::
+
+---
+
+## I. Why This Map Exists
+
+::: aside
+**META:** Short. 2–3 paragraphs max. Create the problem the post solves — don't summarize the archetypes. Three beats: the frustrating observation → the non-obvious thesis → what this post does and doesn't do. The "but you didn't take a side" objection is forestalled in beat 3. Author locates position in §V.
+:::
+
+In May 2023, Geoffrey Hinton resigned from Google. He had spent a decade building the deep learning systems that underlie almost every major AI product deployed today, and he quit, he said, so he could talk freely about the danger. That same week, an open letter organized by the Future of Life Institute — signed by Elon Musk, Steve Wozniak, and over thirty thousand others — called for a six-month pause on frontier AI development. That same week, Yann LeCun, Meta's Chief AI Scientist and Hinton's co-recipient of the 2018 Turing Award for that same deep learning work, described the letter as "deeply misguided" and the concerns driving it as largely unfounded. All three stories ran under the same headline category: AI Risk.
+
+Anyone who followed all three came away with roughly nothing. Three people who spent their careers building these systems, with a shared prize between two of them, reaching incompatible conclusions about whether a crisis exists and of what kind. It was impossible to tell whether the disagreement was about how worried to be, or about something else entirely.
+
+It was about something else entirely. Hinton's concern is that future AI systems will develop capabilities humans can't fully understand or verify, at a scale that makes correction difficult. LeCun's reply is that the architecture required for that specific failure mode doesn't currently exist and won't emerge from scaling the transformer systems they've been building. These are different technical claims with different empirical stakes that happen to share vocabulary. The word "risk" is functioning as a filing cabinet.
+
+Yoshua Bengio and Eliezer Yudkowsky are the sharpest case. Both believe a sufficiently capable misaligned AI, acting autonomously in the world, ends catastrophically. Bengio responds by proposing mathematically restricted architectures — systems that can model the world without being able to act in it. Yudkowsky calls for a globally enforced moratorium on large compute runs, backed by physical strikes on noncompliant data centers if necessary. From the outside, this looks like a disagreement about whether AI is dangerous. It isn't. It's a disagreement about one architectural question: whether the *agency* in a capable AI system is a necessary consequence of the capability, or a separable design choice that can be made or avoided. One narrow crux. Two completely incompatible policies.
+
+"What's your p(doom)?" never locates any of this. Someone at 22% and someone at 2% can be making nearly identical causal claims — or completely incompatible ones — depending entirely on what they mean by doom and over what window. In 2023, guests on the same podcast gave p(doom) estimates ranging from near-zero to above 95%. They were not arguing with each other. They had never agreed on what they were estimating.
+
+The debate operates on several genuinely independent axes. More evidence doesn't move everyone in the same direction because different people are asking different questions. Whether power-seeking emerges inevitably from capable optimization or is a separable design choice. Whether current AI behavior is relevant evidence about the catastrophic scenarios at issue, or a distraction from a risk that lives several capability thresholds away. Whether the primary danger is a single optimizer achieving strategic dominance, or a race between many actors with no coordination mechanism. These dimensions are independent of each other — your position on one doesn't constrain your position on another — and they're where the real disagreements live, mostly unnamed.
+
+This post draws a map of those dimensions. It doesn't pick winners. The six threat models and five axes below try to locate exactly where the arguments live. A map that surfaces the structural disagreements is a necessary precondition for addressing them — because until the disagreements are legible, the debate keeps producing the spring 2023 experience: everyone certain they're discussing AI risk, nobody sure they're having the same conversation.
+
+---
+
+{{< include chapters/axes.qmd >}}
+
+---
+
+{{< include chapters/threat-models/intro.qmd >}}
+
+{{< include chapters/threat-models/sharp-left-turn.qmd >}}
+
+::: aside
+**META (Pivot):** If the Sharp Left Turn threat model is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power through misaligned subsystems?
+:::
+
+{{< include chapters/threat-models/structural-disempowerment.qmd >}}
+
+::: aside
+**META (Pivot):** Both the Sharp Left Turn and Structural Disempowerment assume catastrophic bad outcomes are the default result of optimization. But what if the structural danger is real, yet technical alignment isn't completely impossible, allowing for a mix of oversight failures and misuses instead of an inevitable universal takeover?
+:::
+
+{{< include chapters/threat-models/control-failure.qmd >}}
+
+::: aside
+**META (Pivot):** The Control Failure model worries about technically aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
+:::
+
+{{< include chapters/threat-models/multipolar-racing.qmd >}}
+
+::: aside
+**META (Pivot):** Multipolar Racing sees uncontrolled human coordination as the driver of doom. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of specific autonomous architectures globally.
+:::
+
+{{< include chapters/threat-models/architectural-agency.qmd >}}
+
+::: aside
+**META (Pivot):** Architectural Agency warns us to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway, or what if the risks are fundamentally mundane?
+:::
+
+{{< include chapters/threat-models/mundane-integration.qmd >}}
+
+---
+
+{{< include chapters/cuts.qmd >}}
+
+---
+
+{{< include chapters/utility.qmd >}}

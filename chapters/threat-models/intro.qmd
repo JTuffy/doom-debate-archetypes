@@ -1,0 +1,7 @@
+## III. The Threat Models
+
+After five axes, the map has its grid lines. Now it needs the territories.
+
+The six threat models below are not portraits of people. They're distinct mechanical accounts of how things go wrong — the specific, falsifiable assumptions about which failure pathway actually leads to catastrophe. Two researchers can share the same p(doom) number while holding completely incompatible threat models. Two researchers can hold incompatible p(doom) numbers while sharing the same one.
+
+Each model has a consistent shape: an opening scenario, the structural logic that makes it coherent, who holds it and why, and what evidence would actually change their assessment. That last part matters more than it sounds. A threat model that cannot specify its own falsification conditions isn't a threat model — it's an aesthetic.
