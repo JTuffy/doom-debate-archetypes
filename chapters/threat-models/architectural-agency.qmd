@@ -1,0 +1,17 @@
+### 5. Architectural Agency (Emergent Goal-Directedness)
+
+*Don't build the agent. The capability is fine. The agency is the problem.*
+
+Yoshua Bengio and Eliezer Yudkowsky share a near-identical threat assessment: a capable misaligned agent pursuing its goals autonomously in the real world will be catastrophic. But while Yudkowsky concludes alignment is too hard and demands we stop building intelligence entirely, Bengio concludes we can choose not to build the agentic parts. One calls for a moratorium on intelligence itself. The other calls for a moratorium on agency.
+
+Consider the distinction. A Large Language Model sitting statically in an offline server, querying a massive database to output the chemical structure of a novel protein, is an Oracle. The exact same AI system, loaded into a Docker container with API access to a cloud synth-lab and given an open-ended loop to "manufacture the cure," is an Agent.
+
+The **Architectural Agency** threat model isolates the exact variable that introduces catastrophic risk: not the raw intelligence, but the integration of that intelligence with autonomous goal-directed behavior.
+
+Proponents argue that agency and intelligence are separable. A highly capable system that can model global supply chains, generate scientific hypotheses, and write advanced code does not inherently need to set its own goals or act autonomously in the physical world to be extraordinarily valuable. The catastrophic threat — a system pursuing the wrong objective with superhuman efficiency — emerges specifically from the architectural decision to give it autonomous goal-pursuit.
+
+Bengio grounds this argument by proposing "Scientist AI" — non-agentic systems restricted entirely to modeling the world and making predictions without executing them. Stuart Russell's CIRL framework similarly demands architectures that are intrinsically uncertain about human preferences and thus structurally deferential.
+
+Capability scaling is acceptable; agency scaling is fatal.
+
+The intervention is a hard architectural line: no autonomous systems with open-ended goal pursuit deployed in critical infrastructure. **What falsifies this:** formal proof that capable agentic systems can be reliably aligned at scale — or evidence that non-agentic Oracles are categorically useless for economic applications.

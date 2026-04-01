@@ -1,0 +1,17 @@
+### 4. Competitive Racing (Multipolar Coordination Failure)
+
+*Even well-intentioned, individually rational actors can produce catastrophic outcomes together. No rogue optimizer required.*
+
+When Sam Altman reflected on OpenAI's work in early 2024, he acknowledged building what could be one of the most dangerous technologies in human history — and he continued building. Anthropic similarly frames its very existence against OpenAI as a "calculated bet": if powerful AI is coming regardless, it is better for safety-focused labs to push the frontier. Demis Hassabis at DeepMind employs roughly the same logic.
+
+Everyone involved in the generative AI race prefers a world where development is slower and more careful. But because they cannot unilaterally enforce a global slowdown, sitting out means ceding control to competitors they inherently trust less than themselves.
+
+This is the core of the **Competitive Racing** threat model. The dominant danger is not a rogue, misaligned system achieving spontaneous strategic dominance. It is unsupervised competition. State militaries, corporate labs, and open-source advocates are locked in a game-theoretic trap where coordination is functionally impossible and racing is highly incentivized.
+
+As a mechanism of doom, catastrophe arrives from bargaining failures among actors with misaligned interests, the erosion of human control, and the deployment of poorly vetted models purely because a competitor released theirs first.
+
+This model is advanced by strategic thinkers like Andrew Critch, Helen Toner, Stuart Russell, and Toby Ord. Critch assigns an 85% probability of doom not via a sovereign AGI, but via "industrial dehumanization" — humans losing economic and political relevance in an unsteerable machine economy. Toner's focus rests on the geopolitical deployment environment and the competitive incentives that guarantee labs cut corners on safety thresholds. Russell explicitly frames AI safety as an arms race problem requiring nuclear-style nonproliferation tracking. His proposed architecture mirrors the IAEA model: international inspectors verifying compute usage and model training runs the way IAEA inspectors verify fissile material inventories. The infrastructure doesn't exist, and the political will is arguably further away than the technology.
+
+Racing proponents operate on a political-economy-first epistemology. The relevant facts to them are institutional, geopolitical, and game-theoretic. They reject the notion that technical alignment inside an isolated lab is the primary bottleneck. A mathematically verifiable, perfectly aligned AI still kills you if the firm that builds it gets economically out-competed and absorbed by an adversary wielding a highly coercive, unaligned system.
+
+**What falsifies this:** Durable international governance that structurally alters competitive incentives — not voluntary commitments, not industry self-regulation. Mechanisms that make defecting on safety standards genuinely costly.

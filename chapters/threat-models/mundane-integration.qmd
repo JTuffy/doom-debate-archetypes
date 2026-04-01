@@ -1,0 +1,17 @@
+### 6. Mundane Integration & Paradigm Skepticism
+
+*The exotic threats are a category error. The real threats are mundane power concentration and decomposed risks.*
+
+Headlines frequently cite the 2024 AI Impacts Survey (Grace et al.) as evidence that thousands of AI researchers dismiss existential risk, usually pointing to the survey's 5% median probability of doom. Yet when asked specific, decomposed questions about whether a combination of factors could lead to an extinction-level outcome, 37–51% of those exact same respondents assigned a probability greater than 10%. By refusing to bundle all their uncertainty into a single "p(doom)" number — and instead treating the risk mathematically as a product of component probabilities (e.g., $P(\text{instrumental convergence}) \times P(\text{fast takeoff}) \times P(\text{coordination failure})$) — they generated a distribution with a meaningful right tail.
+
+A 5% median is not a dismissal of risk. It is a demand that we worry properly.
+
+Proponents of this view reject exotic threat models — rogue sovereign optimizers, overnight capability explosions — as a category error. The catastrophe is instead mundane: corporate oligopolies cornering the compute market, three million truck drivers displaced before retraining infrastructure exists, and the slow integration of powerful prediction tools into systems that were already fragile. The danger doesn't announce itself.
+
+Yann LeCun, Meta's Chief AI Scientist, is the public avatar of Paradigm Skepticism. His argument is entirely architectural: Large Language Models are sophisticated token-interpolators, but they do not possess embodied world-models, persistent memory, or causal reasoning. Consequently, the specific failure modes characterizing the "Sharp Left Turn" require a class of system that does not currently exist — and which will not magically emerge from scaling up current transformer architectures.
+
+A predictive software tool cannot execute a coup.
+
+Researchers holding this stance employ an empirically-conditioned, decomposition-first epistemology. The methodology question must precede the empirical question. They reject bundled assumptions masquerading as prediction, insisting on well-specified technical cruxes. The most urgent intervention they propose is aggressive open-source deployment — making capability widely available as a structural check on monopolistic compute concentration.
+
+**What falsifies this:** demonstration of an LLM-scale system exhibiting genuine causal reasoning, persistent goal pursuit, or autonomous planning — not merely better benchmark scores. Until then, preparing for a science-fiction takeover isn't cautious — it's a distraction from the harms already compounding in the systems we've already built.

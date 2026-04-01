@@ -12,8 +12,8 @@ This document is a structured draft for a LessWrong post mapping viewpoints in t
 
 - **§I — Why This Map Exists:** The hook. 3 paragraphs. Creates the problem the post solves.
 - **§II — The Underlying Axes:** The scaffold. Five cross-cutting axes that prime the reader before portraits.
-- **§III — The Archetypes:** Seven portrait-shaped fingerprints of distinct view clusters. Uniform shape by design.
-- **§IV — Three Cuts:** Regroupings of the seven archetypes by mechanism, epistemological stance, and core crux.
+- **§III — The Threat Models:** Six scenario-shaped fingerprints of distinct failure modes. Uniform shape by design.
+- **§IV — Three Cuts:** Regroupings of the threat models by epistemological stance, and core crux.
 - **§VI — What This Map Is Good For:** Brief closing. What the map does, doesn't do, points toward.
 
 **Writing discipline:** All portraits must have inline links. p(doom) numbers must cite where they were stated and specify what definition of doom applies. `[CITATION NEEDED: ...]` markers stay until resolved.
@@ -27,13 +27,13 @@ This document is a structured draft for a LessWrong post mapping viewpoints in t
 **META:** Short. 2–3 paragraphs max. Create the problem the post solves — don't summarize the archetypes. Three beats: the frustrating observation → the non-obvious thesis → what this post does and doesn't do. The "but you didn't take a side" objection is forestalled in beat 3. Author locates position in §V.
 :::
 
-The debate about AI risk is structurally illegible. Yoshua Bengio and Eliezer Yudkowsky share the exact same threat model. Both believe a sufficiently capable AI system with misaligned goals, acting in the world, would be catastrophic. Yet, one thinks the right response is to avoid building agentic systems, while the other believes that will inevitably fail and demands a highly enforced global treaty. They agree on the danger. They disagree violently on the prescription. From the outside, their debate looks like a disagreement about whether AI is a threat at all. It isn't. It is a disagreement about whether architecture choices can actually close the safety gap.
+The debate about AI risk is structurally illegible. Yoshua Bengio and Eliezer Yudkowsky share the same threat model. Both believe a sufficiently capable misaligned AI, acting autonomously in the world, ends badly. One responds by proposing mathematically restricted architectures. The other calls for a globally enforced compute moratorium — backed by physical force if necessary. From the outside, this looks like a disagreement about whether AI is dangerous. It isn't. It's a disagreement about whether we can engineer our way out of the danger once we've already built it.
 
-Surface-level metrics continually mask these structural cruxes. Consider: someone with a 22% p(doom) and someone with a 2% p(doom) can harbor incompatible disagreements, or almost no disagreement at all, depending on which definitions of risk they are carrying. The question "what's your p(doom)?" almost never locates the actual argument.
+"What's your p(doom)?" almost never locates the actual argument. Someone with 22% and someone with 2% can be making incompatible causal claims — or nearly identical ones — depending entirely on what they mean by doom and over what window.
 
-The debate remains illegible because it is fundamentally multi-dimensional. It isn't a simple continuum running from "not worried" to "very worried" where more information moves you left or right. It operates on several independent, load-bearing axes—such as whether power-seeking emerges by default, or whether current multi-modal models constitute relevant safety evidence. Consequently, individuals who appear aligned on top-level risk are often making entirely contradictory causal claims.
+The debate operates on several independent axes, not a single worried-to-not-worried spectrum. More evidence doesn't reliably move anyone in the same direction because different people are asking different questions. The axes that do most of the structural work — whether power-seeking is emergent or designed in, whether current model behavior is relevant evidence at all — are genuinely independent of each other. People who appear to agree about the danger are often making entirely contradictory causal claims beneath the surface.
 
-This post draws a map. It doesn't pick winners. A map of a debate isn't useful because it acts as an arbiter—it is useful because it uncovers the structural disagreements, making them addressable. The following seven archetypes and five axes attempt to locate those Cruxes. The framework comes first.
+This post draws a map. It doesn't pick winners. A map doesn't act as arbiter. It uncovers the structural disagreements — and that's the only thing that makes them addressable. The six threat models and five axes below try to locate exactly where the real arguments live. The framework comes first.
 
 ---
 
@@ -41,45 +41,39 @@ This post draws a map. It doesn't pick winners. A map of a debate isn't useful b
 
 ---
 
-{{< include chapters/archetypes/intro.qmd >}}
+{{< include chapters/threat-models/intro.qmd >}}
 
-{{< include chapters/archetypes/hard-doomer.qmd >}}
-
-::: aside
-**META (Pivot):** If the Hard Doomer is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power? Enter the Structural Doomer.
-:::
-
-{{< include chapters/archetypes/structural-doomer.qmd >}}
+{{< include chapters/threat-models/sharp-left-turn.qmd >}}
 
 ::: aside
-**META (Pivot):** The Structural Doomer assumes bad outcomes are the default result of optimization. But what if the structural danger is real, yet alignment is merely an extraordinarily hard engineering problem rather than a theoretical impossibility?
+**META (Pivot):** If the Sharp Left Turn threat model is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power through misaligned subsystems?
 :::
 
-{{< include chapters/archetypes/conditional-doomer.qmd >}}
+{{< include chapters/threat-models/structural-disempowerment.qmd >}}
 
 ::: aside
-**META (Pivot):** The Conditional Doomer worries about successfully aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
+**META (Pivot):** Both the Sharp Left Turn and Structural Disempowerment assume catastrophic bad outcomes are the default result of optimization. But what if the structural danger is real, yet technical alignment isn't completely impossible, allowing for a mix of oversight failures and misuses instead of an inevitable universal takeover?
 :::
 
-{{< include chapters/archetypes/multipolar.qmd >}}
+{{< include chapters/threat-models/control-failure.qmd >}}
 
 ::: aside
-**META (Pivot):** The Multipolar Realist sees human coordination as the only check against dangerous racing dynamics. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of autonomous agents globally.
+**META (Pivot):** The Control Failure model worries about technically aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
 :::
 
-{{< include chapters/archetypes/safe-by-design.qmd >}}
+{{< include chapters/threat-models/multipolar-racing.qmd >}}
 
 ::: aside
-**META (Pivot):** The Alarmist wants to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway?
+**META (Pivot):** Multipolar Racing sees uncontrolled human coordination as the driver of doom. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of specific autonomous architectures globally.
 :::
 
-{{< include chapters/archetypes/paradigm-skeptic.qmd >}}
+{{< include chapters/threat-models/architectural-agency.qmd >}}
 
 ::: aside
-**META (Pivot):** The Skeptic believes current models won't reach AGI. But what if they actually do, and instead of a sharp capability cliff or an explosion, the transition is just a continuous, mundane process of economic integration?
+**META (Pivot):** Architectural Agency warns us to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway, or what if the risks are fundamentally mundane?
 :::
 
-{{< include chapters/archetypes/gradualist.qmd >}}
+{{< include chapters/threat-models/mundane-integration.qmd >}}
 
 ---
 
@@ -88,4 +82,3 @@ This post draws a map. It doesn't pick winners. A map of a debate isn't useful b
 ---
 
 {{< include chapters/utility.qmd >}}
-
