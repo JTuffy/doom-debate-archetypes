@@ -1,8 +1,6 @@
 # Makefile for dd-post Quarto project
 
 QUARTO := "C:/Program Files/Quarto/bin/quarto.exe"
-ENTRY  := index.qmd
-OUT    := index.html
 
 # ── Default ──────────────────────────────────────────────────────────────────
 .PHONY: all
@@ -11,12 +9,12 @@ all: render
 # ── Build ─────────────────────────────────────────────────────────────────────
 .PHONY: render
 render:
-	$(QUARTO) render $(ENTRY)
+	$(QUARTO) render
 
 # ── Dev server ────────────────────────────────────────────────────────────────
 .PHONY: preview
 preview:
-	$(QUARTO) preview $(ENTRY)
+	$(QUARTO) preview
 
 # ── Clean build artifacts ─────────────────────────────────────────────────────
 .PHONY: clean

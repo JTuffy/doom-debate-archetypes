@@ -1,84 +1,15 @@
 ---
-title: "Archetypes of the Doom Debate"
-subtitle: "Mapping AI Risk Viewpoints"
-date: "March 2026"
-author: "[Author TBD]"
+title: "AI Doom Debate Map"
+format:
+  html:
+    page-layout: full
+    toc: false
+execute:
+  echo: false
 ---
 
-::: {.callout-note collapse="true" title="Document Meta — read this first"}
-This document is a structured draft for a LessWrong post mapping viewpoints in the AI doom debate. The meta notes throughout are **permanent structural documentation** — they explain why each section is shaped the way it is and what to resist when writing. Never delete or shorten them. In this Quarto format, meta notes appear as margin asides when rendered.
-
-**Structure:**
-
-- **§I — Why This Map Exists:** The hook. 3 paragraphs. Creates the problem the post solves.
-- **§II — The Underlying Axes:** The scaffold. Five cross-cutting axes that prime the reader before portraits.
-- **§III — The Threat Models:** Six scenario-shaped fingerprints of distinct failure modes. Uniform shape by design.
-- **§IV — Three Cuts:** Regroupings of the threat models by epistemological stance, and core crux.
-- **§VI — What This Map Is Good For:** Brief closing. What the map does, doesn't do, points toward.
-
-**Writing discipline:** All portraits must have inline links. p(doom) numbers must cite where they were stated and specify what definition of doom applies. `[CITATION NEEDED: ...]` markers stay until resolved.
-:::
-
----
-
-## I. Why This Map Exists
-
-::: aside
-**META:** Short. 2–3 paragraphs max. Create the problem the post solves — don't summarize the archetypes. Three beats: the frustrating observation → the non-obvious thesis → what this post does and doesn't do. The "but you didn't take a side" objection is forestalled in beat 3. Author locates position in §V.
-:::
-
-The debate about AI risk is structurally illegible. Yoshua Bengio and Eliezer Yudkowsky share the same threat model. Both believe a sufficiently capable misaligned AI, acting autonomously in the world, ends badly. One responds by proposing mathematically restricted architectures. The other calls for a globally enforced compute moratorium — backed by physical force if necessary. From the outside, this looks like a disagreement about whether AI is dangerous. It isn't. It's a disagreement about whether we can engineer our way out of the danger once we've already built it.
-
-"What's your p(doom)?" almost never locates the actual argument. Someone with 22% and someone with 2% can be making incompatible causal claims — or nearly identical ones — depending entirely on what they mean by doom and over what window.
-
-The debate operates on several independent axes, not a single worried-to-not-worried spectrum. More evidence doesn't reliably move anyone in the same direction because different people are asking different questions. The axes that do most of the structural work — whether power-seeking is emergent or designed in, whether current model behavior is relevant evidence at all — are genuinely independent of each other. People who appear to agree about the danger are often making entirely contradictory causal claims beneath the surface.
-
-This post draws a map. It doesn't pick winners. A map doesn't act as arbiter. It uncovers the structural disagreements — and that's the only thing that makes them addressable. The six threat models and five axes below try to locate exactly where the real arguments live. The framework comes first.
-
----
-
-{{< include chapters/axes.qmd >}}
-
----
-
-{{< include chapters/threat-models/intro.qmd >}}
-
-{{< include chapters/threat-models/sharp-left-turn.qmd >}}
-
-::: aside
-**META (Pivot):** If the Sharp Left Turn threat model is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power through misaligned subsystems?
-:::
-
-{{< include chapters/threat-models/structural-disempowerment.qmd >}}
-
-::: aside
-**META (Pivot):** Both the Sharp Left Turn and Structural Disempowerment assume catastrophic bad outcomes are the default result of optimization. But what if the structural danger is real, yet technical alignment isn't completely impossible, allowing for a mix of oversight failures and misuses instead of an inevitable universal takeover?
-:::
-
-{{< include chapters/threat-models/control-failure.qmd >}}
-
-::: aside
-**META (Pivot):** The Control Failure model worries about technically aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
-:::
-
-{{< include chapters/threat-models/multipolar-racing.qmd >}}
-
-::: aside
-**META (Pivot):** Multipolar Racing sees uncontrolled human coordination as the driver of doom. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of specific autonomous architectures globally.
-:::
-
-{{< include chapters/threat-models/architectural-agency.qmd >}}
-
-::: aside
-**META (Pivot):** Architectural Agency warns us to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway, or what if the risks are fundamentally mundane?
-:::
-
-{{< include chapters/threat-models/mundane-integration.qmd >}}
-
----
-
-{{< include chapters/cuts.qmd >}}
-
----
-
-{{< include chapters/utility.qmd >}}
+```{=html}
+<meta http-equiv="refresh" content="0; url=threat-models.html">
+<script>window.location.replace("threat-models.html");</script>
+<p>Redirecting… <a href="threat-models.html">Click here if not redirected</a>.</p>
+```
