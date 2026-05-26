@@ -1,4 +1,4 @@
-### 6. The Safe-by-Design Alarmist
+### 5. The Safe-by-Design Alarmist
 
 ::: aside
 **META:** Bengio's position. Shares the Hard Doomer's mechanism (unipolar optimizer) but routes the response through design, not alignment or moratoriums. The key insight: two people can agree that autonomous agentic AI is dangerous and reach completely different conclusions about what to do.

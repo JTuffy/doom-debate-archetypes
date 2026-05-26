@@ -1,4 +1,4 @@
-### 5. The Gradualist Forecaster
+### 7. The Gradualist Forecaster
 
 ::: aside
 **META:** Easy to misread as "less worried." She's not — she's making a methodological claim. The defamiliarizing move: decomposition-first thinkers often end up with *higher* effective concern than their median p(doom) suggests, because refusing to commit on uncertain sub-claims produces wider probability distributions, not narrower ones. Lead with this. The survey data is confirmatory, not the headline.

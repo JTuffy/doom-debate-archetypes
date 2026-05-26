@@ -1,4 +1,4 @@
-### 7. The Capability / Paradigm Skeptic
+### 6. The Capability / Paradigm Skeptic
 
 ::: aside
 **META:** LeCun's position. He's not a capability-ceiling believer — he's a paradigm skeptic. Current LLMs aren't on the path to the dangerous thing. Don't let this get caricatured as "AI is safe." He has a positive research agenda (world models) and a real power-concentration concern.
