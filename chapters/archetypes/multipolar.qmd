@@ -10,9 +10,9 @@
 
 **The cluster includes voices with quite different entry points:**
 
-- **Andrew Critch** approaches it from formal AI safety and game theory: his [ARCHES framework](https://arxiv.org/abs/2006.04948) (2020) introduced multipolar challenges as analytically distinct from single-agent alignment failure. His p(doom) is ~85%, but his most probable failure path is what he calls "industrial dehumanization" — a slow structural process by which humans lose economic and political relevance in a machine economy, not a dramatic takeover.
+- **Andrew Critch** approaches it from formal AI safety and game theory: his [ARCHES framework](https://arxiv.org/abs/2006.04948) (2020) introduced multipolar challenges as analytically distinct from single-agent alignment failure. His p(doom) is ~85%, but his most probable failure path is what he calls "industrial dehumanization" — a slow structural process by which humans lose economic and political relevance in a machine economy, not a dramatic takeover. *(Load the Andrew Critch preset on the [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html?preset=critch).)*
 
-- **Helen Toner** ([Georgetown CSET](https://cset.georgetown.edu)) approaches it from strategic studies: the risk landscape is shaped by how labs, states, and militaries interact under competitive pressure. Her concern is less about any system's intrinsic properties and more about the deployment environment — who controls frontier AI, under what rules, and with what incentives to cut corners.
+- **Helen Toner** ([Georgetown CSET](https://cset.georgetown.edu)) approaches it from strategic studies: the risk landscape is shaped by how labs, states, and militaries interact under competitive pressure. Her concern is less about any system's intrinsic properties and more about the deployment environment — who controls frontier AI, under what rules, and with what incentives to cut corners. *(Load the Helen Toner preset on the [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html?preset=toner).)*
 
 - **Stuart Russell** frames it as an arms race problem: individually rational actors cannot unilaterally slow down, even if each would prefer a world where everyone did. His book *[Human Compatible](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616)* (2019) is the readable entry point.
 
@@ -26,6 +26,7 @@ What makes this dynamic particularly stable is that the "race as safety bet" arg
 |---|---|
 | **Mechanism** | Distributed / competitive: unsafe racing, coordination failure, gradual structural lock-in |
 | **Epistemological stance** | Political-economy-first and empirically-conditioned: the relevant evidence is institutional, geopolitical, and game-theoretic |
+| **Tree Node Mapping** | High $P(\text{AI-driven})$ &rarr; Low $P(\text{Single})$ (High Multipolar) &rarr; Extreme conditional risk on the multipolar leaf ($t\text{-}d\text{-}multi$ &approx; 0.90) |
 | **What they reject** | That technical alignment of individual systems is the primary bottleneck; that catastrophe requires a single dramatic threshold event; that governance is downstream of technical facts |
 | **What would update them** | Robust international coordination mechanisms that durably slow racing dynamics; evidence that competitive incentives can be restructured without hegemonic enforcement |
 

@@ -38,6 +38,8 @@ There's a further layer here that doesn't reduce to epistemological stance alone
 **META:** The practically useful cut. Each crux is a specific binary claim where a real factual disagreement lies, addressable in principle by argument or forecasting. Crux E (warning shots) gets a paragraph, not just a table row — it's the crux with the most available near-term evidence and the most disagreement about what counts.
 :::
 
+The cruxes below represent the core factual and philosophical disagreements between the clusters. You can run a Crux Analysis between any two presets on our [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html) to see mathematically how resolving a specific crux would move your overall P(doom).
+
 | Crux | What hangs on it |
 |---|---|
 | **A. Agency emergent vs. design choice** | If emergent → architectural avoidance is wishful thinking; if design choice → path matters enormously and Bengio's agenda is coherent |

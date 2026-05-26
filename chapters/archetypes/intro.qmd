@@ -1,5 +1,10 @@
 ## III. The Archetypes
 
+::: {.callout-tip}
+### Interactive Worldviews
+Each of the archetypes below corresponds to a preset worldview on our [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html). You can load these presets to see how their assumptions propagate mathematically, or compare them using the Crux Analysis feature.
+:::
+
 ::: aside
 **META:** Portrait gallery. Each entry is a concise fingerprint, not a full essay. The portraits are ordered roughly from most certain about long-run catastrophic risk to most skeptical of it — but that ordering is approximate and shouldn't be read as a spectrum. The mechanism, epistemological stance, and crux structure show that people at similar positions on this axis are often making completely different underlying claims. Uniform portrait shape is a design choice: forces comparison, resists the urge to give more space to views you find compelling.
 :::
@@ -7,7 +12,7 @@
 ### Portrait Shape
 
 ::: aside
-**META (structure):** This shape is a design constraint, not a template. Fields are fixed — do not add rows to the table. The defamiliarizing observation is optional and should only appear when there's a genuine surprise worth naming.
+**META (structure):** This shape is a design constraint, not a template. Fields are fixed — do not add rows to the table unless representing the mathematical tree mapping. The defamiliarizing observation is optional and should only appear when there's a genuine surprise worth naming.
 :::
 
 > *[Tagline — one sentence, punchy, in italics]*
@@ -18,5 +23,6 @@
 |---|---|
 | **Mechanism** | [Which failure mechanism from Axis 3] |
 | **Epistemological stance** | [Which stance from Axis 4] |
+| **Tree Node Mapping** | [How their beliefs map to the specific mathematical nodes of the tree] |
 | **What they reject** | [1–2 things neighboring views believe that this position denies] |
 | **What would update them** | [Evidence or argument that would move this position] |

@@ -10,7 +10,7 @@
 
 **The cluster includes voices with different entry points:**
 
-- **Nick Bostrom** is the canonical source for the argument architecture. *[Superintelligence](https://global.oup.com/academic/product/superintelligence-9780198739838)* (Oxford, 2014) remains the clearest systematic treatment of orthogonality, instrumental convergence, and decisive strategic advantage. A critical note: Bostrom's own position has shifted. *[Deep Utopia](https://www.amazon.com/Deep-Utopia-Meaning-Solved-World/dp/1646871952)* (2024) explores substantially more positive AGI outcomes; he now describes the transition as "one we should do." The arguments of *Superintelligence* stand; the author has moved. Citing him as a current representative without that footnote is position laundering.
+- **Nick Bostrom** is the canonical source for the argument architecture. *[Superintelligence](https://global.oup.com/academic/product/superintelligence-9780198739838)* (Oxford, 2014) remains the clearest systematic treatment of orthogonality, instrumental convergence, and decisive strategic advantage. A critical note: Bostrom's own position has shifted. *[Deep Utopia](https://www.amazon.com/Deep-Utopia-Meaning-Solved-World/dp/1646871952)* (2024) explores substantially more positive AGI outcomes; he now describes the transition as "one we should do." The arguments of *Superintelligence* stand; the author has moved. Citing him as a current representative without that footnote is position laundering. *(Load the Nick Bostrom preset on the [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html?preset=bostrom).)*
 
 - **Joe Carlsmith** is the clearest current voice for the structural position without the Hard Doomer's political urgency. His LessWrong sequence [*Is Power-Seeking AI an Existential Risk?*](https://arxiv.org/abs/2206.13353) (arXiv, 2022) does the careful philosophical work of establishing when and why the orthogonality-plus-convergence argument actually bites, and where it requires non-trivial empirical assumptions. His p(doom) estimate (~5–10% by his own accounting) is lower than Yudkowsky's but his argument structure is pure Structural Doomer: the case rests on the logic of sufficiently capable optimization, not on timelines or current AI behavior.
 
@@ -20,6 +20,7 @@
 |---|---|
 | **Mechanism** | Unipolar optimizer — same as Hard Doomer, but the path is less constrained to fast takeoff; slow continuous progress into misaligned high capability is also alarming |
 | **Epistemological stance** | Prior-dominant: the orthogonality and convergence arguments don't require current AI behavior as evidence |
+| **Tree Node Mapping** | High $P(\text{AI-driven})$ &rarr; High $P(\text{Single})$ &rarr; High conditional risk on leaves ($t\text{-}d\text{-}no\text{-}rep$ and $t\text{-}d\text{-}no\text{-}expects$) driven by optimization pressure, independent of takeoff speed |
 | **What they reject** | That gradual takeoff means legible warning signs; that governance can substitute for alignment; that the control problem is tractable under current approaches |
 | **What would update them** | Formal evidence that instrumental convergence is weak in practice for realistic capability levels; a scalable alignment technique with theoretical safety guarantees; compelling argument that decisive strategic advantage is structurally unavailable |
 
