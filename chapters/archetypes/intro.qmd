@@ -11,6 +11,8 @@ Each of the archetypes below corresponds to a preset worldview on our [interacti
 
 ### Portrait Shape
 
+The gallery below is ordered roughly by stated concern about long-run catastrophic risk, from most to least. That ordering is a navigational convenience, not the post's claim — the argument of §IV is that concern level is precisely the axis that obscures the most important structural differences. The mechanism, epistemological stance, and crux columns show why.
+
 ::: aside
 **META (structure):** This shape is a design constraint, not a template. Fields are fixed — do not add rows to the table unless representing the mathematical tree mapping. The defamiliarizing observation is optional and should only appear when there's a genuine surprise worth naming.
 :::
