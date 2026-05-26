@@ -6,7 +6,7 @@
 
 *The control problem is deep and general. Fast takeoff is one way for it to end badly. Slow takeoff is another.*
 
-**What this group believes:** Even without a dramatic overnight transition, a sufficiently capable AI system with goals even slightly misaligned with human welfare is dangerous. The argument rests on two structural claims: the [orthogonality thesis](https://www.nickbostrom.com/superintelligencefaq.html) — that any level of intelligence is compatible with any terminal goal — and [instrumental convergence](https://www.lesswrong.com/tag/instrumental-convergence) — that almost any goal structure generates subgoals like self-preservation and resistance to modification. Together, these imply that powerful optimization isn't automatically safe. The conclusion doesn't require commitment to a specific takeoff speed.
+**What this group believes:** Even without a dramatic overnight transition, a sufficiently capable AI system with goals even slightly misaligned with human welfare is dangerous. The argument rests on two structural claims: the orthogonality thesis^[Bostrom, *Superintelligence* (Oxford, 2014), ch. 7; also \"The Superintelligent Will,\" *Minds and Machines* 22(2), 2012.] — that any level of intelligence is compatible with any terminal goal — and [instrumental convergence](https://www.lesswrong.com/tag/instrumental-convergence) — that almost any goal structure generates subgoals like self-preservation and resistance to modification. Together, these imply that powerful optimization isn't automatically safe. The conclusion doesn't require commitment to a specific takeoff speed.
 
 **The cluster includes voices with different entry points:**
 
