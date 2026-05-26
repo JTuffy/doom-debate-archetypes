@@ -1,7 +1,7 @@
 ### 7. The Gradualist Forecaster
 
 ::: aside
-**META:** Easy to misread as "less worried." She's not — she's making a methodological claim. The defamiliarizing move: decomposition-first thinkers often end up with *higher* effective concern than their median p(doom) suggests, because refusing to commit on uncertain sub-claims produces wider probability distributions, not narrower ones. Lead with this. The survey data is confirmatory, not the headline.
+**META:** The methodological claim (decomposition-first) is the lead, not the survey data — Grace is here for the methodology, not to say "researchers aren't worried." The key move: decomposition-first reasoning compounds uncertainty and often produces wider distributions with higher right tails, not lower concern. This is made in the body paragraph and crystallized in the defamiliarizing observation. Metaculus/forecasting community is a second entry to show the cluster isn't just Grace. Tree node mapping uses wide uncertainty ranges (lo/hi) rather than point probabilities, which distinguishes this from every other archetype.
 :::
 
 *The question isn't what probability you assign. It's whether you even have a well-formed question to assign it to.*

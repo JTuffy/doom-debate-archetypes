@@ -1,7 +1,7 @@
 ### 2. The Structural Doomer
 
 ::: aside
-**META:** Distinguish from Hard Doomer — they're often conflated. Structural Doomer is less dependent on fast takeoff. The orthogonality and convergence arguments stand independent of takeoff speed. Bostrom is the canonical source but his own position has shifted significantly by 2024 — name this explicitly. The contemporary voice question is live: who currently holds this position without Yudkowsky's urgency or Bostrom's drift?
+**META:** The Hard Doomer/Structural Doomer distinction is often collapsed; the key difference is that Structural Doomer doesn't require fast takeoff — slow continuous progress into misaligned high capability is equally alarming. Carlsmith is the contemporary voice: his p(doom) (~5–10%) is lower than Yudkowsky's but the argument structure is identical. Bostrom is cited as the canonical source for the *arguments*, not the current person — the position-laundering note handles this explicitly and is the defamiliarizing observation. Wentworth is a third entry to show the cluster isn't just about two famous names.
 :::
 
 *The control problem is deep and general. Fast takeoff is one way for it to end badly. Slow takeoff is another.*

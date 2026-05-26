@@ -1,7 +1,7 @@
 ## II. The Underlying Axes
 
 ::: aside
-**META:** Load-bearing. Without this, archetypes arrive as a gallery without a scaffold. Keep tightly scoped — only axes that are (a) genuinely cross-cutting and (b) not immediately obvious to a LW reader. These are the dimensions that, once named, make the portrait comparisons legible.
+**META:** Five axes were selected for being (a) genuinely cross-cutting — positions can be independent on any pair — and (b) non-obvious to an LW reader. Axis 2 (agency emergent vs. design choice) is the most load-bearing: it determines whether architectural avoidance is even a coherent intervention. Axis 5 was expanded to include the time-window sub-axis, which is almost never named in the debate but explains much of the disconnect between near-term misuse concerns and long-run optimization arguments.
 :::
 
 Five dimensions do most of the structural work in this debate. They're not the only axes, but they're the ones where positions are genuinely independent of each other — you can be anywhere on Axis 2 regardless of where you are on Axis 5. Getting these clear first makes the portraits below much easier to read.

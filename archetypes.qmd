@@ -5,18 +5,18 @@ date: "March 2026"
 author: "[Author TBD]"
 ---
 
-::: {.callout-note collapse="true" title="Document Meta — read this first"}
-This document is a structured draft for a LessWrong post mapping viewpoints in the AI doom debate. The meta notes throughout are **permanent structural documentation** — they explain why each section is shaped the way it is and what to resist when writing. Never delete or shorten them. In this Quarto format, meta notes appear as margin asides when rendered.
+::: {.callout-note collapse="true" title="Document Meta — editorial rationale"}
+This document is a LessWrong post mapping viewpoints in the AI doom debate. The meta notes throughout are **editorial rationale** — they record why each section is shaped the way it is and what design decisions were made. Retain them for future revision reference.
 
-**Structure:**
+**Settled structure:**
 
-- **§I — Why This Map Exists:** The hook. 3 paragraphs. Creates the problem the post solves.
-- **§II — The Underlying Axes:** The scaffold. Five cross-cutting axes that prime the reader before portraits.
-- **§III — The Archetypes:** Seven portrait-shaped fingerprints of distinct view clusters. Uniform shape by design.
-- **§IV — Three Cuts:** Regroupings of the seven archetypes by mechanism, epistemological stance, and core crux.
-- **§VI — What This Map Is Good For:** Brief closing. What the map does, doesn't do, points toward.
+- **§I — Why This Map Exists:** 3 paragraphs. Three beats: the Bengio/Yudkowsky observation → p(doom) as insufficient locator → what the map does and doesn't do. Framing the third paragraph around the axes rather than a general "multi-dimensional" claim was a deliberate tightening from a 4-paragraph draft.
+- **§II — The Underlying Axes:** Five axes selected for being cross-cutting and non-obvious to an LW audience. Axis 2 (emergent vs. design choice) is the most load-bearing; Axis 5 includes the time-window dimension as a second sub-axis.
+- **§III — The Archetypes:** Seven portraits. Uniform shape by design — forces comparison, resists giving more space to favored views. All seven now have defamiliarizing observations. Numbered 1–7 in render order.
+- **§IV — Three Cuts:** Mechanism, epistemological stance, core crux. The transition table makes the map dynamic rather than a static gallery.
+- **§VI — What This Map Is Good For:** Brief closing. Deliberately no new content — the final line ("ask which crux they are treating as settled") is the payoff.
 
-**Writing discipline:** All portraits must have inline links. p(doom) numbers must cite where they were stated and specify what definition of doom applies. `[CITATION NEEDED: ...]` markers stay until resolved.
+**Outstanding:** §V (author's own position, `chapters/position.qmd`) exists but is not yet included. Four TBDs remain for the author to fill before adding the include. All p(doom) citation markers resolved except where flagged inline.
 :::
 
 ---
@@ -24,7 +24,7 @@ This document is a structured draft for a LessWrong post mapping viewpoints in t
 ## I. Why This Map Exists
 
 ::: aside
-**META:** Short. 2–3 paragraphs max. Create the problem the post solves — don't summarize the archetypes. Three beats: the frustrating observation → the non-obvious thesis → what this post does and doesn't do. The "but you didn't take a side" objection is forestalled in beat 3. Author locates position in §V.
+**META:** 3 paragraphs. Beat 1: Bengio/Yudkowsky as the entry — two people with the same threat model reaching incompatible conclusions. This is more precise than the old "debate is multi-dimensional" opener, which was generic. Beat 2: p(doom) as a number fails to locate the argument (the 22%/2% example). Beat 3: what the map does (locates cruxes) and doesn't do (pick winners) — the axes are named here before the portraits, which previews §II–§IV. Prior draft had a redundant fourth paragraph making the "multi-dimensional" claim in the abstract; that was folded into beat 3.
 :::
 
 The debate about AI risk is structurally illegible. Yoshua Bengio and Eliezer Yudkowsky share the exact same threat model. Both believe a sufficiently capable AI system with misaligned goals, acting in the world, would be catastrophic. Yet one thinks the right response is to avoid building agentic systems, while the other believes that will inevitably fail and demands a globally enforced moratorium. They agree on the danger. They disagree on the prescription. From the outside, their debate looks like a disagreement about whether AI is a threat at all. It isn't. It is a disagreement about whether architectural choices can close the safety gap — one specific technical crux, with enormous policy consequences on either side.
