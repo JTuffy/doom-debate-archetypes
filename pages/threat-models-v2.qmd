@@ -8,7 +8,7 @@ author: "[Author TBD]"
 ::: {.callout-note .meta-note collapse="true" title="Document Meta — v2 experiment"}
 This is an **alternative organization** of the Threat Models post. The content is the same six worldviews, but §III is regrouped by **position on the shared tree** (Posts 1–2) instead of presented as a flat list. Worldviews that share a mechanism are nested under one node and differentiated on the other axes; one tree branch turns out to have no champion, and a couple of positions are handled as *distributional* claims about the tree rather than locations on it.
 
-This version exists to compare for **rigor and readability** against the flat-list version. Keep both until we decide. §I and §II are shared with v1; §III is the experiment; §IV and §VI are reused unchanged.
+This version exists to compare for **rigor and readability** against the flat-list (v1) version. Keep both until we decide. v2 reorganizes around a single idea: **two kinds of disagreement** (frame-setting *axes* vs. fact-settling *cruxes*), taught once in §II, with the gallery (§III) on the mechanism spine and the cruxes (§IV) as the dynamic layer.
 :::
 
 ---
@@ -29,15 +29,11 @@ Yoshua Bengio and Eliezer Yudkowsky are the sharpest case. Both believe a suffic
 
 "What's your p(doom)?" never locates any of this. Someone at 22% and someone at 2% can be making nearly identical causal claims — or completely incompatible ones — depending entirely on what they mean by doom and over what window. In 2023, guests on the same podcast gave p(doom) estimates ranging from near-zero to above 95%. They were not arguing with each other. They had never agreed on what they were estimating.
 
-The debate operates on several genuinely independent axes. More evidence doesn't move everyone in the same direction because different people are asking different questions. Whether power-seeking emerges inevitably from capable optimization or is a separable design choice. Whether current AI behavior is relevant evidence about the catastrophic scenarios at issue, or a distraction from a risk that lives several capability thresholds away. Whether the primary danger is a single optimizer achieving strategic dominance, or a race between many actors with no coordination mechanism. These dimensions are independent of each other — your position on one doesn't constrain your position on another — and they're where the real disagreements live, mostly unnamed.
-
 While the companion [Archetypes](archetypes.qmd) post maps this space by *belief profiles* — social and intellectual portraits of the thinkers involved — this post maps it by *scenarios*. It tries to locate exactly where the causal models live. A map that surfaces these structural disagreements is a necessary precondition for addressing them — because until the disagreements are legible, the debate keeps producing the spring 2023 experience: everyone certain they're discussing AI risk, nobody sure they're having the same conversation.
-
-A note on how the map is built, because three different things are doing the work and they're easy to confuse. The **spine** is the mechanism — the branching tree from the first two posts (does AI raise the danger? one system or many? does it know what it's doing?) — and it organizes the gallery in §III. The **axes** are the continuous dimensions a view slides along: how far it reasons from priors versus evidence, what time window it forecasts over, how near or far the dangerous system is. They tell you *where* a view sits. The **cruxes** are the discrete disagreements that, once settled, move a view from one place to another: is agency emergent or chosen, are today's models evidence, is oversight tractable in time. They are what §IV and the transition map are made of. Axes orient; cruxes move — which is why the axes come before the gallery and the cruxes after it.
 
 ---
 
-{{< include ../chapters/threat-models-v2/axes.qmd >}}
+{{< include ../chapters/threat-models-v2/framing.qmd >}}
 
 ---
 
@@ -59,4 +55,4 @@ A note on how the map is built, because three different things are doing the wor
 
 ---
 
-{{< include ../chapters/utility.qmd >}}
+{{< include ../chapters/threat-models-v2/conclusion.qmd >}}

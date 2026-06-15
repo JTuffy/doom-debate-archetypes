@@ -1,37 +1,39 @@
 ## IV. The Cruxes — Where Views Move
 
 ::: {.aside .meta-note}
-**META:** The discrete forks (the levers). Each is a binary or categorical question that, once settled, relocates a view. Mechanism isn't here — it's the spine of §III. This section only does *movement*; it does not re-explain the axes.
+**META:** Object-level levers only. Each is a factual bet that, settled, relocates a view *within* a shared frame. Don't re-teach the axes or the spine. The transition shows two kinds of motion: crux-flips (across the gallery) and axis-shifts (changing the question).
 :::
 
-If the axes say where a view sits, the cruxes say what would move it. Each is a discrete fork: settle it, and a thinker relocates from one position to another. The mechanism fork isn't in this list — it's the spine the whole gallery is built on (§III), not a lever you pull within it.
+If the axes are the frame and the spine is the structure, the cruxes are the factual bets that actually move a thinker from one position to another. Each could in principle be settled — which is what makes them worth arguing, and what separates them from the axes, where there is nothing to settle.
 
 | Crux | What hangs on it |
 |---|---|
-| **A. Agency emergent vs. design choice** | If emergent → architectural avoidance is wishful thinking; if a design choice → path matters enormously and Bengio's agenda is coherent. (This is the fork between A1 and A2, who share a node.) |
-| **C. Current LLMs as evidence** | Whether current AI behavior is informative about the relevant risk or a distractor from it — the deepest evidentiary divide in the debate |
-| **D. Technical tractability of oversight** | Separates the Sharp Left Turn from Control Failure; determines whether safety research is a serious intervention or a distraction from the more fundamental problem |
-| **E. Warning shots actionable** | Whether early signs of misalignment would be legible, timely, and politically actionable — see below |
-| **F. What "doom" means** | Whether Critch and Yudkowsky are even in the same debate; whether the endpoint is extinction, disempowerment, or large-scale present harm |
+| **Agency — emergent or chosen?** | If dangerous agency emerges from capability, architectural avoidance is wishful thinking; if it's a separable design choice, Bengio's agenda is coherent and the development path matters enormously. This is the fork between A1 and A2, who share a node. |
+| **Oversight — tractable in time?** | Whether human institutions can align advanced capability before deploying it. Separates the Sharp Left Turn from Control Failure; decides whether safety research is a serious intervention or a sideshow. |
+| **Arrival — does the dangerous system come, and how fast?** | Whether scaling current architectures reaches the qualitatively dangerous regime at all, and whether it arrives as a sharp takeoff or a slow ramp. This is what fills or empties the dangerous branches — the hinge beneath both Paradigm Skepticism and the Sharp Left Turn's compressed timeline. |
+| **Warning shots — would they be actionable?** | Whether early misalignment would be legible, timely, and politically actionable in time to matter — see below. |
 
-**On Crux E in particular:** the warning-shots question is the crux with the most potentially available near-term evidence. Proponents of both the Sharp Left Turn and Control Failure care about it but disagree on two separate things: (1) whether anything we've *already seen* counts as a warning shot, and (2) whether any future warning shot would be politically actionable in time. People worried about Control Failure would count certain RLHF failures, unexpected emergent capabilities, and sleeper-agent demonstrations as early warning evidence; Sharp Left Turn proponents typically don't, because their model treats deceptively safe behavior during evaluation as the expected initial state. The two clusters can look at identical events and draw opposite conclusions about whether the situation is improving — not because either is reasoning badly, but because they hold different priors about what a warning shot would even look like before it's too late to matter.
+**On warning shots.** This is the crux with the most potentially available near-term evidence, and proponents of the Sharp Left Turn and of Control Failure disagree on two separate things: whether anything we've *already seen* counts, and whether any future warning shot would be actionable in time. People worried about Control Failure would count certain RLHF failures, emergent capabilities, and sleeper-agent demonstrations as early evidence; Sharp Left Turn proponents typically don't, because their model treats deceptively safe behavior during evaluation as the expected initial state. So the two can watch identical events and draw opposite conclusions about whether things are improving — not because either reasons badly, but because they hold different priors about what a warning shot even looks like before it is too late.
 
-### The Transition Map: Where Would You Move?
+### Where you'd move
 
 ::: {.aside .meta-note}
-**META:** The dynamic payoff — makes the map a tool, not a gallery. Each row is a crux-flip (or, in the last row, a shift along the mechanism spine) that relocates a reader.
+**META:** The dynamic payoff, as a diagram rather than the old three-column table. Arrows are illustrative and reversible. Two motions: crux-flips (solid, across the gallery) and an axis-shift (changing the question).
 :::
 
-The cruxes predict not just who you are but who you'd become if specific beliefs shifted. A map is only useful if it shows movement.
+```{mermaid}
+flowchart LR
+  SLT["Sharp Left Turn (A1)"]
+  AA["Architectural Agency (A2)"]
+  CF["Control Failure (C1)"]
+  PS["Paradigm Skepticism (E1)"]
+  MR["Multipolar Racing (B1)"]
+  PH(["present-harms perimeter<br/>(outside the frame)"])
+  SLT -- "agency is a design choice" --> AA
+  SLT -- "oversight is tractable" --> CF
+  SLT -- "system won't arrive" --> PS
+  SLT -. "spine shift: failure is competitive" .-> MR
+  SLT == "axis shift: redefine 'doom'" ==> PH
+```
 
-| If you settled… | And currently hold… | You'd move toward… |
-|---|---|---|
-| **Crux A** — agency *is* a design choice | Sharp Left Turn (A1) | Architectural Agency (A2) — same node, opposite prescription |
-| **Crux A** — agency is *not* a design choice | Architectural Agency (A2) | Sharp Left Turn (A1) |
-| **Crux C** — current LLMs *are* evidence | Sharp Left Turn / Structural Disempowerment | Control Failure, or Paradigm Skepticism |
-| **Crux D** — oversight *is* tractable | Sharp Left Turn | Control Failure |
-| **Crux D** — oversight is *not* tractable | Control Failure | Sharp Left Turn / Structural Disempowerment |
-| **Crux F** — "doom" includes present, distributed harm | Any | the present-harms perimeter (outside the gallery's frame) |
-| *Spine shift* — the primary mechanism is competitive, not unipolar | Sharp Left Turn / Structural Disempowerment | Multipolar Racing |
-
-The last row is different in kind: it doesn't flip a crux, it moves you across the spine itself — from a single-optimizer node to the multipolar one. Worth noticing that movement on the map happens two ways: pull a lever (a crux), or change your mind about which mechanism is primary (the spine).
+Movement happens two ways, and telling them apart is the whole point of §II. **Flip a crux** and you slide to a neighbouring position inside the same frame: decide agency is a design choice and the Sharp Left Turn becomes Architectural Agency; decide oversight is tractable and it becomes Control Failure; decide the dangerous system never arrives and you are in Paradigm Skepticism. Changing your mind about the *mechanism* is a related move — it slides you along the spine itself, toward Multipolar Racing. **Shift an axis** and you haven't crossed the gallery at all — you've changed the question: widen your definition of doom to include present, distributed harm and you step off the gallery's frame onto the present-harms perimeter. That isn't a crux you lost; it's a different map.
