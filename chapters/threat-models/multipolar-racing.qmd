@@ -1,8 +1,8 @@
-### 4. Competitive Racing (Multipolar Coordination Failure)
+### 4. Multipolar Racing (Competitive Coordination Failure)
 
 *Even well-intentioned, individually rational actors can produce catastrophic outcomes together. No rogue optimizer required.*
 
-When Sam Altman reflected on OpenAI's work in early 2024, he acknowledged building what could be one of the most dangerous technologies in human history — and he continued building. Anthropic similarly frames its very existence against OpenAI as a "calculated bet": if powerful AI is coming regardless, it is better for safety-focused labs to push the frontier. Demis Hassabis at DeepMind employs roughly the same logic.
+When Sam Altman reflected on OpenAI's work in early 2024, he acknowledged building what could be one of the most dangerous technologies in human history^[WSJ interview, Jan 2024. Paywalled; the headline "Sam Altman Says He's Working on the Most Dangerous Technology in History" is from WSJ coverage of that interview.] — and he continued building. Anthropic similarly frames its very existence against OpenAI as a "calculated bet": if powerful AI is coming regardless, it is better for safety-focused labs to push the frontier. Demis Hassabis at DeepMind employs roughly the same logic.
 
 Everyone involved in the generative AI race prefers a world where development is slower and more careful. But because they cannot unilaterally enforce a global slowdown, sitting out means ceding control to competitors they inherently trust less than themselves.
 

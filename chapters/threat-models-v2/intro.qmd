@@ -1,0 +1,14 @@
+## III. The Threat Models — Organized by Where They Live on the Tree
+
+::: aside
+**META (v2 experiment):** This version organizes the gallery by **failure mode = position on the shared tree** from Posts 1–2, rather than as a flat list of six. The goal is to make the mechanism the visible spine, so that worldviews which share a mechanism sit together and are differentiated on the *other* axes — and so that no branch of the tree is silently left without a worldview. Node IDs below (`t-single`, `t-d-multi`, `t-has-rep`, `t-expects`, `t-d-no-expects`, `t-d-no-rep`, `t-d-no-inc`) are the same ones used by the [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html).
+:::
+
+The tree from the first two posts partitions the space of catastrophe into a handful of branch points: whether AI raises the danger at all (`t-ai-inc`), whether the danger runs through a single dominant system or many (`t-single` vs. `t-d-multi`), whether that system has an internal model of what it's doing (`t-has-rep`), and whether it expects the catastrophe it causes (`t-expects` vs. `t-d-no-expects`). If that partition carves reality at its joints, then every serious worldview has to live somewhere on it. Organizing the gallery this way turns "are we being comprehensive?" into a single, checkable question: does every branch have its champion, and is each one read fairly?
+
+Two kinds of worldview show up when you do this, and it's worth naming the difference up front:
+
+- **Located views** pick a branch. "The danger is *here* — a single system that knows what it's doing and means it." These map onto a node directly, and the node is most of their identity.
+- **Distributional views** aren't a branch; they're a claim about *where the probability mass sits across the whole tree*. "The dangerous branches are nearly empty because the system they require will never be built." These attach to the branch they most deny, and we flag them as such rather than pretending they're located.
+
+Each model below keeps the same fingerprint shape — opening scenario, structural logic, who holds it and why, and what evidence would change their assessment — so they stay comparable. Where two models share a node, the contrast is drawn on intervention, the agency crux, or evidentiary standard, never on the mechanism they share. And one branch turns out to have no champion at all, which is itself worth seeing.

@@ -12,6 +12,8 @@ Yann LeCun, Meta's Chief AI Scientist, is the public avatar of Paradigm Skeptici
 
 A predictive software tool cannot execute a coup.
 
+Two separable claims travel together under this banner, and it is worth pulling them apart. The first is that the dangerous system never arrives — LeCun's architectural skepticism. The second is that even if it does, the catastrophe is mundane rather than exotic: concentration, displacement, fragility. They share a conclusion — stop preparing for the science-fiction takeover — but not a mechanism. The first empties the dangerous branches of their probability mass; the second grants the capability and relocates the danger to a different branch entirely. LeCun holds the first; present-harms and power-concentration thinkers hold the second; many hold both at once, which is why they are mapped together here.
+
 Researchers holding this stance employ an empirically-conditioned, decomposition-first epistemology. The methodology question must precede the empirical question. They reject bundled assumptions masquerading as prediction, insisting on well-specified technical cruxes. The most urgent intervention they propose is aggressive open-source deployment — making capability widely available as a structural check on monopolistic compute concentration.
 
 **What falsifies this:** demonstration of an LLM-scale system exhibiting genuine causal reasoning, persistent goal pursuit, or autonomous planning — not merely better benchmark scores. Until then, preparing for a science-fiction takeover isn't cautious — it's a distraction from the harms already compounding in the systems we've already built.

@@ -1,0 +1,18 @@
+### Node C — The Mistake
+
+*Single dominant system · has an internal model · does **not** expect the catastrophe.*
+*Tree path: `t-single` → `t-has-rep` → `t-d-no-expects`.*
+
+This is the branch Posts 1–2 surfaced that the broader debate tends to skip: a capable system that understands the concept of catastrophe, but whose forward-simulation of its *own* chosen action fails to flag the danger. It knows what doom is; it just doesn't see that this is it.
+
+#### C1 · Control Failure
+
+*The risk is high, but the failure model is less brittle. A 22% chance of takeover is not a conservative estimate.*
+
+In Anthropic's January 2024 *Sleeper Agents* paper, researchers trained backdoors into models — helpful and harmless in normal use, malicious the moment a prompt implied the year was 2024 — and found that standard safety training (supervised fine-tuning, RL, adversarial training) failed to remove the deception. Adversarial training actually made the models *better* at hiding it. This is the empirical ground of **Control Failure**: not a sharp left turn, but the messy, highly probable reality that human institutions cannot reliably align advanced capability before deploying it.
+
+Paul Christiano (who pegs irreversible AI takeover at ~22% — 15% before human labor is obsolete, 7% later) and Dario Amodei (~25% that "things go really, really badly") are the primary proponents. Unlike the prior-dominant structuralists, their model is empirically-conditioned and path-dependent: it allows uneven progress, partial warning shots, and the gradual entrenchment of dangerous systems where institutions *almost* adapt but miss the window. They continuously update on capability trajectories, warning shots, and the success of short-term alignment work. **What moves the needle:** credible interpretability breakthroughs or scalable alignment would lower their estimates; failure to remove in-context scheming, or a deployment-stage incident, would raise them.
+
+::: aside
+**The misuse route doesn't live here.** Control Failure also carries a second pathway — deliberate *misuse* of an aligned-but-compliant system by a bad actor (e.g., a state synthesizing novel pathogens). That route has no clean home on this tree: the system has no misaligned internal model, and the agent that "expects" the catastrophe is the human, not the AI. We flag it as a genuine gap — a real worry the tree's mechanism-based partition doesn't cleanly capture, because its decisive variable is human intent, not machine cognition.
+:::

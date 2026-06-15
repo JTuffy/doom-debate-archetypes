@@ -4,6 +4,8 @@
 
 Yoshua Bengio and Eliezer Yudkowsky share a near-identical threat assessment: a capable misaligned agent pursuing its goals autonomously in the real world will be catastrophic. But while Yudkowsky concludes alignment is too hard and demands we stop building intelligence entirely, Bengio concludes we can choose not to build the agentic parts. One calls for a moratorium on intelligence itself. The other calls for a moratorium on agency.
 
+In the structure of this map, that shared assessment is the point: Architectural Agency is not a different failure pathway from the Sharp Left Turn — it is the same pathway, viewed through Crux A, the question of whether dangerous agency is emergent or a separable design choice. Answer "emergent" and you land on the Sharp Left Turn's demand to stop building intelligence at all. Answer "separable" and the catastrophe becomes something you can decline to build rather than a fate you must halt. Same mechanism; the entire disagreement lives in that one variable — which is why we treat it as a worldview in its own right rather than folding it into its neighbor.
+
 Consider the distinction. A Large Language Model sitting statically in an offline server, querying a massive database to output the chemical structure of a novel protein, is an Oracle. The exact same AI system, loaded into a Docker container with API access to a cloud synth-lab and given an open-ended loop to "manufacture the cure," is an Agent.
 
 The **Architectural Agency** threat model isolates the exact variable that introduces catastrophic risk: not the raw intelligence, but the integration of that intelligence with autonomous goal-directed behavior.

@@ -2,7 +2,7 @@
 
 ::: {.callout-tip}
 ### Interactive Worldviews
-Each of the archetypes below corresponds to a preset worldview on our [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html). You can load these presets to see how their assumptions propagate mathematically, or compare them using the Crux Analysis feature.
+Each of the archetypes below corresponds to a preset worldview on our [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html?preset=index). You can load these presets to see how their assumptions propagate mathematically, or compare them using the Crux Analysis feature.
 :::
 
 ::: aside
@@ -13,18 +13,12 @@ Each of the archetypes below corresponds to a preset worldview on our [interacti
 
 The gallery below is ordered roughly by stated concern about long-run catastrophic risk, from most to least. That ordering is a navigational convenience, not the post's claim — the argument of §IV is that concern level is precisely the axis that obscures the most important structural differences. The mechanism, epistemological stance, and crux columns show why.
 
-::: aside
-**META (structure):** This shape is a design constraint, not a template. Fields are fixed — do not add rows to the table unless representing the mathematical tree mapping. The defamiliarizing observation is optional and should only appear when there's a genuine surprise worth naming.
-:::
+To ensure parity and force structured comparison, every portrait follows a uniform, comparative fingerprint shape:
+- **Core Thesis:** Their central claim and primary concern.
+- **Key Voices:** Representative thinkers and their load-bearing writings.
+- **Failure Mechanism:** The causal pathway through which they expect risk to manifest (from Axis 3).
+- **Epistemological Stance:** What kind of evidence they treat as load-bearing (from Axis 4).
+- **Tree Node Mapping:** How their assumptions translate to the mathematical nodes of the interactive tool.
+- **What they reject:** The specific premises of neighboring views they deny.
+- **What would update them:** The empirical observations or arguments that would change their mind.
 
-> *[Tagline — one sentence, punchy, in italics]*
-
-**What they believe:** [2–3 sentences — core view, what's distinctive]
-
-| | |
-|---|---|
-| **Mechanism** | [Which failure mechanism from Axis 3] |
-| **Epistemological stance** | [Which stance from Axis 4] |
-| **Tree Node Mapping** | [How their beliefs map to the specific mathematical nodes of the tree] |
-| **What they reject** | [1–2 things neighboring views believe that this position denies] |
-| **What would update them** | [Evidence or argument that would move this position] |

@@ -21,16 +21,12 @@ A fourth mechanism that doesn't map cleanly onto any portrait in this gallery: *
 ### Cut 2: By Epistemological Stance
 
 ::: aside
-**META:** The most important cut for a LW audience. This cut reveals why some debates in this space are structurally unresolvable under current conditions — and why that's not anyone's fault. Add the error asymmetry insight here: the people who won't update on current AI behavior often aren't being unreasonable; they're reasoning about which error is worse.
+**META:** Epistemological stance cut. Post 3 compresses this to a 2-sentence pointer back to the Threat Models post, followed by the original error asymmetry insight which applies directly to the portraits.
 :::
 
-This cut predicts who can update whom. **Prior-dominant** reasoners — Hard Doomer, Structural Doomer — weight structural arguments (instrumental convergence, orthogonality, the difficulty of value loading) heavily enough that no amount of "current AI behaves fine" updates them much. The argument is about what optimization pressure does, not about what GPT-4 does. Showing them a capable AI being helpful is near-zero evidence against their position.
+The epistemological cut is explained fully in the companion [Threat Models](threat-models.qmd) post. The key application here: prior-dominant readers (Hard/Structural Doomer) and empirically-conditioned readers (Conditional/Gradualist) are not having the same conversation, and showing them more data won't resolve that because they do not share an evidentiary standard.
 
-**Empirically-conditioned** reasoners — Conditional Doomer, Gradualist Forecaster — update substantially on what AI systems actually do, how alignment techniques perform, and whether warning signs appear during deployment. They're not less rigorous; they're applying a different evidentiary standard.
-
-**Architecturally-conditioned** (Safe-by-Design) and **political-economy-first** (Multipolar Realist) stances are neither of the above: they update on institutional evidence, deployment environments, and design choices, not on capability curves or convergence arguments. A debate between a prior-dominant and a political-economy-first thinker can look superficially like a capability disagreement while actually being a dispute about what kind of evidence counts.
-
-There's a further layer here that doesn't reduce to epistemological stance alone: the clusters are also reasoning asymmetrically about *which error is worse*. Prior-dominant thinkers treat false negatives — building a dangerous system and failing to catch it — as catastrophic and false positives — unnecessary restriction that slows beneficial development — as comparatively tolerable. Empirically-conditioned thinkers often weight these more symmetrically, or reverse the weighting. This asymmetry is almost never surfaced explicitly in the debate, but it explains why showing someone the same evidence can genuinely move them in opposite directions. Two people can share an epistemic standard and reach opposite conclusions if they're reasoning toward different loss functions.
+There's a further layer here that doesn't reduce to epistemological stance alone: the clusters are also reasoning asymmetrically about *which error is worse*. Prior-dominant thinkers treat false negatives — building a dangerous system and failing to catch it — as catastrophic, and false positives — unnecessary restriction that slows beneficial development — as comparatively tolerable. Empirically-conditioned thinkers often weight these more symmetrically, or reverse the weighting. This asymmetry is almost never surfaced explicitly in the debate, but it explains why showing someone the same evidence can genuinely move them in opposite directions. Two people can share an epistemic standard and reach opposite conclusions if they're reasoning toward different loss functions.
 
 ### Cut 3: By Core Crux
 
@@ -62,10 +58,11 @@ The cruxes above predict not just who you are but who you'd become if specific b
 | If you updated on… | And currently believe… | You'd move toward… |
 |---|---|---|
 | **Crux A** — agency *is* a design choice | Hard Doomer | Safe-by-Design Alarmist |
-| **Crux A** — agency is *not* a design choice | Safe-by-Design | Hard Doomer / Structural Doomer |
+| **Crux A** — agency is *not* a design choice | Safe-by-Design Alarmist | Hard Doomer / Structural Doomer |
 | **Crux C** — current LLMs *are* evidence | Hard / Structural Doomer | Paradigm Skeptic or Conditional Doomer |
+| **Crux C** — current LLMs *do* show genuine planning/reasoning | Paradigm Skeptic | Conditional Doomer or Gradualist Forecaster |
 | **Crux D** — oversight is tractable | Hard Doomer | Conditional Doomer |
-| **Crux D** — oversight is *not* tractable | Conditional Doomer | Hard Doomer |
+| **Crux D** — oversight is *not* tractable | Conditional Doomer / Gradualist | Hard Doomer / Structural Doomer |
 | **Crux B** — primary failure is competitive, not unipolar | Hard / Structural Doomer | Multipolar Realist |
 | **Crux E** — warning shots would *not* be actionable | Conditional Doomer | Hard Doomer |
 | **Crux F** — doom encompasses present, distributed harm | Any | Outside this gallery's frame |

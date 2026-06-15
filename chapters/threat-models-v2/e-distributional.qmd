@@ -1,0 +1,22 @@
+### Node E — The Distributional Views
+
+*Not a branch, but a claim about where the tree's probability mass sits.*
+*Tree attachment: low `t-ai-inc` / high `t-d-no-inc` — the dangerous branches are nearly empty.*
+
+The worldviews here don't pick a leaf. They make a claim about the *shape of the distribution over* the whole tree: that the mass on the dangerous branches is near zero. We attach them to the branch they most deny rather than pretending they're located.
+
+#### E1 · Paradigm Skepticism
+
+*The specific failure modes above require a class of system that doesn't exist — and won't emerge from scaling current architectures.*
+
+Yann LeCun is the public avatar. His argument is architectural: large language models are sophisticated token-interpolators, but they lack embodied world-models, persistent memory, and causal reasoning. The Sharp Left Turn's failure mode therefore requires a system class that does not currently exist and will not magically appear from scaling transformers. A predictive software tool cannot execute a coup. This isn't optimism about alignment — it's a bet that the prerequisite capability never arrives, which empties Node A and Node C of most of their mass. The intervention LeCun and allies most favor is aggressive open-source deployment, as a structural check on monopolistic compute concentration. **What falsifies this:** demonstration of an LLM-scale system exhibiting genuine causal reasoning, persistent goal pursuit, or autonomous planning — not merely better benchmark scores.
+
+#### E2 · The Decomposition Stance
+
+*A 5% median is not a dismissal of risk. It is a demand that we worry properly.*
+
+Headlines cite the 2024 AI Impacts survey (Grace et al.) and its 5% median probability of doom as evidence that researchers dismiss existential risk. But across three differently *phrased* extinction questions, 37.8–51.4% of those same respondents assigned at least 10%. The lesson the decomposition stance draws isn't "the risk is small"; it's that bundling all uncertainty into one "p(doom)" number destroys information, and that risk should be reasoned about as a structured product of component probabilities — which is, of course, the entire premise of this project. This is an empirically-conditioned, decomposition-first epistemology: the methodology question must precede the empirical one. It's less a located threat model than a stance on *how to hold* the whole tree.
+
+::: aside
+**Present-harms — adjacent, not absent (Crux F).** A further family of thinkers locates the real catastrophe in the present, not a branch of this tree: corporate oligopolies cornering compute, labor displaced before retraining exists, powerful prediction tools entrenched in already-fragile systems. This isn't a node — it redefines the *danger label* itself (Crux F: what counts as "doom"). The map treats it as out-of-scope because those thinkers don't primarily frame their concern as existential, but it belongs on the perimeter: updating on what "doom" means can move you here from any starting point.
+:::

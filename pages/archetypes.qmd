@@ -31,59 +31,59 @@ The debate about AI risk is structurally illegible. Yoshua Bengio and Eliezer Yu
 
 Surface-level metrics continually mask these structural cruxes. Someone at 22% p(doom) and someone at 2% p(doom) can have almost no real disagreement, or completely incompatible ones, depending on which definitions of risk they are carrying and what causal claim they are actually making. The question "what's your p(doom)?" almost never locates the actual argument.
 
-The debate operates on several genuinely independent axes: whether dangerous agency emerges by default or is a design choice, whether current AI behavior is relevant evidence about catastrophic risk or a distraction from it, whether the primary failure is a single optimizer winning or many actors racing with no coordination. This post draws a map of those axes and the positions that follow from them. It doesn't pick winners. A map of a debate isn't useful because it acts as an arbiter. It is useful because it makes the structural disagreements legible enough to address. The seven archetypes and five axes below attempt to locate the cruxes. The framework comes first.
+While the companion [Threat Models](threat-models.qmd) post maps this space by *scenarios* — tracing the logical pathways of how things go wrong — this post maps it by *belief profiles*. We look at the seven distinct intellectual portraits that define the debate's social and intellectual landscape: who holds which assumptions, how they justify them, and why they reject neighboring views. By focusing on people rather than just pathways, we can map the defamiliarizing observations and underlying cruxes that keep these factions talking past one another.
 
 ---
 
-{{< include chapters/axes_archetypes.qmd >}}
+{{< include ../chapters/axes_archetypes.qmd >}}
 
 ---
 
-{{< include chapters/archetypes/intro.qmd >}}
+{{< include ../chapters/archetypes/intro.qmd >}}
 
-{{< include chapters/archetypes/hard-doomer.qmd >}}
-
-::: aside
-**META (Pivot):** If the Hard Doomer is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power? Enter the Structural Doomer.
-:::
-
-{{< include chapters/archetypes/structural-doomer.qmd >}}
+{{< include ../chapters/archetypes/hard-doomer.qmd >}}
 
 ::: aside
-**META (Pivot):** The Structural Doomer assumes bad outcomes are the default result of optimization. But what if the structural danger is real, yet alignment is merely an extraordinarily hard engineering problem rather than a theoretical impossibility?
+If the Hard Doomer is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power? Enter the Structural Doomer.
 :::
 
-{{< include chapters/archetypes/conditional-doomer.qmd >}}
+{{< include ../chapters/archetypes/structural-doomer.qmd >}}
 
 ::: aside
-**META (Pivot):** The Conditional Doomer worries about successfully aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
+The Structural Doomer assumes bad outcomes are the default result of optimization. But what if the structural danger is real, yet alignment is merely an extraordinarily hard engineering problem rather than a theoretical impossibility?
 :::
 
-{{< include chapters/archetypes/multipolar.qmd >}}
+{{< include ../chapters/archetypes/conditional-doomer.qmd >}}
 
 ::: aside
-**META (Pivot):** The Multipolar Realist sees human coordination as the only check against dangerous racing dynamics. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of autonomous agents globally.
+The Conditional Doomer worries about successfully aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
 :::
 
-{{< include chapters/archetypes/safe-by-design.qmd >}}
+{{< include ../chapters/archetypes/multipolar.qmd >}}
 
 ::: aside
-**META (Pivot):** The Alarmist wants to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway?
+The Multipolar Realist sees human coordination as the only check against dangerous racing dynamics. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of specific autonomous architectures globally.
 :::
 
-{{< include chapters/archetypes/paradigm-skeptic.qmd >}}
+{{< include ../chapters/archetypes/safe-by-design.qmd >}}
 
 ::: aside
-**META (Pivot):** The Skeptic believes current models won't reach AGI. But what if they actually do, and instead of a sharp capability cliff or an explosion, the transition is just a continuous, mundane process of economic integration?
+The Safe-by-Design Alarmist wants to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway?
 :::
 
-{{< include chapters/archetypes/gradualist.qmd >}}
+{{< include ../chapters/archetypes/paradigm-skeptic.qmd >}}
+
+::: aside
+The Skeptic believes current models won't reach AGI. But what if they actually do, and instead of a sharp capability cliff or an explosion, the transition is just a continuous, mundane process of economic integration?
+:::
+
+{{< include ../chapters/archetypes/gradualist.qmd >}}
 
 ---
 
-{{< include chapters/cuts_archetypes.qmd >}}
+{{< include ../chapters/cuts_archetypes.qmd >}}
 
 ---
 
-{{< include chapters/utility.qmd >}}
+{{< include ../chapters/utility_archetypes.qmd >}}
 

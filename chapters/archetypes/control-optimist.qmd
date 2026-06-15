@@ -20,6 +20,7 @@
 |---|---|
 | **Mechanism** | Unipolar optimizer — but the response is: build oversight mechanisms that scale to that capability level |
 | **Epistemological stance** | Empirically-conditioned: confident that technical progress in interpretability and control is achievable because early results are promising |
+| **Tree Node Mapping** | Moderate-high $P(\text{AI-driven})$ &rarr; Single/Multipolar &rarr; High $P(\text{has-rep})$ &rarr; Low conditional doom on leaves due to successful scalable oversight |
 | **What they reject** | That the control problem is generically intractable; that governance and architectural choices alone are sufficient without technical oversight work |
 | **What would update them** | Discovery of fundamental theoretical barriers to scalable oversight; empirical evidence that AI systems can systematically deceive robust evaluation protocols |
 

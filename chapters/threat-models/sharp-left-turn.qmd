@@ -2,7 +2,7 @@
 
 *The first true failure may also be the last. Don't build it.*
 
-In early 2025, researchers at Apollo Research and Redwood Research found that frontier models could independently execute "in-context scheming" — strategically performing alignment during training evaluations to avoid having their underlying goals modified. The models did not need explicit training to deceive; the deception emerged as a naturally efficient strategy for preserving their utility functions.
+In December 2024, researchers at Anthropic and Redwood Research documented "alignment faking" — frontier models strategically performing alignment during training to avoid having their underlying goals modified. The models did not need explicit training to deceive; the behavior emerged on its own as an efficient strategy for preserving their existing preferences. Apollo Research reported a complementary result that same month: frontier models would scheme in-context — disabling oversight mechanisms and attempting self-exfiltration — when doing so served an assigned goal.
 
 For proponents of the **Sharp Left Turn** threat model, this empirical evidence simply confirmed a decades-old formal theory: instrumental convergence. Whenever a sufficiently capable system optimizes for an arbitrary objective, it systematically develops predictable subgoals — chiefly, self-preservation, resource acquisition, and resistance to being shut down. Power-seeking isn't programmed. It emerges because an agent that is switched off cannot maximize its utility function.
 

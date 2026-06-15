@@ -8,7 +8,7 @@ This framework is useful for a specific thing: locating where genuine disagreeme
 
 What the map is not useful for: telling you who's right. That's a different project. Some cruxes (especially A and C) are in principle resolvable by evidence that could arrive in the next few years. Others — especially D and the deeper parts of B — are prior-dependent in ways that may not converge even with shared observations. The epistemological stance cut (§IV) exists precisely to name this: some of these conversations are structurally unresolvable under current conditions, not because anyone is being unreasonable, but because they're not using the same evidentiary standard and aren't even reasoning toward the same loss function.
 
-An honest caveat: the map itself takes a position. It assumes the debate is conducted in good faith, that crux-identification is the productive move, and that the relevant disagreements are tractable to this kind of analysis. That's a decomposition-first stance (Axis 4, Gradualist Forecaster territory) — which means a committed prior-dominant thinker might find the whole framing beside the point. If you've read this far and feel like it missed something essential about the structure of the problem, that disagreement is also worth naming explicitly.
+An honest caveat: the map itself takes a position. It assumes the debate is conducted in good faith, that crux-identification is the productive move, and that the relevant disagreements are tractable to this kind of analysis. That's a decomposition-first, empirically-conditioned stance (Axis 4) — the same evidentiary posture that underwrites the Mundane Integration model — which means a committed prior-dominant thinker might find the whole framing beside the point. If you've read this far and feel like it missed something essential about the structure of the problem, that disagreement is also worth naming explicitly.
 
 The final utility of this mapping project is found in the transition space of §IV. The map exists to locate the crux. The next time you find yourself in a deadlocked conversation about AI risk, stop asking for their p(doom). Ask them which crux they are treating as settled.
 
@@ -20,55 +20,59 @@ The final utility of this mapping project is found in the transition space of §
 **META:** Structural scratchpad — open questions, design decisions under consideration, things to check before publishing. Items here are not blocking; they're reminders.
 :::
 
-- *[Consider: comparison heatmap across archetypes × cruxes — visual version of the crux table in §IV]*
-- *[Pressure-test: are all seven archetypes genuinely distinct? Particular question: is Conditional Doomer doing different work than Structural Doomer enough to warrant two portraits?]*
+- *[Consider: comparison heatmap across threat models × cruxes — visual version of the crux table in §IV]*
+- *[Distinctness — RESOLVED (2026-06): we keep six models rather than carving strictly by mechanism, because the organizing goal is comprehensive, fair representation of live worldviews, not a minimal mechanism taxonomy. (1) Architectural Agency shares Sharp Left Turn's mechanism but is kept as its own worldview (Bengio/Russell) — a clarifier sentence now names it as "the same pathway viewed through Crux A." (2) Mundane Integration bundles paradigm skepticism (LeCun: system won't arrive) and present-harms/power-concentration (different mechanism); kept together with a separator sentence distinguishing the two claims. Open: whether to make Architectural Agency a literal tree node later — deferred, the tree is frozen for now.]*
+- *[Tree mapping (Posts 1–2): 4 of 6 models locate on tree nodes — Sharp Left Turn → single/internal-model/expects; Multipolar Racing & Structural Disempowerment → multipolar; Control Failure → the "does-not-expect/mistake" branch. Architectural Agency and Mundane Integration map to axes/cruxes (Source of Agency; Scope of Threat), not nodes. Control Failure's misuse route has no clean node. Frame the "4 nodes / 2 axes" split as a feature, not a gap.]*
 
 ---
 
 ## Sources
 
 ::: aside
-**META:** Organized by archetype. When adding inline citations to prose, add the source here too. Items marked `[CITATION: ...]` need a URL that hasn't been confirmed yet. Verify all links before publish.
+**META:** Organized by threat model (matches §III). When adding inline citations to prose, add the source here too. Items marked `[CITATION: ...]` need a URL that hasn't been confirmed yet. Verify all links before publish.
 :::
 
-**#1 — Hard Doomer**
+**1 — Sharp Left Turn (Unipolar Optimizer)**
 
+- Greenblatt, Hubinger et al. (Anthropic & Redwood Research), ["Alignment Faking in Large Language Models"](https://arxiv.org/abs/2412.14093) (arXiv, Dec 2024) — opener
+- Meinke et al. (Apollo Research), ["Frontier Models are Capable of In-Context Scheming"](https://arxiv.org/abs/2412.04984) (arXiv, Dec 2024) — opener
 - Yudkowsky, ["AGI Ruin: A List of Lethalities"](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) (LessWrong, Apr 2022)
 - Yudkowsky, ["Pausing AI Developments Isn't Enough. We Need to Shut It All Down"](https://time.com/6266923/ai-eliezer-yudkowsky-open-letter-not-enough/) (TIME, Mar 2023)
 - MIRI, ["2024 Mission and Strategy Update"](https://www.lesswrong.com/posts/xofpLpFjkMFgYX6JC/miri-2024-mission-and-strategy-update) (LessWrong, Jan 2024)
 
-**#2 — Structural Doomer**
+**2 — Structural Disempowerment (Gradual Erosion)**
 
+- Kulveit, Douglas, Ammann, Turan, Krueger & Duvenaud, ["Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development"](https://arxiv.org/abs/2501.16946) (arXiv, Jan 2025)
+- Carlsmith, [*Is Power-Seeking AI an Existential Risk?*](https://arxiv.org/abs/2206.13353) (arXiv, 2022)
 - Bostrom, *[Superintelligence](https://global.oup.com/academic/product/superintelligence-9780198739838)* (Oxford, 2014)
 - Bostrom, *[Deep Utopia](https://www.amazon.com/Deep-Utopia-Meaning-Solved-World/dp/1646871952)* (2024) — position shift
-- Carlsmith, [*Is Power-Seeking AI an Existential Risk?*](https://arxiv.org/abs/2206.13353) (arXiv, 2022)
 
-**#3 — Conditional Doomer / Risk Realist**
+**3 — Control Failure (Technical Misalignment & Misuse)**
 
-- Christiano, ["My views on 'doom'"](https://www.alignmentforum.org/posts/a392MCzsGXAZP88Sq/my-views-on-doom) (Alignment Forum, Apr 2023)
-- Amodei, 25% p(doom) — [Axios interview](https://www.axios.com/2025/09/17/anthropic-dario-amodei-p-doom-25-percent) (Sep 2025)
+- Hubinger et al. (Anthropic), ["Sleeper Agents"](https://arxiv.org/abs/2401.05566) (arXiv, Jan 2024) — opener
+- Christiano, ["My views on 'doom'"](https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom) (LessWrong / Alignment Forum, Apr 2023) — 22% = "AI takeover" (15% pre-obsolescence + 7% later)
+- Amodei, ~25% "things go really, really badly" — [Axios](https://www.axios.com/2025/09/17/anthropic-dario-amodei-p-doom-25-percent) (AI+ DC Summit, Sep 2025)
 
-**#4 — Multipolar / Governance Realist**
+**4 — Multipolar Racing (Competitive Coordination Failure)**
 
 - Critch & Krueger, [ARCHES](https://arxiv.org/abs/2006.04948) (arXiv, 2020)
+- Critch, ["My motivation and theory of change for working in AI healthtech"](https://www.lesswrong.com/posts/Kobbt3nQgv3yn29pr/my-motivation-and-theory-of-change-for-working-in-ai) (LessWrong, 2024) — ~85% total over ~25y (≈35% loss-of-control + ≈50% industrial dehumanization)
 - Toner, [Georgetown CSET](https://cset.georgetown.edu)
 - Russell, *[Human Compatible](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616)* (Viking, 2019)
 - Ord, *[The Precipice](https://theprecipice.com/)* (Hachette, 2020)
-- *[Critch p(doom) ~85% — stated across multiple public talks and interviews 2022–2024; no single canonical URL. The ARCHES paper (above) contains the relevant formal work.]*
+- *[Altman "most dangerous technology" quote — WSJ Jan 2024 attribution unconfirmed (paywalled); consider the verifiable 2015 Altman blog line instead. See audit B4.]*
 
-**#5 — Gradualist Forecaster**
-
-- Grace et al., ["Thousands of AI Authors on the Future of AI"](https://arxiv.org/abs/2401.02843) (arXiv:2401.02843, Jan 2024)
-
-**#6 — Safe-by-Design Alarmist**
+**5 — Architectural Agency (Emergent Goal-Directedness)**
 
 - Bengio et al., ["Managing Extreme AI Risks Amid Rapid Progress"](https://www.science.org/doi/10.1126/science.adn0117) (*Science*, May 2024)
-- [International AI Safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025) (Jan 2025)
+- Bengio et al., ["Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?"](https://arxiv.org/abs/2502.15657) (arXiv, Feb 2025) — the Scientist AI proposal
 - Russell & Norvig, [CIRL](https://arxiv.org/abs/1606.03137) (arXiv, 2016)
 - Russell, *[Human Compatible](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616)* (Viking, 2019)
+- [International AI Safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025) (Jan 2025)
 
-**#7 — Capability / Paradigm Skeptic**
+**6 — Mundane Integration & Paradigm Skepticism**
 
+- Grace et al., ["Thousands of AI Authors on the Future of AI"](https://arxiv.org/abs/2401.02843) (arXiv:2401.02843, Jan 2024) — 5% median on the bundled extinction question; 37.8–51.4% gave ≥10% across three differently *phrased* extinction questions
 - LeCun, ["A Path Towards Autonomous Machine Intelligence"](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022)
 - LeCun, "AI isn't even as smart as dogs or cats" (Viva Tech, Paris, Jun 2023 — direct link unavailable; quote reported in multiple outlets)
 - Chollet, [ARC Prize / ARC-AGI](https://arcprize.org)

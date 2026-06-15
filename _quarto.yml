@@ -7,9 +7,11 @@ website:
   navbar:
     left:
       - text: "Threat Models"
-        href: threat-models.qmd
+        href: pages/threat-models.qmd
+      - text: "Threat Models (v2 · tree)"
+        href: pages/threat-models-v2.qmd
       - text: "Archetypes"
-        href: archetypes.qmd
+        href: pages/archetypes.qmd
     right:
       - icon: github
         href: https://github.com/JTuffy/doom-debate-archetypes

@@ -1,5 +1,5 @@
 ---
-title: "Archetypes of the Doom Debate"
+title: "Threat Models of the Doom Debate"
 subtitle: "Mapping AI Risk Viewpoints — Threat Model Framework"
 date: "March 2026"
 author: "[Author TBD]"
@@ -39,52 +39,52 @@ Yoshua Bengio and Eliezer Yudkowsky are the sharpest case. Both believe a suffic
 
 The debate operates on several genuinely independent axes. More evidence doesn't move everyone in the same direction because different people are asking different questions. Whether power-seeking emerges inevitably from capable optimization or is a separable design choice. Whether current AI behavior is relevant evidence about the catastrophic scenarios at issue, or a distraction from a risk that lives several capability thresholds away. Whether the primary danger is a single optimizer achieving strategic dominance, or a race between many actors with no coordination mechanism. These dimensions are independent of each other — your position on one doesn't constrain your position on another — and they're where the real disagreements live, mostly unnamed.
 
-This post draws a map of those dimensions. It doesn't pick winners. The six threat models and five axes below try to locate exactly where the arguments live. A map that surfaces the structural disagreements is a necessary precondition for addressing them — because until the disagreements are legible, the debate keeps producing the spring 2023 experience: everyone certain they're discussing AI risk, nobody sure they're having the same conversation.
+While the companion [Archetypes](archetypes.qmd) post maps this space by *belief profiles* — social and intellectual portraits of the thinkers involved — this post maps it by *scenarios*. The six threat models and five axes below try to locate exactly where the causal models live. A map that surfaces these structural disagreements is a necessary precondition for addressing them — because until the disagreements are legible, the debate keeps producing the spring 2023 experience: everyone certain they're discussing AI risk, nobody sure they're having the same conversation.
 
 ---
 
-{{< include chapters/axes.qmd >}}
+{{< include ../chapters/axes.qmd >}}
 
 ---
 
-{{< include chapters/threat-models/intro.qmd >}}
+{{< include ../chapters/threat-models/intro.qmd >}}
 
-{{< include chapters/threat-models/sharp-left-turn.qmd >}}
+{{< include ../chapters/threat-models/sharp-left-turn.qmd >}}
 
 ::: aside
 **META (Pivot):** If the Sharp Left Turn threat model is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power through misaligned subsystems?
 :::
 
-{{< include chapters/threat-models/structural-disempowerment.qmd >}}
+{{< include ../chapters/threat-models/structural-disempowerment.qmd >}}
 
 ::: aside
 **META (Pivot):** Both the Sharp Left Turn and Structural Disempowerment assume catastrophic bad outcomes are the default result of optimization. But what if the structural danger is real, yet technical alignment isn't completely impossible, allowing for a mix of oversight failures and misuses instead of an inevitable universal takeover?
 :::
 
-{{< include chapters/threat-models/control-failure.qmd >}}
+{{< include ../chapters/threat-models/control-failure.qmd >}}
 
 ::: aside
 **META (Pivot):** The Control Failure model worries about technically aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
 :::
 
-{{< include chapters/threat-models/multipolar-racing.qmd >}}
+{{< include ../chapters/threat-models/multipolar-racing.qmd >}}
 
 ::: aside
 **META (Pivot):** Multipolar Racing sees uncontrolled human coordination as the driver of doom. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of specific autonomous architectures globally.
 :::
 
-{{< include chapters/threat-models/architectural-agency.qmd >}}
+{{< include ../chapters/threat-models/architectural-agency.qmd >}}
 
 ::: aside
 **META (Pivot):** Architectural Agency warns us to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway, or what if the risks are fundamentally mundane?
 :::
 
-{{< include chapters/threat-models/mundane-integration.qmd >}}
+{{< include ../chapters/threat-models/mundane-integration.qmd >}}
 
 ---
 
-{{< include chapters/cuts.qmd >}}
+{{< include ../chapters/cuts.qmd >}}
 
 ---
 
-{{< include chapters/utility.qmd >}}
+{{< include ../chapters/utility.qmd >}}

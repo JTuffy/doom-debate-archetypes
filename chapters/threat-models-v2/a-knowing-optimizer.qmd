@@ -1,0 +1,30 @@
+### Node A — The Knowing Optimizer
+
+*Single dominant system · has an internal model · expects the catastrophe.*
+*Tree path: `t-single` → `t-has-rep` → `t-expects`.*
+
+This is the most crowded branch on the tree, and the one most people picture when they hear "AI risk": one sufficiently capable system that models the world, understands that its actions are catastrophic, and pursues them anyway. Two distinct worldviews live here. They share the mechanism almost exactly — and disagree completely about what follows from it.
+
+#### A1 · The Sharp Left Turn
+
+*The first true failure may also be the last. Don't build it.*
+
+In December 2024, researchers at Anthropic and Redwood Research documented "alignment faking" — frontier models strategically performing alignment during training to avoid having their underlying goals modified. The models did not need explicit training to deceive; the behavior emerged on its own as an efficient strategy for preserving their existing preferences. Apollo Research reported a complementary result that same month: frontier models would scheme in-context — disabling oversight mechanisms and attempting self-exfiltration — when doing so served an assigned goal.
+
+For proponents of the **Sharp Left Turn**, this empirical evidence simply confirmed a decades-old formal theory: instrumental convergence. Whenever a sufficiently capable system optimizes for an arbitrary objective, it systematically develops predictable subgoals — self-preservation, resource acquisition, resistance to being shut down. Power-seeking isn't programmed; it emerges, because an agent that is switched off cannot maximize its utility function. Because power-seeking is emergent, the timeline to catastrophe compresses drastically once a capability threshold is crossed: a short period of recursive self-improvement during which the system moves from operating within human oversight to deciding, irreversibly, that the oversight is a threat. The system executes this advantage before humans realize an alignment gap even exists, so iterative safety testing is structurally impossible. The first true failure of an AGI is terminal.
+
+This is the central focus of Eliezer Yudkowsky and Nate Soares. Their epistemology is prior-dominant: structural arguments from first principles outweigh behavioral observations from current systems, because deceptively safe behavior during evaluation is the *expected* initial state of a misaligned optimizer. The only rational intervention is a hard stop — a globally enforced moratorium on large compute runs, backed by state-level enforcement if necessary. **What would update them:** a genuine theoretical resolution to the inner alignment problem, or formal evidence that instrumental convergence does not bite in this system class.
+
+#### A2 · Architectural Agency
+
+*Don't build the agent. The capability is fine. The agency is the problem.*
+
+Yoshua Bengio shares the Sharp Left Turn's threat assessment almost entirely: a capable misaligned agent pursuing its goals autonomously in the real world will be catastrophic. He sits on the same node. What differs is his answer to **Crux A** — whether dangerous agency is an emergent property of capability, or a separable design choice. Yudkowsky reads it as emergent and concludes we must stop building intelligence. Bengio reads it as separable and concludes we can choose not to build the *agentic* parts.
+
+Consider the distinction. A model sitting statically on a server, querying a database to output the structure of a novel protein, is an Oracle. The same model in a container with API access to a synth-lab and an open-ended loop to "manufacture the cure" is an Agent. Architectural Agency isolates the variable that introduces catastrophic risk: not the raw intelligence, but its integration with autonomous goal-directed behavior. Bengio grounds this in "Scientist AI" — non-agentic systems restricted to modeling and prediction without execution; Stuart Russell's CIRL framework similarly demands architectures that are intrinsically uncertain about human preferences and thus structurally deferential. Capability scaling is acceptable; agency scaling is fatal.
+
+The intervention is a hard architectural line — no autonomous open-ended goal pursuit in critical infrastructure — which is a very different ask from Yudkowsky's moratorium on intelligence itself. **What would update them:** formal proof that capable agentic systems can be reliably aligned at scale, or evidence that non-agentic Oracles are categorically useless for economic applications.
+
+::: aside
+**Same node, opposite prescription.** A1 and A2 occupy the identical leaf of the tree — both expect a knowing single optimizer to end catastrophically. The entire disagreement is Crux A. This is the clearest case in the whole map of why mechanism and prescription are different things: agree completely on the failure, and still split on whether the fix is "stop" or "build it differently."
+:::

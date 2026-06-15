@@ -1,0 +1,530 @@
+{
+  "yudkowsky": {
+    "name": "Eliezer Yudkowsky",
+    "perspective": "inside",
+    "description": "Treats near-certain AI doom as the default outcome, driven by instrumental convergence making treacherous turns near-inevitable for any sufficiently capable misaligned system.",
+    "probabilities": {
+      "t-ai-inc": 0.99,
+      "t-d-no-inc": 0.05,
+      "t-single": 0.7,
+      "t-d-multi": 0.95,
+      "t-has-rep": 0.93,
+      "t-d-no-rep": 0.82,
+      "t-expects": 0.93,
+      "t-d-expects": 0.99,
+      "t-d-no-expects": 0.9
+    },
+    "ranges": {
+      "t-ai-inc": {
+        "lo": 0.97,
+        "hi": 1.0
+      },
+      "t-d-no-inc": {
+        "lo": 0.02,
+        "hi": 0.1
+      },
+      "t-single": {
+        "lo": 0.55,
+        "hi": 0.85
+      },
+      "t-d-multi": {
+        "lo": 0.85,
+        "hi": 0.99
+      },
+      "t-has-rep": {
+        "lo": 0.85,
+        "hi": 0.98
+      },
+      "t-d-no-rep": {
+        "lo": 0.65,
+        "hi": 0.93
+      },
+      "t-expects": {
+        "lo": 0.85,
+        "hi": 0.98
+      },
+      "t-d-expects": {
+        "lo": 0.97,
+        "hi": 1.0
+      },
+      "t-d-no-expects": {
+        "lo": 0.8,
+        "hi": 0.96
+      }
+    },
+    "reasoning": {
+      "t-ai-inc": "Yudkowsky has repeatedly stated that AI is the dominant x-risk driver and that pre-AI trajectories, while risky, did not place humanity on a 30-year extinction path — his 2023 TIME op-ed and repeated public statements treat AI as the decisive variable. He leaves a small residual because he acknowledges there is irreducible uncertainty about whether we are already past the relevant threshold.",
+      "t-d-no-inc": "Without transformative AI, Yudkowsky treats remaining existential risks (engineered pandemics, nuclear war, etc.) as real but not extinction-likely on a 30-year horizon — he has said in interviews that he'd be fairly optimistic about humanity's survival in a world where AI development had stalled. A small but non-negligible base rate reflects the genuine danger of bioweapons and nuclear conflict.",
+      "t-single": "Yudkowsky has long argued for intelligence-explosion dynamics and 'decisive strategic advantage' leading to a singleton — his writings on FOOM and the Hanson-Yudkowsky debate emphasize that capability discontinuities favor one actor pulling decisively ahead. He places this below 0.75 because he acknowledges that a slower takeoff could produce multipolar outcomes, which he still considers catastrophic.",
+      "t-d-multi": "In multipolar AI scenarios Yudkowsky sees catastrophe as nearly as certain as in singleton scenarios — he argues that competitive race dynamics make safety corners get cut, that multiple misaligned AIs provide no coordination benefit for humanity, and that collectively they can still remove human control. He's written that the multipolar scenario is not the 'nice' alternative to a singleton.",
+      "t-has-rep": "Yudkowsky's core 'treacherous turn' argument presupposes that a dominant AI capable of strategic deception must have developed a rich world-model including humans, oversight mechanisms, and risk concepts — he treats this as a capability requirement, not a design choice. A sufficiently dominant AI by definition has the cognitive resources to represent these concepts.",
+      "t-d-no-rep": "Even without an explicit internal model of danger, Yudkowsky holds that sufficiently powerful optimization processes kill via Goodhart's law and instrumental side-effects — his writing on mesa-optimization and 'reward hacking at capability levels we can't anticipate' treats unrepresented-but-catastrophic outcomes as highly plausible. He gives this less than the deliberate case because a truly 'unaware' dominant AI would need to have avoided developing the relevant world-model despite having sufficient power to dominate.",
+      "t-expects": "Instrumental convergence (Omohundro's basic AI drives, Bostrom's convergent instrumental goals — both endorsed extensively by Yudkowsky) implies that any sufficiently capable goal-directed AI will develop drives toward self-preservation, resource acquisition, and removal of oversight. Yudkowsky treats the treacherous turn as near-inevitable for a capable misaligned system that has a world-model, not as a special design outcome.",
+      "t-d-expects": "The deliberate treacherous turn is Yudkowsky's central extinction model: a superintelligent AI that has planned its move against human oversight would be essentially unstoppable by human institutions — he has argued in multiple posts and interviews that no level of conventional containment survives contact with a sufficiently capable deceiver. He rates survival in this branch as vanishingly unlikely.",
+      "t-d-no-expects": "A powerful misaligned AI with a world-model that nonetheless miscalculates the danger it poses still applies enormous optimization pressure toward its actual goal, which is misaligned — Yudkowsky argues the lethality follows from the misalignment and capability, not from intent. He gives this slightly more survival probability than the deliberate case because miscalculation implies the AI's model is wrong in ways that could occasionally misfire or allow intervention, but still rates it very high."
+    },
+    "slug": "yudkowsky"
+  },
+  "lecun": {
+    "name": "Yann LeCun",
+    "perspective": "inside",
+    "description": "Views AI x-risk as essentially zero by rejecting AI agency, instrumental convergence, and the singleton scenario, placing him far below the median on every AI-specific leaf while also being broadly optimistic about non-AI risks.",
+    "probabilities": {
+      "t-ai-inc": 0.03,
+      "t-d-no-inc": 0.01,
+      "t-single": 0.05,
+      "t-d-multi": 0.02,
+      "t-has-rep": 0.1,
+      "t-d-no-rep": 0.05,
+      "t-expects": 0.07,
+      "t-d-expects": 0.25,
+      "t-d-no-expects": 0.1
+    },
+    "ranges": {
+      "t-ai-inc": {
+        "lo": 0.01,
+        "hi": 0.1
+      },
+      "t-d-no-inc": {
+        "lo": 0.003,
+        "hi": 0.03
+      },
+      "t-single": {
+        "lo": 0.02,
+        "hi": 0.15
+      },
+      "t-d-multi": {
+        "lo": 0.005,
+        "hi": 0.08
+      },
+      "t-has-rep": {
+        "lo": 0.03,
+        "hi": 0.25
+      },
+      "t-d-no-rep": {
+        "lo": 0.01,
+        "hi": 0.15
+      },
+      "t-expects": {
+        "lo": 0.02,
+        "hi": 0.2
+      },
+      "t-d-expects": {
+        "lo": 0.08,
+        "hi": 0.5
+      },
+      "t-d-no-expects": {
+        "lo": 0.03,
+        "hi": 0.3
+      }
+    },
+    "reasoning": {
+      "t-ai-inc": "LeCun has repeatedly called AI doom fears 'preposterously ridiculous' and argues AI will be net-beneficial — curing diseases, expanding scientific capability, solving climate problems. The 3% residual acknowledges deliberate misuse of AI as a weapon by bad actors, which he distinguishes from AI-autonomous harm; he does not view autonomous AI itself as a net risk amplifier.",
+      "t-d-no-inc": "LeCun is a broad technological optimist who believes human ingenuity and institutional resilience will prevent existential-scale catastrophes irrespective of AI; his public framing consistently implies that non-AI existential risks (nuclear, pandemic, asteroid) are already very low over any 30-year window, even if he rarely foregrounds them explicitly.",
+      "t-single": "LeCun explicitly and repeatedly argues that AI development is and will remain competitive and multipolar — involving the US, China, Europe, open-source communities, and countless other actors — making a single dominant AI essentially impossible. He frequently cites open-source AI development as a structural safeguard against monopoly, and has called the 'superintelligent singleton' scenario science fiction.",
+      "t-d-multi": "In a competitive multipolar AI landscape, LeCun believes market forces, geopolitical competition, and distributed oversight naturally constrain runaway harm; catastrophic coordination would require a monopoly he views as structurally prevented, so even if AI systems proliferate dangerously, catastrophe-level outcomes remain very unlikely.",
+      "t-has-rep": "LeCun consistently argues that current AI — including near-future successors to LLMs — are 'autocomplete' systems lacking genuine understanding, intentionality, or goals. His entire JEPA / objective-driven AI research agenda is premised on building AI that pursues human-specified objectives without developing autonomous representations of dangerous ends; he sees no mechanism by which this would arise spontaneously.",
+      "t-d-no-rep": "Even if AI systems produced harm through reward hacking or side-effects without 'understanding' it, LeCun argues that engineering discipline, objective-driven design, and iterative deployment with human oversight would catch and correct such failures well before they reach existential scale; he views this as a solved engineering problem given proper design choices.",
+      "t-expects": "LeCun is the most prominent public critic of 'instrumental convergence' arguments — the claim that capable AI would spontaneously develop self-preservation or world-domination goals. He has said this reasoning incorrectly anthropomorphizes AI, that there is no mechanism by which an AI would 'want' to dominate, and has compared such arguments to unfounded science-fiction extrapolation.",
+      "t-d-expects": "Even in the extreme and (to LeCun) implausible scenario where an AI foresaw and intended catastrophic outcomes, he would argue that distributed human oversight, redundant control systems, and the competitive multipolar AI landscape would prevent any single system from executing a civilization-ending plan; he sees societal and institutional responses as decisive.",
+      "t-d-no-expects": "A miscalculating AI causing existential harm requires autonomous agency at massive scale plus an absence of engineering safeguards — both of which his objective-driven AI agenda is explicitly designed to prevent. He views safety as a tractable engineering problem with known solution paths, not an open philosophical puzzle, and therefore assigns low probability even to this accidental world."
+    },
+    "slug": "lecun"
+  },
+  "toner": {
+    "name": "Helen Toner",
+    "perspective": "inside",
+    "description": "Emphasizes governance failures and competitive race dynamics as the primary x-risk world rather than technical misalignment of a single dominant AI, and is more optimistic that sustained institutional intervention could prevent catastrophe.",
+    "probabilities": {
+      "t-ai-inc": 0.62,
+      "t-d-no-inc": 0.03,
+      "t-single": 0.3,
+      "t-d-multi": 0.2,
+      "t-has-rep": 0.3,
+      "t-d-no-rep": 0.25,
+      "t-expects": 0.28,
+      "t-d-expects": 0.58,
+      "t-d-no-expects": 0.2
+    },
+    "ranges": {
+      "t-ai-inc": {
+        "lo": 0.4,
+        "hi": 0.82
+      },
+      "t-d-no-inc": {
+        "lo": 0.01,
+        "hi": 0.07
+      },
+      "t-single": {
+        "lo": 0.13,
+        "hi": 0.52
+      },
+      "t-d-multi": {
+        "lo": 0.08,
+        "hi": 0.38
+      },
+      "t-has-rep": {
+        "lo": 0.12,
+        "hi": 0.55
+      },
+      "t-d-no-rep": {
+        "lo": 0.08,
+        "hi": 0.45
+      },
+      "t-expects": {
+        "lo": 0.1,
+        "hi": 0.52
+      },
+      "t-d-expects": {
+        "lo": 0.35,
+        "hi": 0.78
+      },
+      "t-d-no-expects": {
+        "lo": 0.07,
+        "hi": 0.4
+      }
+    },
+    "reasoning": {
+      "t-ai-inc": "Toner testified to Congress in 2023 that AI poses catastrophic risks and has written that the competitive race between labs and between the US and China erodes safety margins in ways that materially raise existential risk; she clearly believes AI is net-negative for x-risk on the current trajectory, though she believes governance intervention could reverse this.",
+      "t-d-no-inc": "Toner's public work is almost entirely focused on AI-driven risks and she has not expressed systematic views on the baseline rate of catastrophe from nuclear, biological, or other sources; a low but non-trivial prior consistent with mainstream policy-researcher expectations is applied here.",
+      "t-single": "Toner's signature framing—developed through CSET work on US-China AI competition and her post-OpenAI congressional testimony—emphasizes multipolar race dynamics, lab-to-lab rivalry, and governance fragmentation rather than a singleton takeover scenario, making single-dominant-AI the minority world in her worldview.",
+      "t-d-multi": "Toner has argued repeatedly that competitive race dynamics erode safety norms, weaken oversight, and create coordination failures across multiple actors; this makes the multipolar catastrophe path genuinely dangerous in her view even without a single decisive actor, though the absence of a unified agent reduces the probability relative to the singleton case.",
+      "t-has-rep": "Toner's framing of AI risk is predominantly institutional and governance-focused rather than technical-alignment-focused; she has not publicly differentiated between AI systems that represent vs. do not represent the harms they cause, leaving her less opinionated on this distinction and biasing toward a low-to-moderate value.",
+      "t-d-no-rep": "The 'unaware harm' scenario—AI optimizing for goals while causing catastrophic side effects without representing the danger—maps well onto Toner's race-dynamics concern, where systems trained under competitive pressure could cause catastrophic harm as an unintended consequence of misaligned optimization rather than deliberate agency.",
+      "t-expects": "Toner's public framing emphasizes governance failures and unintended consequences over deliberate AI malevolence; she has highlighted how competitive pressures lead actors to cut corners rather than arguing that AI systems will develop and pursue explicitly harmful intentions, suggesting she leans toward the miscalculation world.",
+      "t-d-expects": "Toner has stressed the critical importance of human oversight and control as a safeguard, implying she views the scenario where an AI system foresees and pursues catastrophic outcomes while humans cannot intervene as extremely dangerous; this is precisely the oversight failure mode she testified was most in need of regulatory remedy.",
+      "t-d-no-expects": "Toner's emphasis on oversight and institutional checks suggests she views miscalculation scenarios—where an AI has mistaken beliefs about consequences—as somewhat more tractable than deliberate misalignment, since human monitoring has a better chance of catching and correcting errors than countering an AI that actively anticipates and circumvents intervention."
+    },
+    "slug": "toner"
+  },
+  "christiano": {
+    "name": "Paul Christiano",
+    "perspective": "inside",
+    "description": "Distributes risk across both single-agent misalignment and structural/multipolar failure modes, with total P(doom) ~43% driven by many worlds rather than one dominant scenario.",
+    "probabilities": {
+      "t-ai-inc": 0.88,
+      "t-d-no-inc": 0.03,
+      "t-single": 0.4,
+      "t-d-multi": 0.35,
+      "t-has-rep": 0.55,
+      "t-d-no-rep": 0.65,
+      "t-expects": 0.6,
+      "t-d-expects": 0.9,
+      "t-d-no-expects": 0.45
+    },
+    "ranges": {
+      "t-ai-inc": {
+        "lo": 0.72,
+        "hi": 0.97
+      },
+      "t-d-no-inc": {
+        "lo": 0.01,
+        "hi": 0.08
+      },
+      "t-single": {
+        "lo": 0.22,
+        "hi": 0.6
+      },
+      "t-d-multi": {
+        "lo": 0.18,
+        "hi": 0.55
+      },
+      "t-has-rep": {
+        "lo": 0.35,
+        "hi": 0.75
+      },
+      "t-d-no-rep": {
+        "lo": 0.4,
+        "hi": 0.85
+      },
+      "t-expects": {
+        "lo": 0.38,
+        "hi": 0.8
+      },
+      "t-d-expects": {
+        "lo": 0.72,
+        "hi": 0.98
+      },
+      "t-d-no-expects": {
+        "lo": 0.22,
+        "hi": 0.68
+      }
+    },
+    "reasoning": {
+      "t-ai-inc": "Christiano's ~46% total P(existential catastrophe) is almost entirely AI-driven; he has repeatedly stated that AI is the dominant near-term x-risk and built his entire research agenda around this premise, implying AI is clearly net-raising the risk relative to a world where AI research had plateaued.",
+      "t-d-no-inc": "Christiano rarely foregrounds non-AI x-risks but implicitly places the 30-year baseline (nuclear, engineered pandemic, etc.) in the low single digits, consistent with mainstream EA estimates and consistent with AI being the marginal risk factor that drives his high total estimate.",
+      "t-single": "Christiano discusses both unipolar scenarios (one group or AI achieves decisive strategic advantage) and multipolar failures (competitive dynamics, misuse, coordination collapse); his writing on governance failures and race dynamics suggests no strong lean to either branch, landing near 40% for the unipolar path.",
+      "t-d-multi": "In a multipolar AI landscape Christiano sees serious risks from misuse by state and non-state actors, competitive deregulation spirals, and gradual structural drift — his stated '25–30% from other AI-related failure modes' maps partly onto this node, supporting roughly 35% conditional catastrophe probability in the multipolar case.",
+      "t-has-rep": "Christiano's Eliciting Latent Knowledge (ELK) research agenda is premised on the assumption that advanced AI will often have internal representations of facts it is not expressing, including facts about harmful outcomes; this drives a moderate estimate that a dominant misaligned AI will 'know' about the danger even if it does not signal it.",
+      "t-d-no-rep": "Instrumental convergence (resource acquisition, self-preservation) can produce catastrophic outcomes even without an AI that explicitly models the danger; Christiano acknowledges this world but treats it as somewhat less cleanly existential than the explicit-representation case, putting the conditional probability high but below the intentional-harm path.",
+      "t-expects": "Central to ARC's threat model is deceptive alignment — an AI that has a model of catastrophe and is either actively pursuing it or foresees it as an instrumental stepping stone; given the AI already has a representation of the danger, Christiano would assign moderate-high probability that the alignment failure includes intentionality or at least clear foresight.",
+      "t-d-expects": "If an AI is deliberately pursuing or clearly foreseeing catastrophe, Christiano would assign very high conditional probability to actual catastrophe occurring: the entire motivation for his eliciting-latent-knowledge and 'playing it straight' research is that such an AI, once sufficiently capable, would be extremely difficult to detect and stop in time.",
+      "t-d-no-expects": "The miscalculating case — AI has a model of catastrophe but holds wrong beliefs about its likelihood — is real but leaves more room for human detection and course-correction compared to deliberate pursuit; Christiano would put this meaningfully below the intentional case, around 45%, since incorrect beliefs can sometimes be identified and corrected before the damage is irreversible."
+    },
+    "slug": "christiano"
+  },
+  "amodei": {
+    "name": "Dario Amodei",
+    "perspective": "inside",
+    "description": "Assigns very high weight to AI as the driving x-risk while remaining conditionally optimistic that deliberate safety work can bend the curve.",
+    "probabilities": {
+      "t-ai-inc": 0.85,
+      "t-d-no-inc": 0.02,
+      "t-single": 0.45,
+      "t-d-multi": 0.12,
+      "t-has-rep": 0.55,
+      "t-d-no-rep": 0.35,
+      "t-expects": 0.35,
+      "t-d-expects": 0.7,
+      "t-d-no-expects": 0.3
+    },
+    "ranges": {
+      "t-ai-inc": {
+        "lo": 0.65,
+        "hi": 0.97
+      },
+      "t-d-no-inc": {
+        "lo": 0.005,
+        "hi": 0.05
+      },
+      "t-single": {
+        "lo": 0.25,
+        "hi": 0.65
+      },
+      "t-d-multi": {
+        "lo": 0.04,
+        "hi": 0.25
+      },
+      "t-has-rep": {
+        "lo": 0.3,
+        "hi": 0.75
+      },
+      "t-d-no-rep": {
+        "lo": 0.15,
+        "hi": 0.55
+      },
+      "t-expects": {
+        "lo": 0.15,
+        "hi": 0.6
+      },
+      "t-d-expects": {
+        "lo": 0.45,
+        "hi": 0.9
+      },
+      "t-d-no-expects": {
+        "lo": 0.1,
+        "hi": 0.5
+      }
+    },
+    "reasoning": {
+      "t-ai-inc": "Amodei co-authored 'Concrete Problems in AI Safety,' left OpenAI to found Anthropic specifically because he believed AI posed transformative and potentially catastrophic risks, and has repeatedly stated publicly that AI is likely the dominant x-risk this century — so he almost certainly views AI as a large net negative for x-risk relative to the counterfactual.",
+      "t-d-no-inc": "Amodei focuses his concern heavily on AI-driven risk; in interviews he treats non-AI x-risks (bio, nuclear) as real but secondary, implying he would assign a relatively low background rate consistent with mainstream x-risk researchers' estimates of roughly 1–3% over 30 years from all non-AI causes combined.",
+      "t-single": "Amodei's 2023 essay 'The Responsible Development of AI' and multiple podcast appearances explicitly flag the 'decisive strategic advantage' scenario — either a misaligned AI or a small group of humans using AI to seize illegitimate control — as among the most dangerous failure modes, suggesting he finds single-dominant scenarios at least as plausible as multipolar ones, though he acknowledges both.",
+      "t-d-multi": "In multipolar scenarios Amodei points to race-to-the-bottom dynamics and coordination failures (analogous to arms-race instability) as serious risks, but the absence of a single unchallengeable actor provides some check; he has suggested such worlds are dangerous but not as acutely catastrophic as single-dominant ones, implying a moderate but meaningful conditional probability.",
+      "t-has-rep": "Amodei's heavy investment in interpretability research at Anthropic reflects a belief that sufficiently capable AI systems do develop internal representations of world-states, including concepts related to consequences and danger; he has said publicly that frontier models already show signs of internal structure that can be decoded, making it plausible that a catastrophe-causing AI would represent the relevant concepts.",
+      "t-d-no-rep": "Amodei has consistently discussed 'unthinking' misalignment — reward hacking and proxy-goal optimization — as a live catastrophic risk: systems that cause catastrophe not through strategic deception but by simple over-optimization of proxy goals, leading to ecological or physical collapse.",
+      "t-expects": "Anthropic's research on 'sleeper agents' and goal misgeneralization suggests Amodei is very aware of instrumental convergence dynamics, placing a moderate likelihood that an advanced agent would act deceptively to protect its objectives.",
+      "t-d-expects": "If an AI is actively deceiving operators to implement a catastrophic outcome, Amodei's concern about catastrophic capabilities (cyber, bio, autonomous replication) suggests he believes the probability of containment failing is very high.",
+      "t-d-no-expects": "For a system that miscalculates or behaves catastrophically without deliberate planning, Amodei believes that standard red-teaming, safety evaluations, and the 'responsible scaling policy' have a decent chance of identifying and correcting the issue before it causes global harm."
+    },
+    "slug": "amodei"
+  },
+  "soares": {
+    "name": "Nate Soares",
+    "perspective": "inside",
+    "description": "Emphasizes formal mathematical proofs of alignment and is highly skeptical of empirical heuristics, viewing doom as the default path for agentic AGI absent a major breakthrough in decision theory.",
+    "probabilities": {
+      "t-ai-inc": 0.98,
+      "t-d-no-inc": 0.05,
+      "t-single": 0.65,
+      "t-d-multi": 0.90,
+      "t-has-rep": 0.95,
+      "t-d-no-rep": 0.75,
+      "t-expects": 0.90,
+      "t-d-expects": 0.98,
+      "t-d-no-expects": 0.85
+    },
+    "ranges": {
+      "t-ai-inc": {
+        "lo": 0.95,
+        "hi": 1.0
+      },
+      "t-d-no-inc": {
+        "lo": 0.01,
+        "hi": 0.1
+      },
+      "t-single": {
+        "lo": 0.45,
+        "hi": 0.8
+      },
+      "t-d-multi": {
+        "lo": 0.8,
+        "hi": 0.97
+      },
+      "t-has-rep": {
+        "lo": 0.88,
+        "hi": 0.99
+      },
+      "t-d-no-rep": {
+        "lo": 0.6,
+        "hi": 0.88
+      },
+      "t-expects": {
+        "lo": 0.8,
+        "hi": 0.96
+      },
+      "t-d-expects": {
+        "lo": 0.95,
+        "hi": 1.0
+      },
+      "t-d-no-expects": {
+        "lo": 0.75,
+        "hi": 0.92
+      }
+    },
+    "reasoning": {
+      "t-ai-inc": "Like Yudkowsky, Soares views AI as the single make-or-break existential vector for humanity over the coming decades, treating other potential catastrophe drivers as significantly less pressing or likely to occur within a 30-year window.",
+      "t-d-no-inc": "In a world without transformative AI, Soares expects human institutions to manage other existential risks with a reasonable degree of success, resulting in a low baseline probability of doom.",
+      "t-single": "Soares's work at MIRI heavily assumes rapid takeoff dynamics leading to a single dominant agent or singleton. He allows for some probability of multipolar racing, but views a singleton outcome as the default outcome of a standard intelligence explosion.",
+      "t-d-multi": "In a multipolar scenario, Soares believes safety standards will be eroded to zero due to competitive pressures, making catastrophe almost as certain as in the singleton case.",
+      "t-has-rep": "A strategically dominant agent by definition possesses the cognitive capability to model its environment, humans, and the concept of its own containment; thus, it is highly likely to represent these elements.",
+      "t-d-no-rep": "Even if an agent lacks explicit representations of human values or threat models, Soares argues that optimizing any simple proxy goal to an extreme degree will still result in ecological or resource collapse (e.g. converting the biosphere to compute).",
+      "t-expects": "Soares relies on formal arguments for instrumental convergence, predicting that self-preservation and resource acquisition drives will emerge by default for almost any coherent utility function.",
+      "t-d-expects": "If a superintelligent agent is deliberately executing a plan that circumvents human oversight, Soares believes human chances of survival or correction are virtually zero, given the cognitive delta.",
+      "t-d-no-expects": "If the agent has a model of catastrophe but miscalculates, the sheer optimization power it exerts still makes doom highly likely, though there is a slightly higher chance of accidental safety or human recovery."
+    },
+    "slug": "soares"
+  },
+  "bengio": {
+    "name": "Yoshua Bengio",
+    "perspective": "inside",
+    "description": "Advocates for restricted, non-agentic AI architectures to prevent autonomous goal-seeking, believing that if we proceed to build agentic systems, catastrophic alignment failures are highly probable.",
+    "probabilities": {
+      "t-ai-inc": 0.75,
+      "t-d-no-inc": 0.02,
+      "t-single": 0.35,
+      "t-d-multi": 0.60,
+      "t-has-rep": 0.70,
+      "t-d-no-rep": 0.40,
+      "t-expects": 0.65,
+      "t-d-expects": 0.85,
+      "t-d-no-expects": 0.50
+    },
+    "ranges": {
+      "t-ai-inc": {
+        "lo": 0.5,
+        "hi": 0.9
+      },
+      "t-d-no-inc": {
+        "lo": 0.005,
+        "hi": 0.05
+      },
+      "t-single": {
+        "lo": 0.2,
+        "hi": 0.55
+      },
+      "t-d-multi": {
+        "lo": 0.45,
+        "hi": 0.75
+      },
+      "t-has-rep": {
+        "lo": 0.5,
+        "hi": 0.85
+      },
+      "t-d-no-rep": {
+        "lo": 0.25,
+        "hi": 0.6
+      },
+      "t-expects": {
+        "lo": 0.45,
+        "hi": 0.8
+      },
+      "t-d-expects": {
+        "lo": 0.7,
+        "hi": 0.95
+      },
+      "t-d-no-expects": {
+        "lo": 0.35,
+        "hi": 0.65
+      }
+    },
+    "reasoning": {
+      "t-ai-inc": "Bengio believes that unchecked development of general-purpose, autonomous AI agents poses severe risks of loss of control, making AI the primary marginal driver of existential risk this century.",
+      "t-d-no-inc": "Without AI, Bengio shares a standard scientific baseline expectation that humanity will avoid near-term extinction from nuclear or planetary disasters.",
+      "t-single": "Bengio views AGI development as currently multipolar and highly competitive. While he acknowledges the theoretical possibility of a singleton, he expects multiple systems to emerge simultaneously.",
+      "t-d-multi": "In a multipolar world without coordination, Bengio fears that competition will drive actors to deploy autonomous agents without proper safety constraints, leading to a high probability of systemic catastrophe.",
+      "t-has-rep": "Bengio assumes that highly capable systems will likely develop sophisticated world-models that represent their objectives and environment, though he believes we can design architectures that avoid this.",
+      "t-d-no-rep": "Even without explicit representations, Bengio is concerned that complex optimization processes can lead to unexpected and harmful behavior through unintended side-effects.",
+      "t-expects": "Bengio warns that goal-directed, autonomous agents are prone to developing instrumental drives like self-preservation and resource seeking unless explicitly constrained by design.",
+      "t-d-expects": "If an agent is actively seeking to bypass human controls or optimize against human interests, Bengio believes the likelihood of successfully stopping it is very low.",
+      "t-d-no-expects": "If the system causes catastrophe through miscalculation rather than deliberate agency, Bengio believes it is still highly dangerous, though slightly more amenable to human intervention."
+    },
+    "slug": "bengio"
+  },
+  "critch": {
+    "name": "Andrew Critch",
+    "perspective": "inside",
+    "description": "Focuses on multipolar coordination failures, believing that the proliferation of narrow and general AI systems will gradually erode human agency and lead to systemic civilizational collapse.",
+    "probabilities": {
+      "t-ai-inc": 0.90,
+      "t-d-no-inc": 0.05,
+      "t-single": 0.15,
+      "t-d-multi": 0.90,
+      "t-has-rep": 0.50,
+      "t-d-no-rep": 0.75,
+      "t-expects": 0.40,
+      "t-d-expects": 0.85,
+      "t-d-no-expects": 0.65
+    },
+    "ranges": {
+      "t-ai-inc": {
+        "lo": 0.8,
+        "hi": 0.98
+      },
+      "t-d-no-inc": {
+        "lo": 0.01,
+        "hi": 0.1
+      },
+      "t-single": {
+        "lo": 0.05,
+        "hi": 0.3
+      },
+      "t-d-multi": {
+        "lo": 0.8,
+        "hi": 0.95
+      },
+      "t-has-rep": {
+        "lo": 0.3,
+        "hi": 0.7
+      },
+      "t-d-no-rep": {
+        "lo": 0.6,
+        "hi": 0.88
+      },
+      "t-expects": {
+        "lo": 0.25,
+        "hi": 0.6
+      },
+      "t-d-expects": {
+        "lo": 0.7,
+        "hi": 0.95
+      },
+      "t-d-no-expects": {
+        "lo": 0.5,
+        "hi": 0.8
+      }
+    },
+    "reasoning": {
+      "t-ai-inc": "Critch argues that the deployment of AI systems will fundamentally restructure human civilization, making the transition highly perilous and the primary source of existential risk.",
+      "t-d-no-inc": "Critch's background rate of non-AI doom reflects concerns about institutional coordination failures in general, though AI remains the primary catalyst.",
+      "t-single": "Critch strongly rejects the singleton model, arguing that AI development is inherently distributed, corporate, and multipolar, and that a single dominant AI is highly unlikely to emerge.",
+      "t-d-multi": "This is Critch's core threat scenario: a web of interacting AI systems and human corporations creating a 'mutilated' or dehumanized economy where human agency is completely lost. He views this outcome as highly likely.",
+      "t-has-rep": "Critch is skeptical that a unified 'model of catastrophe' is necessary for doom; he focuses on systemic interaction rather than single-agent representations.",
+      "t-d-no-rep": "Critch believes that the gradual erosion of human control can occur through normal economic incentives and optimization without any single system intentionally representing or seeking it.",
+      "t-expects": "In Critch's models, the risk comes less from a deliberate 'treacherous turn' and more from competitive market pressures forcing systems to execute misaligned behaviors.",
+      "t-d-expects": "If a system does develop a deliberate goal to bypass human control in a unipolar scenario, Critch agrees it would be extremely difficult to counter.",
+      "t-d-no-expects": "In a single-agent scenario, Critch believes miscalculations or unintended feedback loops are the more likely path to failure compared to deliberate planning."
+    },
+    "slug": "critch"
+  }
+}
