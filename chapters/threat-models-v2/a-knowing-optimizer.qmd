@@ -3,7 +3,7 @@
 *Single dominant system · has an internal model · expects the catastrophe.*
 *Tree path: `t-single` → `t-has-rep` → `t-expects`.*
 
-This is the most crowded branch on the tree, and the one most people picture when they hear "AI risk": one sufficiently capable system that models the world, understands that its actions are catastrophic, and pursues them anyway. Two distinct worldviews live here. They share the mechanism almost exactly — and disagree completely about what follows from it.
+This is the most crowded branch on the tree, and the one most people picture when they hear "AI risk": one sufficiently capable system that models the world, understands that its actions are catastrophic, and pursues them anyway. Two worldviews anchor it below. They share the mechanism almost exactly and disagree completely about what follows from it. (Vivid scenario-forecasts like AI-2027 also live here — concrete dramatizations of this node rather than separate worldviews.)
 
 #### A1 · The Sharp Left Turn
 
