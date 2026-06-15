@@ -1,12 +1,12 @@
 ## IV. Two Cuts Across the Same Space
 
-::: aside
+::: {.aside .meta-note}
 **META:** The regrouping section. Purpose: show the threat model gallery in Part III is not the only way to slice the space — different cuts reveal different structure. Keep each cut short; the job is to show new patterns, not re-explain the models. Since "Mechanism" is now the primary grouping, we cut by Epistemology and Crux.
 :::
 
 ### Cut 1: By Epistemological Stance
 
-::: aside
+::: {.aside .meta-note}
 **META:** The most important cut for a LW audience. This cut reveals why some debates in this space are structurally unresolvable under current conditions — and why that's not anyone's fault. Add the error asymmetry insight here: the people who won't update on current AI behavior often aren't being unreasonable; they're reasoning about which error is worse.
 :::
 
@@ -20,7 +20,7 @@ There's a further layer here that doesn't reduce to epistemological stance alone
 
 ### Cut 2: By Core Crux
 
-::: aside
+::: {.aside .meta-note}
 **META:** The practically useful cut. Each crux is a specific binary claim where a real factual disagreement lies, addressable in principle by argument or forecasting. Crux E (warning shots) gets a paragraph, not just a table row — it's the crux with the most available near-term evidence and the most disagreement about what counts.
 :::
 
@@ -37,7 +37,7 @@ There's a further layer here that doesn't reduce to epistemological stance alone
 
 ### The Transition Map: Where Would You Move?
 
-::: aside
+::: {.aside .meta-note}
 **META:** This is the most dynamic part of the post — it makes the map feel like a useful tool rather than a gallery. A reader who agrees with the Sharp Left Turn on everything but thinks Crux D is wrong should find themselves in Control Failure territory.
 :::
 

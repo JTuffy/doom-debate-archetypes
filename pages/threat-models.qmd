@@ -5,7 +5,7 @@ date: "March 2026"
 author: "[Author TBD]"
 ---
 
-::: {.callout-note collapse="true" title="Document Meta — read this first"}
+::: {.callout-note .meta-note collapse="true" title="Document Meta — read this first"}
 This document is a structured draft for a LessWrong post mapping viewpoints in the AI doom debate. The meta notes throughout are **permanent structural documentation** — they explain why each section is shaped the way it is and what to resist when writing. Never delete or shorten them. In this Quarto format, meta notes appear as margin asides when rendered.
 
 **Structure:**
@@ -23,7 +23,7 @@ This document is a structured draft for a LessWrong post mapping viewpoints in t
 
 ## I. Why This Map Exists
 
-::: aside
+::: {.aside .meta-note}
 **META:** Short. 2–3 paragraphs max. Create the problem the post solves — don't summarize the archetypes. Three beats: the frustrating observation → the non-obvious thesis → what this post does and doesn't do. The "but you didn't take a side" objection is forestalled in beat 3. Author locates position in §V.
 :::
 
@@ -51,31 +51,31 @@ While the companion [Archetypes](archetypes.qmd) post maps this space by *belief
 
 {{< include ../chapters/threat-models/sharp-left-turn.qmd >}}
 
-::: aside
+::: {.aside .meta-note}
 **META (Pivot):** If the Sharp Left Turn threat model is right, we need a physical moratorium. But what if the danger isn't a single rapid explosion of capability, but a slow, irresistible accumulation of systemic power through misaligned subsystems?
 :::
 
 {{< include ../chapters/threat-models/structural-disempowerment.qmd >}}
 
-::: aside
+::: {.aside .meta-note}
 **META (Pivot):** Both the Sharp Left Turn and Structural Disempowerment assume catastrophic bad outcomes are the default result of optimization. But what if the structural danger is real, yet technical alignment isn't completely impossible, allowing for a mix of oversight failures and misuses instead of an inevitable universal takeover?
 :::
 
 {{< include ../chapters/threat-models/control-failure.qmd >}}
 
-::: aside
+::: {.aside .meta-note}
 **META (Pivot):** The Control Failure model worries about technically aligning the system. But what if technical alignment isn't the primary bottleneck at all? What if unsupervised human competition guarantees catastrophe regardless of the math?
 :::
 
 {{< include ../chapters/threat-models/multipolar-racing.qmd >}}
 
-::: aside
+::: {.aside .meta-note}
 **META (Pivot):** Multipolar Racing sees uncontrolled human coordination as the driver of doom. If human coordination is the core dependency, one logical extreme is to preemptively and legally ban the creation of specific autonomous architectures globally.
 :::
 
 {{< include ../chapters/threat-models/architectural-agency.qmd >}}
 
-::: aside
+::: {.aside .meta-note}
 **META (Pivot):** Architectural Agency warns us to urgently ban agentic architectures. But what if that entire architectural paradigm is a dead end that will never mathematically reach human-level agency anyway, or what if the risks are fundamentally mundane?
 :::
 

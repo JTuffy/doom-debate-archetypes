@@ -1,12 +1,12 @@
 ## IV. Three Cuts Across the Same Space
 
-::: aside
+::: {.aside .meta-note}
 **META:** The regrouping section. Purpose: show the portrait gallery in Part III is not the only way to slice the space — different cuts reveal different structure. Keep each cut short; the job is to show new patterns, not re-explain the archetypes.
 :::
 
 ### Cut 1: By Failure Mechanism
 
-::: aside
+::: {.aside .meta-note}
 **META:** Hidden alliances emerge here. Safe-by-Design and Hard Doomer agree on mechanism (unipolar optimizer) but reach opposite conclusions about what to do. Multipolar Realist and Conditional Doomer may look numerically adjacent but have almost no causal model in common.
 :::
 
@@ -20,7 +20,7 @@ A fourth mechanism that doesn't map cleanly onto any portrait in this gallery: *
 
 ### Cut 2: By Epistemological Stance
 
-::: aside
+::: {.aside .meta-note}
 **META:** Epistemological stance cut. Post 3 compresses this to a 2-sentence pointer back to the Threat Models post, followed by the original error asymmetry insight which applies directly to the portraits.
 :::
 
@@ -30,7 +30,7 @@ There's a further layer here that doesn't reduce to epistemological stance alone
 
 ### Cut 3: By Core Crux
 
-::: aside
+::: {.aside .meta-note}
 **META:** The practically useful cut. Each crux is a specific binary claim where a real factual disagreement lies, addressable in principle by argument or forecasting. Crux E (warning shots) gets a paragraph, not just a table row — it's the crux with the most available near-term evidence and the most disagreement about what counts.
 :::
 
@@ -49,7 +49,7 @@ The cruxes below represent the core factual and philosophical disagreements betw
 
 ### The Transition Map: Where Would You Move?
 
-::: aside
+::: {.aside .meta-note}
 **META:** This is the most dynamic part of the post — it makes the map feel like a useful tool rather than a gallery. A reader who agrees with the Hard Doomer on everything but thinks Crux D is wrong should find themselves in Conditional Doomer territory.
 :::
 

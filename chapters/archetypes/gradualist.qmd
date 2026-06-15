@@ -1,6 +1,6 @@
 ### 7. The Gradualist Forecaster
 
-::: aside
+::: {.aside .meta-note}
 **META:** The methodological claim (decomposition-first) is the lead, not the survey data — Grace is here for the methodology, not to say "researchers aren't worried." The key move: decomposition-first reasoning compounds uncertainty and often produces wider distributions with higher right tails, not lower concern. This is made in the body paragraph and crystallized in the defamiliarizing observation. Metaculus/forecasting community is a second entry to show the cluster isn't just Grace. Tree node mapping uses wide uncertainty ranges (lo/hi) rather than point probabilities, which distinguishes this from every other archetype.
 :::
 

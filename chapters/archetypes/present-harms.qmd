@@ -1,6 +1,6 @@
 ### 8. The Present-Harms / Power-Critique Realist
 
-::: aside
+::: {.aside .meta-note}
 **META:** Sits "outside" the standard doom frame but matters for completeness and for what it implies about the taxonomy itself. If doom includes severe systematic harm through already-deployed systems, this view is already inside the debate. Don't treat this as a token inclusion — it raises a real definitional challenge. Who counts as representative here is sensitive; avoid the identity-politics read.
 :::
 

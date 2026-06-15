@@ -1,6 +1,6 @@
 ### 9. The AI Control Optimist *(Gap Archetype — provisional)*
 
-::: aside
+::: {.aside .meta-note}
 **META:** Christiano's ARC, Anthropic interpretability and evals. Agrees risk is serious; conditionally optimistic on technical tractability. May be a sub-branch of the Conditional Doomer, or a genuinely distinct cluster. Treat as provisional — surface the question of whether this belongs as a standalone archetype or should be folded into #3.
 :::
 

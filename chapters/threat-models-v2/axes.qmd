@@ -1,0 +1,22 @@
+## II. The Axes — Where a View Sits
+
+::: {.aside .meta-note}
+**META:** The three *continuous* dimensions only. Two distinctions that used to live here — whether agency is emergent, and what counts as "doom" — are discrete forks, so they moved to §IV as cruxes. Keep this section to the slides; the switches live later.
+:::
+
+Three dimensions do the orienting work. They're the continuous ones — a view sits *somewhere* on each rather than picking a side — and they're independent: your position on one doesn't constrain the others. What makes them useful is that they cut across the mechanism spine of §III. Two thinkers can share a failure mechanism and sit at opposite ends of an axis, or share an axis position while disagreeing completely about mechanism.
+
+**Axis 1 — Evidentiary standard: priors ↔ evidence.**
+Some thinkers reason primarily from structural arguments — instrumental convergence, orthogonality, the difficulty of value loading — and treat current AI behavior as near-zero evidence about the relevant risk. Others update substantially on what systems actually do: how alignment techniques perform, whether warning signs appear in deployment. This is the most load-bearing axis in the whole map, because it predicts whether two people can update each other *at all* — and it cuts cleanly across the spine: the Sharp Left Turn (a single-optimizer mechanism) and Structural Disempowerment (a multipolar one) sit together at the prior-dominant end, while Control Failure and the skeptics sit at the empirical end. There's a further layer that isn't really about evidence: the two ends often weight *which error is worse* differently. Prior-dominant thinkers treat a missed dangerous system as catastrophic and an unnecessary restriction as tolerable; empirically-conditioned thinkers often weight those more symmetrically. Two people can share a standard and still diverge, because they're optimizing different loss functions.
+
+**Axis 2 — Time horizon: the next few years ↔ a century.**
+Amodei's concern focuses on misuse over the next five to ten years; Ord's estimates in *The Precipice* are framed over centuries. These aren't adjacent points — they're different forecasts with different urgency profiles and different intervention windows, and the horizon is independent of everything else: any definition of doom pairs with any window. A 20%-over-5-years and a 20%-over-a-century imply radically different priorities even when the numbers match. Most stated p(doom) figures don't specify the window at all, which is a large part of why they fail to locate the argument.
+
+**Axis 3 — Scope and tempo: today's systems ↔ a far-future paradigm, arriving gradually ↔ all at once.**
+Two coupled questions about *what* is dangerous and *how fast* it gets here. On scope: is the concern about systems that exist now (the present-harms end), near-term scaling of the current paradigm, or a qualitatively different class of system that hasn't been built (the extrapolationist end)? On tempo: does capability arrive as a continuous, mundane ramp or a sharp, compressed takeoff? Takeoff speed belongs here rather than in the mechanism — you can have a fast or slow *unipolar* failure and a fast or slow *multipolar* one — and it's doing quiet work throughout the gallery: it's most of what separates the Sharp Left Turn (sharp) from Structural Disempowerment (slow), and it's the hinge of the skeptics' bet that nothing qualitatively dangerous arrives at all.
+
+::: {.aside .meta-note}
+**META:** Note for revision — Axis 3 deliberately fuses scope and tempo to stay at three axes; flag if a reader finds the fusion confusing, in which case split tempo into its own axis.
+:::
+
+Two distinctions that *look* like axes are really discrete forks — whether dangerous agency is emergent or chosen, and what counts as "doom." Because settling them moves a view rather than locating it, they're handled in §IV as cruxes, not here.

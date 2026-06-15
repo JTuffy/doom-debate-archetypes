@@ -1,6 +1,6 @@
 ## II. The Underlying Axes
 
-::: aside
+::: {.aside .meta-note}
 **META:** Load-bearing. Without this, archetypes arrive as a gallery without a scaffold. Keep tightly scoped — only axes that are (a) genuinely cross-cutting and (b) not immediately obvious to a LW reader. These are the dimensions that, once named, make the portrait comparisons legible.
 :::
 

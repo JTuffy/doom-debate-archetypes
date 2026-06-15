@@ -1,6 +1,6 @@
 ## V. Where I Stand
 
-::: aside
+::: {.aside .meta-note}
 **META:** Demonstrates the framework rather than just describing it. The author locates their own position using the same crux structure as the archetypes. Be honest about uncertainty and archetype misfit — that's the point. TBDs are filled by the author only — do not infer or fill in.
 :::
 

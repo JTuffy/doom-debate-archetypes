@@ -1,0 +1,37 @@
+## IV. The Cruxes — Where Views Move
+
+::: {.aside .meta-note}
+**META:** The discrete forks (the levers). Each is a binary or categorical question that, once settled, relocates a view. Mechanism isn't here — it's the spine of §III. This section only does *movement*; it does not re-explain the axes.
+:::
+
+If the axes say where a view sits, the cruxes say what would move it. Each is a discrete fork: settle it, and a thinker relocates from one position to another. The mechanism fork isn't in this list — it's the spine the whole gallery is built on (§III), not a lever you pull within it.
+
+| Crux | What hangs on it |
+|---|---|
+| **A. Agency emergent vs. design choice** | If emergent → architectural avoidance is wishful thinking; if a design choice → path matters enormously and Bengio's agenda is coherent. (This is the fork between A1 and A2, who share a node.) |
+| **C. Current LLMs as evidence** | Whether current AI behavior is informative about the relevant risk or a distractor from it — the deepest evidentiary divide in the debate |
+| **D. Technical tractability of oversight** | Separates the Sharp Left Turn from Control Failure; determines whether safety research is a serious intervention or a distraction from the more fundamental problem |
+| **E. Warning shots actionable** | Whether early signs of misalignment would be legible, timely, and politically actionable — see below |
+| **F. What "doom" means** | Whether Critch and Yudkowsky are even in the same debate; whether the endpoint is extinction, disempowerment, or large-scale present harm |
+
+**On Crux E in particular:** the warning-shots question is the crux with the most potentially available near-term evidence. Proponents of both the Sharp Left Turn and Control Failure care about it but disagree on two separate things: (1) whether anything we've *already seen* counts as a warning shot, and (2) whether any future warning shot would be politically actionable in time. People worried about Control Failure would count certain RLHF failures, unexpected emergent capabilities, and sleeper-agent demonstrations as early warning evidence; Sharp Left Turn proponents typically don't, because their model treats deceptively safe behavior during evaluation as the expected initial state. The two clusters can look at identical events and draw opposite conclusions about whether the situation is improving — not because either is reasoning badly, but because they hold different priors about what a warning shot would even look like before it's too late to matter.
+
+### The Transition Map: Where Would You Move?
+
+::: {.aside .meta-note}
+**META:** The dynamic payoff — makes the map a tool, not a gallery. Each row is a crux-flip (or, in the last row, a shift along the mechanism spine) that relocates a reader.
+:::
+
+The cruxes predict not just who you are but who you'd become if specific beliefs shifted. A map is only useful if it shows movement.
+
+| If you settled… | And currently hold… | You'd move toward… |
+|---|---|---|
+| **Crux A** — agency *is* a design choice | Sharp Left Turn (A1) | Architectural Agency (A2) — same node, opposite prescription |
+| **Crux A** — agency is *not* a design choice | Architectural Agency (A2) | Sharp Left Turn (A1) |
+| **Crux C** — current LLMs *are* evidence | Sharp Left Turn / Structural Disempowerment | Control Failure, or Paradigm Skepticism |
+| **Crux D** — oversight *is* tractable | Sharp Left Turn | Control Failure |
+| **Crux D** — oversight is *not* tractable | Control Failure | Sharp Left Turn / Structural Disempowerment |
+| **Crux F** — "doom" includes present, distributed harm | Any | the present-harms perimeter (outside the gallery's frame) |
+| *Spine shift* — the primary mechanism is competitive, not unipolar | Sharp Left Turn / Structural Disempowerment | Multipolar Racing |
+
+The last row is different in kind: it doesn't flip a crux, it moves you across the spine itself — from a single-optimizer node to the multipolar one. Worth noticing that movement on the map happens two ways: pull a lever (a crux), or change your mind about which mechanism is primary (the spine).

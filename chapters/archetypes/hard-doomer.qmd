@@ -1,6 +1,6 @@
 ### 1. The Hard Doomer
 
-::: aside
+::: {.aside .meta-note}
 **META:** Most LW readers know this view; the risk is caricature. The portrait leads with argument structure (instrumental convergence → brittle alignment → no safe test run) before naming the person — this sequence makes it harder to dismiss as a personality. The Yudkowsky sub-entry includes both the formal basis and the moratorium logic; the footnote anchors the airstrikes claim to a specific published source. Soares is the second voice specifically because he shares the technical analysis without the political urgency, showing the cluster isn't monolithic on response. The defamiliarizing observation addresses the "AI doomer as personality type" elision directly.
 :::
 

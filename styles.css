@@ -74,3 +74,16 @@ p em:only-child {
 #quarto-toc-toggle {
   display: none !important;
 }
+
+/* --- Editor-notes toggle (default OFF; checkbox adds .show-meta to body) --- */
+.meta-note { display: none; }
+body.show-meta .meta-note { display: block; }
+
+#meta-toggle-control {
+  position: fixed; bottom: 12px; right: 12px; z-index: 1050;
+  background: #fff; border: 1px solid #ccc; border-radius: 6px;
+  padding: 4px 9px; box-shadow: 0 1px 4px rgba(0,0,0,.15);
+  font-family: system-ui, sans-serif; font-size: .78rem; font-style: normal;
+}
+#meta-toggle-control label { margin: 0; cursor: pointer; user-select: none; color: #555;
+  display: flex; gap: 5px; align-items: center; }

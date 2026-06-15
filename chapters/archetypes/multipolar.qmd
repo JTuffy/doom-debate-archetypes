@@ -1,6 +1,6 @@
 ### 4. The Multipolar / Governance Realist
 
-::: aside
+::: {.aside .meta-note}
 **META:** The defamiliarizing move — Critch's 85% p(doom) arising from a completely different causal model than Yudkowsky's ~99% — is the defamiliarizing observation. The portrait is a group portrait (Critch, Toner, Russell, Ord) to show the cluster spans game theory, strategic studies, and formal risk analysis. The two paragraphs on the race dynamic (Altman/Anthropic/Hassabis on the record) are load-bearing — they demonstrate the multipolar failure mode isn't hypothetical. The "race as safety bet" paragraph names the structural stability of the dynamic.
 :::
 

@@ -1,6 +1,6 @@
 ## VI. What This Map Is Good For
 
-::: aside
+::: {.aside .meta-note}
 **META:** Closing section. Brief. Don't re-summarize. Three things: (1) what the map can and can't do, (2) what it suggests for next steps, (3) honest statement of what we'd want to see more of. No new content — this is a landing, not a new argument.
 :::
 
@@ -16,7 +16,7 @@ The final utility of this mapping project is found in the transition space of §
 
 ## Appendix / Notes
 
-::: aside
+::: {.aside .meta-note}
 **META:** Structural scratchpad — open questions, design decisions under consideration, things to check before publishing. Items here are not blocking; they're reminders.
 :::
 
@@ -28,7 +28,7 @@ The final utility of this mapping project is found in the transition space of §
 
 ## Sources
 
-::: aside
+::: {.aside .meta-note}
 **META:** Organized by threat model (matches §III). When adding inline citations to prose, add the source here too. Items marked `[CITATION: ...]` need a URL that hasn't been confirmed yet. Verify all links before publish.
 :::
 
@@ -50,29 +50,4 @@ The final utility of this mapping project is found in the transition space of §
 **3 — Control Failure (Technical Misalignment & Misuse)**
 
 - Hubinger et al. (Anthropic), ["Sleeper Agents"](https://arxiv.org/abs/2401.05566) (arXiv, Jan 2024) — opener
-- Christiano, ["My views on 'doom'"](https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom) (LessWrong / Alignment Forum, Apr 2023) — 22% = "AI takeover" (15% pre-obsolescence + 7% later)
-- Amodei, ~25% "things go really, really badly" — [Axios](https://www.axios.com/2025/09/17/anthropic-dario-amodei-p-doom-25-percent) (AI+ DC Summit, Sep 2025)
-
-**4 — Multipolar Racing (Competitive Coordination Failure)**
-
-- Critch & Krueger, [ARCHES](https://arxiv.org/abs/2006.04948) (arXiv, 2020)
-- Critch, ["My motivation and theory of change for working in AI healthtech"](https://www.lesswrong.com/posts/Kobbt3nQgv3yn29pr/my-motivation-and-theory-of-change-for-working-in-ai) (LessWrong, 2024) — ~85% total over ~25y (≈35% loss-of-control + ≈50% industrial dehumanization)
-- Toner, [Georgetown CSET](https://cset.georgetown.edu)
-- Russell, *[Human Compatible](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616)* (Viking, 2019)
-- Ord, *[The Precipice](https://theprecipice.com/)* (Hachette, 2020)
-- *[Altman "most dangerous technology" quote — WSJ Jan 2024 attribution unconfirmed (paywalled); consider the verifiable 2015 Altman blog line instead. See audit B4.]*
-
-**5 — Architectural Agency (Emergent Goal-Directedness)**
-
-- Bengio et al., ["Managing Extreme AI Risks Amid Rapid Progress"](https://www.science.org/doi/10.1126/science.adn0117) (*Science*, May 2024)
-- Bengio et al., ["Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?"](https://arxiv.org/abs/2502.15657) (arXiv, Feb 2025) — the Scientist AI proposal
-- Russell & Norvig, [CIRL](https://arxiv.org/abs/1606.03137) (arXiv, 2016)
-- Russell, *[Human Compatible](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616)* (Viking, 2019)
-- [International AI Safety Report](https://www.gov.uk/government/publications/international-ai-safety-report-2025) (Jan 2025)
-
-**6 — Mundane Integration & Paradigm Skepticism**
-
-- Grace et al., ["Thousands of AI Authors on the Future of AI"](https://arxiv.org/abs/2401.02843) (arXiv:2401.02843, Jan 2024) — 5% median on the bundled extinction question; 37.8–51.4% gave ≥10% across three differently *phrased* extinction questions
-- LeCun, ["A Path Towards Autonomous Machine Intelligence"](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022)
-- LeCun, "AI isn't even as smart as dogs or cats" (Viva Tech, Paris, Jun 2023 — direct link unavailable; quote reported in multiple outlets)
-- Chollet, [ARC Prize / ARC-AGI](https://arcprize.org)
+- Christiano, ["My views on 'doom'"](https:/

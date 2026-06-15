@@ -1,6 +1,6 @@
 ### 3. The Conditional Doomer / Risk Realist
 
-::: aside
+::: {.aside .meta-note}
 **META:** The most commonly mislabeled archetype — "conditional" is read as a magnitude hedge, but it's a mechanism claim. Christiano and Amodei are both here but have different primary concerns: Christiano on early transition risks and institutional failure, Amodei primarily on misuse (bioweapon barrier). The defamiliarizing observation names the mislabeling directly: 22% is not a moderate number, it's a different causal model. Tree node mapping shows moderate-not-low conditional risk, which separates this from the Gradualist (who rejects point probabilities altogether).
 :::
 

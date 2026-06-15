@@ -1,6 +1,6 @@
 ## VI. What This Map Is Good For
 
-::: aside
+::: {.aside .meta-note}
 **META:** Portrait-specific closing. Brief. Emphasizes the portrait framework's specific value (crux-tracing and mapping belief profiles) and references Section V (Where I Stand) as the next beat.
 :::
 
@@ -16,7 +16,7 @@ The final utility of this mapping project is found in the transition space of §
 
 ## Appendix / Notes
 
-::: aside
+::: {.aside .meta-note}
 **META:** Structural scratchpad — open questions, design decisions under consideration, things to check before publishing. Items here are not blocking; they're reminders.
 :::
 
@@ -27,7 +27,7 @@ The final utility of this mapping project is found in the transition space of §
 
 ## Sources
 
-::: aside
+::: {.aside .meta-note}
 **META:** Organized by archetype. When adding inline citations to prose, add the source here too. Items marked `[CITATION: ...]` need a URL that hasn't been confirmed yet. Verify all links before publish.
 :::
 

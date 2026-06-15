@@ -5,7 +5,7 @@
 Each of the archetypes below corresponds to a preset worldview on our [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html?preset=index). You can load these presets to see how their assumptions propagate mathematically, or compare them using the Crux Analysis feature.
 :::
 
-::: aside
+::: {.aside .meta-note}
 **META:** Portrait gallery. Each entry is a concise fingerprint, not a full essay. The portraits are ordered roughly from most certain about long-run catastrophic risk to most skeptical of it — but that ordering is approximate and shouldn't be read as a spectrum. The mechanism, epistemological stance, and crux structure show that people at similar positions on this axis are often making completely different underlying claims. Uniform portrait shape is a design choice: forces comparison, resists the urge to give more space to views you find compelling.
 :::
 

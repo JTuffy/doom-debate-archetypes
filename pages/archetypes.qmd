@@ -5,7 +5,7 @@ date: "March 2026"
 author: "[Author TBD]"
 ---
 
-::: {.callout-note collapse="true" title="Document Meta — editorial rationale"}
+::: {.callout-note .meta-note collapse="true" title="Document Meta — editorial rationale"}
 This document is a LessWrong post mapping viewpoints in the AI doom debate. The meta notes throughout are **editorial rationale** — they record why each section is shaped the way it is and what design decisions were made. Retain them for future revision reference.
 
 **Settled structure:**
@@ -23,7 +23,7 @@ This document is a LessWrong post mapping viewpoints in the AI doom debate. The 
 
 ## I. Why This Map Exists
 
-::: aside
+::: {.aside .meta-note}
 **META:** 3 paragraphs. Beat 1: Bengio/Yudkowsky as the entry — two people with the same threat model reaching incompatible conclusions. This is more precise than the old "debate is multi-dimensional" opener, which was generic. Beat 2: p(doom) as a number fails to locate the argument (the 22%/2% example). Beat 3: what the map does (locates cruxes) and doesn't do (pick winners) — the axes are named here before the portraits, which previews §II–§IV. Prior draft had a redundant fourth paragraph making the "multi-dimensional" claim in the abstract; that was folded into beat 3.
 :::
 

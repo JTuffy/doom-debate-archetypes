@@ -1,6 +1,6 @@
 ### 6. The Capability / Paradigm Skeptic
 
-::: aside
+::: {.aside .meta-note}
 **META:** LeCun's position. The paradigm claim (current LLMs aren't on the path to dangerous AI) is distinct from a capability-ceiling claim (AI can never be dangerous). The defamiliarizing observation handles the "nothing to worry about" caricature risk by noting (1) LeCun's active near-term power-concentration concern and (2) the difference between paradigm skepticism and capability-ceiling belief. Chollet is a second voice from the benchmarking angle. Tree node mapping shows extremely low P(AI-driven), staying in non-AI pathways.
 :::
 

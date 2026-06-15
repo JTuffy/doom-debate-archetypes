@@ -1,6 +1,6 @@
 ### 5. The Safe-by-Design Alarmist
 
-::: aside
+::: {.aside .meta-note}
 **META:** The core move is shared threat model, different prescription: Bengio and Yudkowsky both assign high catastrophic risk to capable agentic AI, but Bengio believes architectural avoidance is a coherent response where Yudkowsky believes it isn't. The defamiliarizing observation makes this explicit. Russell appears here and in the Multipolar portrait — his CIRL framework addresses agency uncertainty, which fits Safe-by-Design; his arms-race analysis fits Multipolar. He straddles the two.
 :::
 

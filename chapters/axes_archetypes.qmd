@@ -1,6 +1,6 @@
 ## II. The Underlying Axes
 
-::: aside
+::: {.aside .meta-note}
 **META:** Tightened bridge. Post 3 does not re-explain all five axes in full (which would duplicate the Threat Models post). This bridge frames them as a quick reference scaffold, highlighting Axis 4 as the most load-bearing for portrait dynamics.
 :::
 
