@@ -8,7 +8,7 @@ author: "[Author TBD]"
 ::: {.callout-note .meta-note collapse="true" title="Document Meta — v2 experiment"}
 This is an **alternative organization** of the Threat Models post. The content is the same six worldviews, but §III is regrouped by **position on the shared tree** (Posts 1–2) instead of presented as a flat list. Worldviews that share a mechanism are nested under one node and differentiated on the other axes; one tree branch turns out to have no champion, and a couple of positions are handled as *distributional* claims about the tree rather than locations on it.
 
-This version exists to compare for **rigor and readability** against the flat-list (v1) version. Keep both until we decide. v2 reorganizes around a single idea: **two kinds of disagreement** (frame-setting *axes* vs. fact-settling *cruxes*), taught once in §II, with the gallery (§III) on the mechanism spine and the cruxes (§IV) as the dynamic layer.
+This version exists to compare for rigor and readability against the flat-list (v1) version. Keep both until we decide. v2 turns on one idea, stated in the intro and operationalized in §II: empirical questions that evidence can settle versus the axes you argue along that it can't. The gallery (§III) places people on the tree; the cruxes (§IV) are the bets that move them.
 :::
 
 ---
@@ -16,20 +16,14 @@ This version exists to compare for **rigor and readability** against the flat-li
 ## I. Why This Map Exists
 
 ::: {.aside .meta-note}
-**META:** Shared with v1. Creates the problem the post solves; does not summarize the models. Author locates position in §V.
+**META:** States the thesis (two kinds of question) as the hook and hands off. Withholds the diagnostic and the named axes for §II so the two sections don't double-explain. Author locates position in §V.
 :::
 
-In May 2023, Geoffrey Hinton resigned from Google. He had spent a decade building the deep learning systems that underlie almost every major AI product deployed today, and he quit, he said, so he could talk freely about the danger. That same week, an open letter organized by the Future of Life Institute — signed by Elon Musk, Steve Wozniak, and over thirty thousand others — called for a six-month pause on frontier AI development. That same week, Yann LeCun, Meta's Chief AI Scientist and Hinton's co-recipient of the 2018 Turing Award for that same deep learning work, described the letter as "deeply misguided" and the concerns driving it as largely unfounded. All three stories ran under the same headline category: AI Risk.
+The AI debate is confused, and people argue past each other. Two researchers can report the same probability of catastrophe and hold opposite pictures of the world; two who sit forty points apart can hold nearly the same one. A decade of shared evidence has moved almost no one toward almost anyone. That is the clue worth chasing. When evidence reliably fails to move a disagreement, the disagreement was probably never about evidence.
 
-Anyone who followed all three came away with roughly nothing. Three people who spent their careers building these systems, with a shared prize between two of them, reaching incompatible conclusions about whether a crisis exists and of what kind. It was impossible to tell whether the disagreement was about how worried to be, or about something else entirely.
+Two kinds of question are knotted together in every estimate, and they behave nothing alike. Some are empirical. Does power-seeking come with capability? Would a failure be visible before it was terminal? Evidence speaks to these, and given time it settles them. The others are not empirical at all. Does an AI that quietly succeeds us count as catastrophe, or as worthy heirs? Over what timeline are we even asking? Would a well-behaved model lower your fear, or is that exactly what a dangerous one would show you? No experiment settles those, because they decide what the experiments mean.
 
-It was about something else entirely. Hinton's concern is that future AI systems will develop capabilities humans can't fully understand or verify, at a scale that makes correction difficult. LeCun's reply is that the architecture required for that specific failure mode doesn't currently exist and won't emerge from scaling the transformer systems they've been building. These are different technical claims with different empirical stakes that happen to share vocabulary. The word "risk" is functioning as a filing cabinet.
-
-Yoshua Bengio and Eliezer Yudkowsky are the sharpest case. Both believe a sufficiently capable misaligned AI, acting autonomously in the world, ends catastrophically. Bengio responds by proposing mathematically restricted architectures — systems that can model the world without being able to act in it. Yudkowsky calls for a globally enforced moratorium on large compute runs, backed by physical strikes on noncompliant data centers if necessary. From the outside, this looks like a disagreement about whether AI is dangerous. It isn't. It's a disagreement about one architectural question: whether the *agency* in a capable AI system is a necessary consequence of the capability, or a separable design choice that can be made or avoided. One narrow crux. Two completely incompatible policies.
-
-"What's your p(doom)?" never locates any of this. Someone at 22% and someone at 2% can be making nearly identical causal claims — or completely incompatible ones — depending entirely on what they mean by doom and over what window. In 2023, guests on the same podcast gave p(doom) estimates ranging from near-zero to above 95%. They were not arguing with each other. They had never agreed on what they were estimating.
-
-While the companion [Archetypes](archetypes.qmd) post maps this space by *belief profiles* — social and intellectual portraits of the thinkers involved — this post maps it by *scenarios*. It tries to locate exactly where the causal models live. A map that surfaces these structural disagreements is a necessary precondition for addressing them — because until the disagreements are legible, the debate keeps producing the spring 2023 experience: everyone certain they're discussing AI risk, nobody sure they're having the same conversation.
+The first two posts built a tree to keep this straight, breaking the debate into the cruxes that carry the real decision weight. This post puts people on the tree. It takes the names that keep coming up, Yudkowsky, Bengio, LeCun, Christiano, Critch, and others, sets each where their reasoning actually lives, and finds the live disagreements are narrower and stranger than the shouting suggests: people who share a conclusion and nothing else, people who agree on everything but one crux.
 
 ---
 

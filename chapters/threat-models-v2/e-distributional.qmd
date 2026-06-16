@@ -3,7 +3,7 @@
 *Not a threat model, but the bet that the threat models don't fire.*
 Tree attachment: low `t-ai-inc` / high `t-d-no-inc`.
 
-This isn't a place on the spine so much as the wager that the catastrophe lives nowhere reachable — that the dangerous branches carry almost no probability mass. It is worth being precise about, because "low p(doom)" is an output, not a position, and at least three different bets produce it, sharing a conclusion (don't prepare for the science-fiction takeover) and almost nothing else.
+This isn't a place on the tree so much as the wager that the catastrophe lives nowhere reachable: that the dangerous branches carry almost no probability mass. It is worth being precise about, because "low p(doom)" is an output, not a position, and at least three different bets produce it, sharing a conclusion (don't prepare for the science-fiction takeover) and almost nothing else.
 
 Capability skepticism — the dangerous system never arrives. Yann LeCun is the clean case, and his claim is specifically architectural: large language models are token-interpolators without embodied world-models, persistent memory, or causal reasoning, so the Sharp Left Turn's prerequisite system will not emerge from scaling transformers. That is an answer to the Arrival crux — "not like this" — not a claim that alignment is easy. A predictive tool cannot execute a coup.
 
