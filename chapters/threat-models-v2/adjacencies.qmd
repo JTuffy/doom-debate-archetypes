@@ -1,0 +1,13 @@
+### What the Layout Reveals
+
+::: {.aside .meta-note}
+**META:** The payoff beat. Concentrates the strange adjacencies the gallery exposes so they read as a pattern, not as scattered asides. Pays off the intro's "narrower and stranger than the shouting" promise. Three contrasts, no more.
+:::
+
+Laid out this way, the debate stops matching its own volume.
+
+The sharpest opponents are often a single crux apart. Bengio and Yudkowsky sit on the same branch and share almost the whole threat assessment. They diverge on one question, whether agency is separable from capability, and that lone disagreement is the entire distance between "ban the agents" and "ban the intelligence."
+
+The apparent allies often share only a conclusion. Critch and LeCun both wave off the rogue-superintelligence story that runs the headlines, but for opposite reasons and to opposite ends: Critch because he expects something slower and worse (industrial dehumanization, around 85 percent), LeCun because he expects nothing of the kind to arrive at all (near zero). Agreeing that the famous scenario is wrong tells you almost nothing about whether two people are on the same side.
+
+And the people who look like they are arguing about how dangerous AI is are often arguing about what counts as evidence. Christiano and Yudkowsky agree that a misaligned superintelligence would be catastrophic; they disagree about whether today's systems tell us anything about it, which is why no result moves them toward each other. A study cannot settle that, because the disagreement is about whether studies count.
