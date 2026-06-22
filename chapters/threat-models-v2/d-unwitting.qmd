@@ -1,10 +1,3 @@
-### Node D — The Unwitting System *(the empty branch)*
+#### II.2.b — No internal model: the unwitting system
 
-*Single dominant system · **no** internal model of the danger.*
-*Tree path: `t-single` → `t-d-no-rep`.*
-
-The tree admits a branch that almost no one champions: a system capable enough to dominate and cause catastrophe, but without any internal model of the danger it creates — Posts 1–2's example of a missile-detection system entrusted with retaliation, or any powerful optimizer that "doesn't know what it's doing." The question this node poses is blunt: how likely is catastrophe from a dominant system that simply lacks the representation to understand its own impact?
-
-There is no established worldview built around this branch as its *primary* concern. It catches edge cases from its neighbors — Control Failure's out-of-distribution and butterfly-effect scenarios brush against it — but no major thinker centers it the way Yudkowsky centers Node A or Critch centers Node B.
-
-That absence is informative, and worth stating rather than hiding. The tree's joints and the discourse's joints don't perfectly coincide: this is a place where the partition is finer than the conversation. It may reflect a genuine blind spot (dumb-but-powerful failure is under-theorized), or it may reflect a sound judgment that a system capable enough to be globally dominant is unlikely to *lack* a world-model. Either way, an empty node is a prompt — one of the most useful things a map can offer is a clearly marked region no one has explored.
+The tree admits a branch almost no one occupies: a system capable enough to dominate and cause catastrophe with no internal model of the danger it creates, the missile-detection system from the first two posts, entrusted with retaliation. No major thinker centers it; Control Failure's out-of-distribution cases brush against it, but nobody builds a worldview here. The empty branch earns one line precisely because it is empty: the tree distinguishes a case the discourse does not, and a clearly marked branch no one defends is itself a finding, either an under-theorized blind spot or a quiet judgment that anything globally dominant will not lack a world-model.

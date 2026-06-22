@@ -1,13 +1,13 @@
-## II. How to Read the Map
+## How to Read the Map
 
 ::: {.aside .meta-note}
-**META:** Names the machinery only. The thesis is in the intro; the how-to-use-it diagnostic is in the conclusion. This section just says what the three kinds of part are, so §III can use them. No "spine," no "carving joints." Emphasis stays sparing.
+**META:** Names the machinery only. The thesis is in the intro; the how-to-use-it diagnostic is in the conclusion. This section just says what the three kinds of part are, so the gallery can use them. Emphasis stays sparing.
 :::
 
 The map has three kinds of part, and keeping them straight is what the rest of the post depends on.
 
 The axes are the framing choices, the ones you set before any evidence is in. You met two in the intro: what counts as doom, from extinction to permanent loss of control to the harms already arriving, and over what horizon, the next few years or the next century. The third is how much a model's current behavior should weigh against a structural prior. These are the labels on the [interactive tool](https://lifeuniversesafety.com/doom-assumptions/index.html), and two people who set them differently can trade p(doom) figures all day without contradicting each other once.
 
-The tree is the mechanism, carried over from the first two posts: does AI raise the danger at all, through one dominant system or many, does that system model what it is doing, does it expect the catastrophe it causes. The gallery in §III walks the tree and puts a worldview at each branch.
+The tree is the mechanism, carried over from the first two posts: does AI raise the danger at all, through one dominant system or many, does that system model what it is doing, does it expect the catastrophe it causes. The gallery below walks the tree and puts a worldview at each branch.
 
-The cruxes are the factual bets, the places where evidence has a vote and people actually move. They read more clearly once you can see the positions they separate, so they wait until §IV.
+The cruxes are the factual bets, the places where evidence has a vote and people actually move. They read more clearly once you can see the positions they separate, so they wait until after the gallery.

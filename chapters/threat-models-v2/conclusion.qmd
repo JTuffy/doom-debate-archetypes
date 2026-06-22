@@ -10,4 +10,6 @@ It also leaves you with an order of operations. When a debate stalls, don't trad
 
 An honest caveat: the map takes a position by existing. It assumes the debate is in good faith, that decomposition is the productive move, and that these disagreements are legible to this kind of analysis — a decomposition-first, empirically-conditioned stance that a committed prior-dominant thinker may find beside the point. If you've read this far and feel it missed something essential about the structure of the problem, that, too, is worth naming — and it will be a disagreement about the frame, not the facts.
 
-So: the next time you are stuck, stop asking for a number. Ask first whether you are even answering the same question — and then ask which crux the other person is treating as settled.
+So: the next time you are stuck, stop asking for a number. Ask first whether you are even answering the same question, and then ask which crux the other person is treating as settled.
+
+The next post in the series turns to the crux beneath more of this map than any other: whether agency, and the power-seeking that comes with it, falls out of optimization itself. (If there is no link here yet, it is not out. Come back later.)

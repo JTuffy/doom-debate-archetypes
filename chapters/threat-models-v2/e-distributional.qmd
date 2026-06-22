@@ -1,18 +1,19 @@
-### Node E — Off the Dangerous Branches
+## I. Non-AI Pathway
 
-*Not a threat model, but the bet that the threat models don't fire.*
-Tree attachment: low `t-ai-inc` / high `t-d-no-inc`.
+::: {.aside .meta-note}
+**META:** The non-believers. Not a threat model but the bet that none of the others fire. Resolves "low p(doom)" into three distinct reasons; aligned to Post 2's "non-believer" node.
+:::
 
-This isn't a place on the tree so much as the wager that the catastrophe lives nowhere reachable: that the dangerous branches carry almost no probability mass. It is worth being precise about, because "low p(doom)" is an output, not a position, and at least three different bets produce it, sharing a conclusion (don't prepare for the science-fiction takeover) and almost nothing else.
+This is the path of the non-believer: the worlds where AI does not raise the danger, and the bet that the catastrophe lives nowhere reachable. It is worth being precise about, because "low p(doom)" is an output, not a position, and at least three different bets produce it. They share a conclusion, don't prepare for the science-fiction takeover, and almost nothing else.
 
-Capability skepticism — the dangerous system never arrives. Yann LeCun is the clean case, and his claim is specifically architectural: large language models are token-interpolators without embodied world-models, persistent memory, or causal reasoning, so the Sharp Left Turn's prerequisite system will not emerge from scaling transformers. That is an answer to the Arrival crux — "not like this" — not a claim that alignment is easy. A predictive tool cannot execute a coup.
+Capability skepticism: the dangerous system never arrives. Yann LeCun is the clean case, and his claim is specifically architectural, that large language models are token-interpolators without embodied world-models, persistent memory, or causal reasoning, so the system the doom branches require will not emerge from scaling transformers. That is an answer to the arrival crux, not a claim that alignment is easy. A predictive tool cannot execute a coup.
 
-Alignment optimism — the system arrives but stays controllable; the Oversight crux resolves the friendly way, and the transition is survived rather than fumbled.
+Alignment optimism: the system arrives but stays controllable, the oversight crux resolves the friendly way, and the transition is survived rather than fumbled.
 
-Net-positive / accelerationism — the system arrives and is, on balance, good: AI lowers existential risk (disease, coordination against other threats) more than it raises it. This is the tree's non-AI branch proper, and it is a large real-world camp that a doom-side gallery otherwise erases.
+Net-positive and accelerationism: the system arrives and is, on balance, good, lowering existential risk (disease, coordination against other threats) more than it raises it. This is the non-AI pathway in its purest form, and a large real-world camp that a doom-side reading otherwise erases.
 
-These get flattened into "the skeptics" in most coverage, which is exactly the move this map resists: they answer different cruxes differently and only happen to land near the same number. None is a located threat model, which is why they sit off the gallery — represented by how they answer Arrival and Oversight, not by a branch of their own.
+These get flattened into "the skeptics" in most coverage, which is the move this map resists: they answer different questions differently and only land near the same number. None is a located position on the tree, which is why they sit on the non-AI branch, defined by how they answer arrival and oversight rather than by a scenario of their own.
 
 ::: {.aside}
-Present-harms — adjacent, not absent. A further family locates the real catastrophe in the present: compute oligopolies, labor displaced before retraining exists, prediction tools entrenched in already-fragile systems. This is not a node but an axis shift — a different answer to "what counts as doom" — which moves you off the gallery's frame entirely (see §IV). The map treats it as out of scope because these thinkers don't frame their concern as existential, but it belongs on the perimeter: change the definition of doom and you can arrive here from anywhere.
+Present-harms, adjacent not absent. A further camp locates the real catastrophe in the present: compute oligopolies, labor displaced before retraining exists, prediction tools entrenched in already-fragile systems. This is not a node but a change of question, a different answer to what counts as doom, which moves you off the tree's frame entirely (see the cruxes). The map treats it as out of scope because these thinkers don't frame their concern as existential, but it belongs on the perimeter.
 :::

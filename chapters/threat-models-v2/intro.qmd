@@ -1,9 +1,7 @@
-## III. The Gallery
-
 ::: {.aside .meta-note}
-**META (v2):** Gallery laid out along the tree. Kept short — the frame/fact machinery lives in §II. Node IDs (`t-single`, `t-d-multi`, `t-has-rep`, `t-expects`, `t-d-no-expects`, `t-d-no-rep`, `t-d-no-inc`) match the interactive tool. Where two worldviews share a node, the contrast is drawn on an axis or a crux, never on the mechanism they share.
+**META (v2):** Gallery lead, no header of its own; it hands from "how to read" into the tree walk. Node names match the site; order is top-down and slightly reordered from the site for readability (as in Post 2).
 :::
 
-Each worldview is placed by where its catastrophe sits on the tree. Organizing this way buys a comprehensiveness check: if the tree's branches are the right ones, every serious view has to sit on one of them, so we can ask of each branch whether it has a champion, read fairly, and notice when one doesn't.
+What follows places the recurring figures on that tree, one branch at a time, walked top-down and in a slightly different order from the website. At each branch the question is the same: who lives here, and where do the people who share it nonetheless split?
 
-One distinction to carry in. Most worldviews are located: they pick a branch — the danger is here. A few are distributional: they don't pick a branch so much as claim the dangerous branches are nearly empty, and they attach to the branch they most deny. Every entry keeps the same shape — opening scenario, structural logic, who holds it and why, what would change their mind — so they stay comparable down the gallery.
+Most worldviews are located, picking a branch and saying the danger is here. A few are distributional: they do not pick a branch so much as bet that the dangerous ones are nearly empty, and they attach to the branch they most deny.

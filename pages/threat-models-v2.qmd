@@ -1,22 +1,36 @@
 ---
-title: "Threat Models of the Doom Debate"
-subtitle: "Mapping AI Risk Viewpoints — Tree-Organized (v2)"
-date: "March 2026"
-author: "[Author TBD]"
+title: "We made a map of the doom debate. Here's where everyone actually stands."
+date: "June 2026"
+author:
+  - Sean Herrington
+  - Khai Tran
+  - David Bravo
+  - Kevin Caldwell
+  - Paul Hindoian
+  - Josh Tuffy
+  - Mikaela Cankosyan
+  - Christopher A. Davis
+  - Maryam Hampaei
 ---
 
-::: {.callout-note .meta-note collapse="true" title="Document Meta — v2 experiment"}
-This is an **alternative organization** of the Threat Models post. The content is the same six worldviews, but §III is regrouped by **position on the shared tree** (Posts 1–2) instead of presented as a flat list. Worldviews that share a mechanism are nested under one node and differentiated on the other axes; one tree branch turns out to have no champion, and a couple of positions are handled as *distributional* claims about the tree rather than locations on it.
+*This is the third post in a series titled "We made a map of the doom debate," produced as part of the AI Safety Camp 2026 "Assumptions of the Doom Debate" project, led by Sean Herrington. The [first post](https://www.lesswrong.com/posts/dZZD5Lviid2mALAZL/we-made-a-map-of-the-doom-debate) introduced the tree; the [second](https://www.lesswrong.com/posts/AZrMGwBPMJmAcgqX8/we-made-a-map-of-the-doom-debate-here-s-how-the-breakdown) walked its nodes. This post places the people. The interactive tree is [here](https://lifeuniversesafety.com/doom-assumptions/index.html).*
 
-This version exists to compare for rigor and readability against the flat-list (v1) version. Keep both until we decide. v2 turns on one idea, stated in the intro and operationalized in §II: empirical questions that evidence can settle versus the axes you argue along that it can't. The gallery (§III) places people on the tree; the cruxes (§IV) are the bets that move them.
+TL;DR:
+
+- The AI-risk debate tangles two kinds of question: empirical ones, which evidence can settle, and framing choices, which it never will. Most "disagreements about how dangerous AI is" are really the second kind in disguise.
+- We place the recurring figures (Yudkowsky, Bengio, LeCun, Christiano, Critch, and others) on the tree from the first two posts, by where their reasoning actually lives.
+- Laid out this way, the sharp disagreements turn out narrow, often a single crux, and the apparent alliances thin, often nothing but a shared conclusion.
+
+::: {.callout-note .meta-note collapse="true" title="Editor note (v2, tree-organized)"}
+Working version of Post 3, themed to match Posts 1–2: the gallery walks the tree top-down (Non-AI, then AI-Driven and its branches) using the site's node names. Framing and cruxes sit around it. Kept alongside the flat-list draft until we settle.
 :::
 
 ---
 
-## I. Why This Map Exists
+## Why this map exists
 
 ::: {.aside .meta-note}
-**META:** States the thesis (two kinds of question) as the hook and hands off. Withholds the diagnostic and the named axes for §II so the two sections don't double-explain.
+**META:** States the thesis (two kinds of question) and hands off. Withholds the diagnostic and the named axes for the next section so the two don't double-explain.
 :::
 
 The AI debate is confused, and people argue past each other. Two researchers can report the same probability of catastrophe and hold opposite pictures of the world; two who sit forty points apart can hold nearly the same one. A decade of shared evidence has moved almost no one toward almost anyone. That is the clue worth chasing. When evidence reliably fails to move a disagreement, the disagreement was probably never about evidence.
@@ -33,15 +47,23 @@ The first two posts built a tree to keep this straight, breaking the debate into
 
 {{< include ../chapters/threat-models-v2/intro.qmd >}}
 
-{{< include ../chapters/threat-models-v2/a-knowing-optimizer.qmd >}}
+{{< include ../chapters/threat-models-v2/e-distributional.qmd >}}
+
+## II. AI-Driven Pathway
+
+The worlds where AI raises the danger. They take two shapes, depending on whether the danger runs through many systems at once or through a single dominant one.
 
 {{< include ../chapters/threat-models-v2/b-distributed.qmd >}}
+
+### II.2 Single dominant AI pathway
+
+One system carries most of the danger. It splits by whether that system has an internal model of what it is doing, and, if it does, whether it expects the catastrophe it causes.
+
+{{< include ../chapters/threat-models-v2/a-knowing-optimizer.qmd >}}
 
 {{< include ../chapters/threat-models-v2/c-the-mistake.qmd >}}
 
 {{< include ../chapters/threat-models-v2/d-unwitting.qmd >}}
-
-{{< include ../chapters/threat-models-v2/e-distributional.qmd >}}
 
 {{< include ../chapters/threat-models-v2/adjacencies.qmd >}}
 
