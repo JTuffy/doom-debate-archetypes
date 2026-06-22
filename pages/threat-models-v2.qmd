@@ -17,15 +17,14 @@ author:
 
 TL;DR:
 
-- The AI-risk debate tangles two kinds of question: empirical ones, which evidence can settle, and framing choices, which it never will. Most "disagreements about how dangerous AI is" are really the second kind in disguise.
-- We place the recurring figures (Yudkowsky, Bengio, LeCun, Christiano, Critch, and others) on the tree from the first two posts, by where their reasoning actually lives.
-- Laid out this way, the sharp disagreements turn out narrow, often a single crux, and the apparent alliances thin, often nothing but a shared conclusion.
+- The AI-risk debate mixes two kinds of question: empirical ones evidence can settle, and framing choices it never will. Most "how dangerous is AI" fights are the second kind wearing the first's clothes.
+- We place the recurring voices on the tree from Posts 1–2 by the one thing it tracks: the mechanism each actually fears, not their headline number.
+- Sorted that way the loud disagreements shrink — Bengio and Yudkowsky turn out to be one crux apart, and Critch's 85% *rejects* the very scenario Yudkowsky centers.
+- And the map is lopsided: almost everyone piles onto the single "it knew and did it anyway" branch, leaving whole scenarios with no champion.
 
 ::: {.callout-note .meta-note collapse="true" title="Editor note (v2, tree-organized)"}
 Working version of Post 3, themed to match Posts 1–2. Intro merged to one section; the gallery walks the tree top-down (Non-AI, then AI-Driven and its branches); the cruxes moved to an appendix. The gallery is the focus. Kept alongside the flat-list draft until we settle.
 :::
-
----
 
 ## Why this map exists
 
@@ -41,7 +40,7 @@ The first two posts in this series built a tree to hold the empirical questions 
 
 This post puts people on the tree anyway, by one rule: sort by mechanism. We walk the tree top-down and place each recurring figure on the branch whose scenario they actually expect. A branch is an agreement, not a bucket; to share one is to agree on how the catastrophe works. So when two people sit on the same branch and still read as opposites, the split is never the mechanism. It is one of three things, and we say which: how much weight they put there, what they would do about it, or what they would even count as doom. Most of what looks like a thinker standing in two places dissolves under this rule. People are famous for what they would do, or for a vivid scenario, or for insisting on a different definition of doom, rarely for a clean claim about mechanism; read one of those as a mechanism claim and they seem to span the tree, separate the question and they snap to a branch. Genuine split belief, real probability on two incompatible mechanisms, turns out to be rare, and we flag it where it is real.
 
-One last thing to carry in. Most worldviews are located: they pick a branch and say the danger is here. A few are distributional: they do not pick a branch so much as bet the dangerous ones are nearly empty, and they attach to the branch they most deny. Walk the tree this way and the debate's real shape stops matching its volume: the sharpest opponents turn out to be a single fork apart, and the firmest-looking alliances turn out to share a conclusion and nothing else.
+Walk the tree this way and the debate's real shape stops matching its volume: the sharpest opponents turn out to be a single crux apart, and the firmest-looking alliances share a conclusion and nothing else. One reading aid for the gallery that follows: most worldviews are located, picking a branch and saying the danger is here, while a few are distributional — they bet the dangerous branches are nearly empty and attach to the one they most deny.
 
 {{< include ../chapters/threat-models-v2/e-distributional.qmd >}}
 
@@ -57,7 +56,7 @@ One system carries most of the danger. Post 2's cast for it: the system frozen t
 
 #### II.2.a Internal model pathway
 
-The system knows what it is doing. In Post 2's terms it meets the conditions for an internal model: it understands the consequences of its actions, understands what an existential catastrophe is, and can tell when the two overlap. Keep Post 2's twist in view, because it is easy to lose: a system here need not be hostile. It can be trying to help and still take a decision that carries, say, a five percent chance of catastrophe, judging the trade worth it. What splits the branch is the fourth condition, whether the system expects its own action to raise the risk.
+The system knows what it is doing. In Post 2's terms it meets the conditions for an internal model: it understands the consequences of its actions, understands what an existential catastrophe is, and can tell when the two overlap. The point Post 2 makes here is easy to lose: a system on this branch need not be hostile. It can be trying to help and still take a decision that carries, say, a five percent chance of catastrophe, judging the trade worth it. What splits the branch is the fourth condition, whether the system expects its own action to raise the risk.
 
 {{< include ../chapters/threat-models-v2/a-knowing-optimizer.qmd >}}
 
