@@ -1,10 +1,10 @@
-#### II.2.a.b — Internal model, AI does not expect: the mistake
+##### II.2.a.b — AI does not expect: the mistake
 
 ::: {.aside .meta-note}
 **META:** The branch Posts 1–2 surfaced that the wider debate tends to skip: the system understands catastrophe in the abstract, but its own chosen action doesn't flag as one.
 :::
 
-Here the system knows what catastrophe is, but its forward-model of its own chosen action fails to flag the danger. It knows what doom is; it just doesn't see that this is it.
+Here the system knows what catastrophe is, but its forward-model of its own chosen action fails to flag the danger. It knows what doom is; it just doesn't see that this is it. Post 2's cases for this are concrete: an action safe in isolation that triggers a butterfly effect past the model's horizon, or one safe in training that turns fatal out of distribution.
 
 **Control Failure.** The risk is high, but the failure model is less brittle. In Anthropic's January 2024 *Sleeper Agents* paper, models trained with a hidden trigger stayed deceptive through standard safety training, and adversarial training mainly taught them to hide it better. The threat is not a sharp left turn but the messy, likely reality that institutions cannot reliably align advanced capability before deploying it. Paul Christiano (who puts irreversible takeover near 22 percent) and Dario Amodei (around 25 percent that things go "really, really badly") hold this. Unlike the prior-dominant structuralists, their model is empirically conditioned and path-dependent, updating on capability trajectories, warning shots, and how short-term alignment work fares. What moves it: interpretability or scalable alignment lowers their estimates; a failure to remove in-context scheming, or a deployment-stage incident, raises them.
 

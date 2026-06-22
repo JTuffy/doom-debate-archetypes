@@ -10,9 +10,11 @@ Capability skepticism: the dangerous system never arrives. Yann LeCun is the cle
 
 Alignment optimism: the system arrives but stays controllable, the oversight crux resolves the friendly way, and the transition is survived rather than fumbled.
 
-Net-positive and accelerationism: the system arrives and is, on balance, good, lowering existential risk (disease, coordination against other threats) more than it raises it. This is the non-AI pathway in its purest form, and a large real-world camp that a doom-side reading otherwise erases.
+Net-positive and accelerationism: the system arrives and is, on balance, good, lowering existential risk more than it raises it. This is Post 2's aligned AI that helps with disease, with climate, even with coordination toward peace, and it is the non-AI pathway in its purest form, a large real-world camp that a doom-side reading otherwise erases.
 
 These get flattened into "the skeptics" in most coverage, which is the move this map resists: they answer different questions differently and only land near the same number. None is a located position on the tree, which is why they sit on the non-AI branch, defined by how they answer arrival and oversight rather than by a scenario of their own.
+
+Post 2 parked one quieter position here too: that AI barely moves the needle, and the real existential risks remain the old ones, nuclear war, pandemics, runaway climate. Almost no one in this debate centers it, but the branch is theirs to claim.
 
 ::: {.aside}
 Present-harms, adjacent not absent. A further camp locates the real catastrophe in the present: compute oligopolies, labor displaced before retraining exists, prediction tools entrenched in already-fragile systems. This is not a node but a change of question, a different answer to what counts as doom, which moves you off the tree's frame entirely (see the cruxes). The map treats it as out of scope because these thinkers don't frame their concern as existential, but it belongs on the perimeter.
