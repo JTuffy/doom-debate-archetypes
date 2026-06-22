@@ -74,3 +74,7 @@ The system knows what it is doing. In Post 2's terms it meets the conditions for
 ---
 
 {{< include ../chapters/threat-models-v2/cuts.qmd >}}
+
+---
+
+{{< include ../chapters/threat-models-v2/sources.qmd >}}

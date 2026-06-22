@@ -1,0 +1,34 @@
+## Sources
+
+::: {.aside .meta-note}
+**META:** One reference per named figure, plus the empirical papers the gallery cites. Links are also inline in the text. Re-check each resolves before publishing.
+:::
+
+**Non-AI Pathway**
+
+- Yann LeCun, ["A Path Towards Autonomous Machine Intelligence"](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022)
+
+**Multipolar AI pathway**
+
+- Andrew Critch, ["My motivation and theory of change for working in AI"](https://www.lesswrong.com/posts/Kobbt3nQgv3yn29pr/my-motivation-and-theory-of-change-for-working-in-ai) (LessWrong, 2024) — the ~85% / industrial-dehumanization figure
+- Helen Toner, [Georgetown CSET](https://cset.georgetown.edu/)
+- Stuart Russell, *[Human Compatible](https://www.amazon.com/Human-Compatible-Artificial-Intelligence-Problem/dp/0525558616)* (Viking, 2019)
+- Toby Ord, *[The Precipice](https://theprecipice.com/)* (Hachette, 2020)
+- Joe Carlsmith, ["Is Power-Seeking AI an Existential Risk?"](https://arxiv.org/abs/2206.13353) (arXiv, 2022)
+- John Wentworth, [LessWrong](https://www.lesswrong.com/users/johnswentworth)
+- Kulveit, Douglas, Ammann, Turan, Krueger & Duvenaud, ["Gradual Disempowerment"](https://arxiv.org/abs/2501.16946) (arXiv, 2025)
+
+**Single dominant — AI expects (the knowing optimizer)**
+
+- Eliezer Yudkowsky, ["AGI Ruin: A List of Lethalities"](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) (LessWrong, 2022)
+- Nate Soares / MIRI, ["2024 Mission and Strategy Update"](https://www.lesswrong.com/posts/xofpLpFjkMFgYX6JC/miri-2024-mission-and-strategy-update) (LessWrong, 2024)
+- Greenblatt, Hubinger et al. (Anthropic & Redwood), ["Alignment Faking in Large Language Models"](https://arxiv.org/abs/2412.14093) (arXiv, Dec 2024)
+- Meinke et al. (Apollo Research), ["Frontier Models are Capable of In-Context Scheming"](https://arxiv.org/abs/2412.04984) (arXiv, Dec 2024)
+- Yoshua Bengio et al., ["Superintelligent Agents Pose Catastrophic Risks: Can Scientist AI Offer a Safer Path?"](https://arxiv.org/abs/2502.15657) (arXiv, Feb 2025)
+- Russell & Norvig, ["Cooperative Inverse Reinforcement Learning"](https://arxiv.org/abs/1606.03137) (arXiv, 2016)
+
+**Single dominant — AI does not expect (the mistake)**
+
+- Hubinger et al. (Anthropic), ["Sleeper Agents"](https://arxiv.org/abs/2401.05566) (arXiv, Jan 2024)
+- Paul Christiano, ["My views on 'doom'"](https://www.lesswrong.com/posts/xWMqsvHapP3nwdSW8/my-views-on-doom) (LessWrong, 2023) — the ~22% takeover figure
+- Dario Amodei, ["~25% that things go 'really, really badly'"](https://www.axios.com/2025/09/17/anthropic-dario-amodei-p-doom-25-percent) (Axios, Sep 2025)
