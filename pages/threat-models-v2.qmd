@@ -29,12 +29,8 @@ Working version of Post 3, themed to match Posts 1–2. Intro merged to one sect
 ## Why this map exists
 
 ::: {.aside .meta-note}
-**META:** One long intro — thesis, the inheritance from Posts 1–2, and the single reading rule (sort by mechanism), ending on the payoff. Absorbs the old gallery-lead. Emphasis stays sparing.
+**META:** Opens at the tree (the two-kinds-of-question thesis now lives in the TL;DR). The reading rule — sort by mechanism — and the payoff. Emphasis stays sparing.
 :::
-
-The AI debate is confused, and people argue past each other. Two researchers can report the same probability of catastrophe and mean opposite things by it; two who are forty points apart can mean nearly the same. A decade of shared evidence has barely moved anyone, and when evidence stops moving a disagreement, the disagreement was never about evidence.
-
-Every estimate tangles two kinds of question. Some are empirical — does power-seeking come with capability, would a failure show before it was terminal — and evidence settles them. The rest are not: what counts as doom (an AI that quietly succeeds us: catastrophe, or worthy heirs?), over what horizon, whether a well-behaved model is reassurance or camouflage. No experiment touches those; they decide what the experiments mean. Confuse the two and you argue forever.
 
 Posts 1 and 2 built a tree for the empirical questions: does AI raise the danger, through one system or many, does it know what it is doing, does it expect the result. The tree sorts scenarios, not people. What divides people is what it leaves off — the framing questions, a few factual cruxes, and above all what they would do about it — left off on purpose, so everyone can agree on its shape.
 
