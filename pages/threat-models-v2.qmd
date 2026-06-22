@@ -46,25 +46,23 @@ Walk the tree this way and the debate's real shape stops matching its volume: th
 
 ## II. AI-Driven Pathway
 
-The worlds where AI raises the danger. Post 2 noted this covers two kinds at once: entirely new catastrophes (enfeeblement under a superintelligence) and old risks that AI sharpens (engineered bioweapons). On the tree it takes two shapes, depending on whether the danger runs through many systems at once or through a single dominant one.
+Worlds where AI raises the danger, in one of two shapes: many systems at once, or a single dominant one.
 
 {{< include ../chapters/threat-models-v2/b-distributed.qmd >}}
 
 ### II.2 Single dominant AI pathway
 
-One system carries most of the danger. Post 2's cast for it: the system frozen too late, the deceptive superintelligence, the rogue security AI that neutralizes its rivals, doing harm directly or by putting the means in one actor's hands. It splits by whether that system has an internal model of what it is doing, and, if it does, whether it expects the catastrophe it causes.
+One system carries the danger; it splits by whether that system models what it is doing, and, if so, whether it expects the result.
 
 #### II.2.a Internal model pathway
 
-The system knows what it is doing. In Post 2's terms it meets the conditions for an internal model: it understands the consequences of its actions, understands what an existential catastrophe is, and can tell when the two overlap. The point Post 2 makes here is easy to lose: a system on this branch need not be hostile. It can be trying to help and still take a decision that carries, say, a five percent chance of catastrophe, judging the trade worth it. What splits the branch is the fourth condition, whether the system expects its own action to raise the risk.
+The system knows what it is doing: it understands its actions, understands catastrophe, and can tell when the two meet. It need not be hostile — it can be trying to help and still accept, say, a five-percent chance of catastrophe. What splits the branch is whether it expects its own action to cause the harm.
 
 {{< include ../chapters/threat-models-v2/a-knowing-optimizer.qmd >}}
 
 {{< include ../chapters/threat-models-v2/c-the-mistake.qmd >}}
 
 {{< include ../chapters/threat-models-v2/d-unwitting.qmd >}}
-
-{{< include ../chapters/threat-models-v2/adjacencies.qmd >}}
 
 ---
 
