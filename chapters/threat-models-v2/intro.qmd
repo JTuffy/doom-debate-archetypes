@@ -1,5 +1,9 @@
 ::: {.aside .meta-note}
-**META (v2):** Gallery lead. Located vs distributional in one line, plus the Post-2 nod that the walk is top-down and slightly reordered from the site.
+**META (v2):** Gallery lead. The reading rule: **sort by mechanism** (walk the tree), then distinguish people on the same branch only by what's needed — their number, their prescription, or their frame. Apparent "two places at once" is almost always a different one of those questions, not a second mechanism; reserve "straddle" for genuine split belief across branches (Christiano). Located vs distributional. Top-down, slightly reordered from the site.
 :::
 
-One distinction to carry in. Most worldviews are located, picking a branch and saying the danger is here. A few are distributional: they do not pick a branch so much as bet that the dangerous ones are nearly empty, and they attach to the branch they most deny. We walk the tree top-down, in a slightly different order from the website.
+We sort by mechanism: walk the tree, and put each figure on the branch whose scenario they actually expect. A branch is an agreement, not a bucket — to share one is to agree on how the catastrophe works. So when two people sit on the same branch and still read as opposites, the split is never the mechanism. It is one of three things: how much weight they put on that branch, what they would do about it, or what they would even count as doom. We name which, and let the rest go.
+
+This also dissolves most of what looks like someone standing in two places at once. Public figures are famous for what they would do, or for a vivid scenario, or for insisting on a different definition of doom — rarely for a clean statement of mechanism. Read one of those as a mechanism claim and they seem to span the tree; separate the question and they snap to a branch. Genuine split belief across branches — real probability on two incompatible mechanisms — is rare, and we flag it when it is real.
+
+One last distinction to carry in. Most worldviews are located, picking a branch and saying the danger is here. A few are distributional: they do not pick a branch so much as bet that the dangerous ones are nearly empty, and they attach to the branch they most deny.

@@ -6,7 +6,7 @@
 
 **Non-AI Pathway**
 
-- Yann LeCun, ["A Path Towards Autonomous Machine Intelligence"](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022)
+- Yann LeCun, ["A Path Towards Autonomous Machine Intelligence"](https://openreview.net/pdf?id=BZ5a1r-kVsf) (2022); on extinction worries being "complete B.S." and concentration of power as the real risk, [TechCrunch](https://techcrunch.com/2024/10/12/metas-yann-lecun-says-worries-about-a-i-s-existential-threat-are-complete-b-s/) (Oct 2024)
 
 **Multipolar AI pathway**
 
