@@ -1,7 +1,5 @@
 ::: {.aside .meta-note}
-**META (v2):** Gallery lead, no header of its own; it hands from "how to read" into the tree walk. Node names match the site; order is top-down and slightly reordered from the site for readability (as in Post 2).
+**META (v2):** Gallery lead. Located vs distributional in one line, plus the Post-2 nod that the walk is top-down and slightly reordered from the site.
 :::
 
-What follows places the recurring figures on that tree, one branch at a time, walked top-down and in a slightly different order from the website. At each branch the question is the same: who lives here, and where do the people who share it nonetheless split?
-
-Most worldviews are located, picking a branch and saying the danger is here. A few are distributional: they do not pick a branch so much as bet that the dangerous ones are nearly empty, and they attach to the branch they most deny.
+One distinction to carry in. Most worldviews are located, picking a branch and saying the danger is here. A few are distributional: they do not pick a branch so much as bet that the dangerous ones are nearly empty, and they attach to the branch they most deny. We walk the tree top-down, in a slightly different order from the website.

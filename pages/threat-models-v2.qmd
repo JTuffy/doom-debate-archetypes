@@ -22,7 +22,7 @@ TL;DR:
 - Laid out this way, the sharp disagreements turn out narrow, often a single crux, and the apparent alliances thin, often nothing but a shared conclusion.
 
 ::: {.callout-note .meta-note collapse="true" title="Editor note (v2, tree-organized)"}
-Working version of Post 3, themed to match Posts 1–2: the gallery walks the tree top-down (Non-AI, then AI-Driven and its branches) using the site's node names. Framing and cruxes sit around it. Kept alongside the flat-list draft until we settle.
+Working version of Post 3, themed to match Posts 1–2. Intro merged to one section; the gallery walks the tree top-down (Non-AI, then AI-Driven and its branches); the cruxes moved to an appendix. The gallery is the focus. Kept alongside the flat-list draft until we settle.
 :::
 
 ---
@@ -30,18 +30,14 @@ Working version of Post 3, themed to match Posts 1–2: the gallery walks the tr
 ## Why this map exists
 
 ::: {.aside .meta-note}
-**META:** States the thesis (two kinds of question) and hands off. Withholds the diagnostic and the named axes for the next section so the two don't double-explain.
+**META:** The whole intro, merged. Thesis plus the minimum machinery, then hand straight to the gallery. The detailed cruxes live in the appendix; this section only names them. Emphasis stays sparing.
 :::
 
-The AI debate is confused, and people argue past each other. Two researchers can report the same probability of catastrophe and hold opposite pictures of the world; two who sit forty points apart can hold nearly the same one. A decade of shared evidence has moved almost no one toward almost anyone. That is the clue worth chasing. When evidence reliably fails to move a disagreement, the disagreement was probably never about evidence.
+The AI debate is confused, and people argue past each other. Two researchers can report the same probability of catastrophe and hold opposite pictures of the world; two who sit forty points apart can hold nearly the same one. A decade of shared evidence has moved almost no one toward almost anyone. When evidence reliably fails to move a disagreement, the disagreement was probably never about evidence.
 
-Two kinds of question are knotted together in every estimate, and they behave nothing alike. Some are empirical. Does power-seeking come with capability? Would a failure be visible before it was terminal? Evidence speaks to these, and given time it settles them. The others are not empirical at all. Does an AI that quietly succeeds us count as catastrophe, or as worthy heirs? Over what timeline are we even asking? Would a well-behaved model lower your fear, or is that exactly what a dangerous one would show you? No experiment settles those, because they decide what the experiments mean.
+Two kinds of question are tangled in every estimate, and they behave nothing alike. Some are empirical, and given time evidence settles them: does power-seeking come with capability, would a failure be visible before it was terminal. The others are framing choices, made before any evidence is in: what counts as doom (does an AI that quietly succeeds us count, or as worthy heirs?), over what horizon, whether a well-behaved model is reassurance or camouflage. No experiment settles those, because they decide what the experiments mean. Mistake one kind for the other and you can argue forever.
 
-The first two posts built a tree to keep this straight, breaking the debate into the cruxes that carry the real decision weight. This post puts people on the tree. It takes the names that keep coming up, Yudkowsky, Bengio, LeCun, Christiano, Critch, and others, sets each where their reasoning actually lives, and finds the live disagreements are narrower and stranger than the shouting suggests: people who share a conclusion and nothing else, people who agree on everything but one crux.
-
----
-
-{{< include ../chapters/threat-models-v2/framing.qmd >}}
+The first two posts built a tree to hold the empirical questions straight, breaking doom into the branches that carry the decision weight. But a tree sorts scenarios, not people. What separates the people is mostly what the tree leaves off it: the framing choices above, and a handful of factual cruxes, whether oversight is tractable, how fast capability arrives, whether warning shots would come in time. This post places the people anyway. We walk the tree top-down and set each recurring figure, Yudkowsky, Bengio, LeCun, Christiano, Critch, and others, where their reasoning lives; the disagreements come out narrower and stranger than the shouting suggests. The cruxes that move people between positions are gathered in an appendix.
 
 ---
 
@@ -73,8 +69,8 @@ The system knows what it is doing. In Post 2's terms it meets the conditions for
 
 ---
 
-{{< include ../chapters/threat-models-v2/cuts.qmd >}}
+{{< include ../chapters/threat-models-v2/conclusion.qmd >}}
 
 ---
 
-{{< include ../chapters/threat-models-v2/conclusion.qmd >}}
+{{< include ../chapters/threat-models-v2/cuts.qmd >}}

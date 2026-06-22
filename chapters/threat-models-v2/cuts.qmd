@@ -1,10 +1,10 @@
-## The Cruxes: Where Views Move
+## Appendix — The Cruxes, and Where Views Move
 
 ::: {.aside .meta-note}
 **META:** Object-level levers only — factual bets that, settled, relocate a view within a shared frame. Coordination added so the multipolar branch has a lever. Transition in prose for now; diagram removed.
 :::
 
-The axes are the frame and the tree is the structure; the cruxes are the factual bets that move a thinker from one position to another. Each could in principle be settled, which is what makes them worth arguing — and what separates them from the axes, where there is nothing to settle.
+These are the factual bets the gallery kept pointing to, collected for the reader who wants them. Each could in principle be settled, which is what makes it worth arguing, and what separates a crux from a framing choice, where there is nothing to settle. Settle one and a thinker moves from one position to another.
 
 | Crux | What hangs on it | Who it separates |
 |---|---|---|
