@@ -4,14 +4,14 @@ date: "June 2026"
 author: "Sean Herrington, Josh Tuffy, Khai Tran, David Bravo, Kevin Caldwell, Paul Hindoian, Mikaela Cankosyan, Christopher A. Davis, Maryam Hampaei"
 ---
 
-*This is the third post in the series "We made a map of the doom debate," produced as part of the AI Safety Camp 2026 "Assumptions of the Doom Debate" project, led by Sean Herrington. The [first post](https://www.lesswrong.com/posts/dZZD5Lviid2mALAZL/we-made-a-map-of-the-doom-debate) introduces the tree and its resources; the [second](https://www.lesswrong.com/posts/AZrMGwBPMJmAcgqX8/we-made-a-map-of-the-doom-debate-here-s-how-the-breakdown) walks the nodes and explains how the breakdown works. This post maps the real-world viewpoints onto that tree. The interactive tree is [here](https://lifeuniversesafety.com/doom-assumptions/index.html).*
+*This is the third post in the series "We made a map of the doom debate," produced as part of the AI Safety Camp 2026 "Assumptions of the Doom Debate" project. The [first post](https://www.lesswrong.com/posts/dZZD5Lviid2mALAZL/we-made-a-map-of-the-doom-debate) introduces the tree and its resources; the [second](https://www.lesswrong.com/posts/AZrMGwBPMJmAcgqX8/we-made-a-map-of-the-doom-debate-here-s-how-the-breakdown) walks the nodes and explains how the breakdown works. This post maps the real-world viewpoints onto that tree. The interactive tree is [here](https://lifeuniversesafety.com/doom-assumptions/index.html).*
 
 TL;DR:
 
-- The AI-risk debate mixes two kinds of question: empirical ones evidence can settle, and framing choices which no evidence can settle. This muddies the discussion when people are not arguing over the same framework.
-- We place the prominent figures and viewpoints on the previously described tree.
-- Grouping viewpoints based on failure mode enables us to see where viewpoints actually overlap, but differ on probability, prescription, or what counts as doom.
-- We also note the tree is lopsided when populated with real viewpoints, with most voices piling onto the single "it knew and did it anyway" branch and with some nodes almost entirely unrepresented.
+- The AI-risk debate mixes two kinds of question: empirical ones evidence can settle, and framing choices which evidence cannot settle. These framing choices muddy the discussion.
+- We place the prominent figures and viewpoints of the AI debate on the previously described tree.
+- Grouping viewpoints based on failure mode, we see where viewpoints actually overlap, but differ on probability, prescription, or definition of doom.
+- We also note the tree is lopsided when populated with real viewpoints, with most voices piling onto a few branches, and with some nodes mostly empty.
 
 ::: {.callout-note .meta-note collapse="true" title="Editor note (v2, tree-organized)"}
 Working version of Post 3, themed to match Posts 1–2. Intro merged to one section; the gallery walks the tree top-down (Non-AI, then AI-Driven and its branches); the cruxes moved to an appendix. The gallery is the focus. Kept alongside the flat-list draft until we settle.
@@ -23,11 +23,11 @@ Working version of Post 3, themed to match Posts 1–2. Intro merged to one sect
 **META:** Opens at the tree (the two-kinds-of-question thesis now lives in the TL;DR). The reading rule — sort by mechanism — and the payoff. Emphasis stays sparing.
 :::
 
-The first two posts in this series focus on how we approached the problem of decomposing the AI risk debate, or "does powerful AI raise or lower risks?", "does failure come from one system or many?", "does it expect the result?". We sort these failure modes by the broadest characteristics of failure we can choose. Crucially, we separate framing questions to focus on actual cruxes, decision points with apparent empirical answers, through which the AI debate actually happens.
+The first two posts in this series focus on how we approached the problem of decomposing the AI risk debate. Does powerful AI raise or lower risks? Does failure come from one system or many? Does the system expect the result? We sort failure modes by their broadest characteristics. Crucially, we separate framing questions to focus on actual cruxes, decision points with apparent empirical answers, through which the AI debate actually happens.
 
-Sorting viewpoints by mechanism is useful in shining light on where true disagreements arise. In some cases, otherwise disparate views may appear on the same node but argue over the likelihood or timeframe of failure, or over humanity's ability to take control of the situation. This is also helpful data.
+Sorting viewpoints by this way helps shine a light on where true disagreements arise. In some cases, otherwise disparate views may appear on the same node but argue over the likelihood or timeframe of failure, or over humanity's ability to take control of the situation. This is also helpful data.
 
-As the last post did, we will step through our tree and do our best to place prominent figures on it. These are our best approximations of where their opinions lie, based on past public comments and writing.
+As the last post, we will step through our tree, this time placing prominent figures on it. These are our best approximations, based on past public comments and writing.
 
 {{< include ../chapters/threat-models-v2/e-distributional.qmd >}}
 

@@ -4,8 +4,6 @@
 **META:** One tight conclusion. The diagnostic, the honest caveat folded to two sentences, the next-post pointer. No recap of the gallery.
 :::
 
-The map is good for one thing: locating where a disagreement actually lives. When one stalls, don't trade p(doom) numbers. First check whether you share a frame, the same definition of doom, the same horizon, the same standard for what counts as evidence. If you don't, that is the disagreement, and no study will close it. Only once the frame is shared is it worth finding the crux, the factual bet you actually differ on, because that is the part evidence can move.
+This map was built to help locate disagreements. We separate out framing choices and identify core crux questions where most disagreements lie. We also try to represent different sources of risk under a unified framework. We find that, even after accounting for differences in framing and within the same failure node, there is still room to disagree about prescription and likelihood.
 
-The map is itself a bet, that decomposition helps and that these disagreements are legible. Someone who thinks the argument is already settled will find it beside the point. But that objection is about the frame, not the facts, which is the distinction the map is built on.
-
-The next post takes the crux under most of this map: whether agency, and the power-seeking that comes with it, falls out of optimization. (If there is no link here yet, it is not out. Come back later.)
+The next and final post will focus specifically on optimization, since this is one of the central cruxes between those who expect dangerous agency to emerge from optimization and those who believe it can be designed out.
