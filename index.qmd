@@ -9,7 +9,7 @@ execute:
 ---
 
 ```{=html}
-<meta http-equiv="refresh" content="0; url=pages/threat-models.html">
-<script>window.location.replace("pages/threat-models.html");</script>
-<p>Redirecting… <a href="pages/threat-models.html">Click here if not redirected</a>.</p>
+<meta http-equiv="refresh" content="0; url=pages/threat-models-v2.html">
+<script>window.location.replace("pages/threat-models-v2.html");</script>
+<p>Redirecting… <a href="pages/threat-models-v2.html">Click here if not redirected</a>.</p>
 ```

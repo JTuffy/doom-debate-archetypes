@@ -1,14 +1,14 @@
-## Appendix — The Cruxes
+## Appendix: The Cruxes
 
 ::: {.aside .meta-note}
 **META:** The factual bets the gallery pointed to, as a reference glossary. Warning shots dropped (it was the evidentiary axis applied to early signs, and the Christiano/Yudkowsky contrast in "What the layout reveals" already carries it). The transition map removed.
 :::
 
-The factual bets the gallery kept pointing to, collected here. Each could in principle be settled — which is what separates a crux from a framing choice, where there is nothing to settle. Settle one and a thinker moves from one position to another.
+The factual bets the gallery kept pointing to, collected here. Each could in principle be settled, which is what separates a crux from a framing choice, where there is nothing to settle. Settle one and a thinker moves from one position to another.
 
 | Crux | What hangs on it | Who it separates |
 |---|---|---|
-| Agency — emergent or chosen? | If dangerous agency comes free with capability, architectural avoidance is wishful thinking; if it is a separable design choice, Bengio's agenda is coherent and the build path matters. | Sharp Left Turn vs. Architectural Agency |
-| Oversight — tractable in time? | Whether institutions can align advanced capability before deploying it, or whether the first real failure is already too late. | Sharp Left Turn vs. Control Failure |
-| Arrival — does the dangerous system come, and how fast? | Whether scaling current architectures reaches the dangerous regime at all, and whether it arrives sharply or as a slow ramp. Fills or empties the dangerous branches. | the skeptics vs. the gallery; fast vs. slow within it |
-| Coordination — can actors hold a line together? | Whether durable governance can change competitive incentives, or whether racing is structurally unavoidable even among well-meaning labs. | Multipolar Racing vs. those who see governance as a real lever |
+| Agency, emergent or chosen? | If dangerous agency comes free with capability, architectural avoidance is wishful thinking. If it is a separable design choice, Bengio's agenda is coherent and the build path matters. | Sharp Left Turn vs. Architectural Agency |
+| Oversight, tractable in time? | Whether institutions can align advanced capability before deploying it, or whether the first real failure is already too late. | Sharp Left Turn vs. Control Failure |
+| Arrival, does the dangerous system come and how fast? | Whether scaling current architectures reaches the dangerous regime at all, and whether it arrives sharply or as a slow ramp. Fills or empties the dangerous branches. | the skeptics vs. the gallery, and fast vs. slow within it |
+| Coordination, can actors hold a line together? | Whether durable governance can change competitive incentives, or whether racing is structurally unavoidable even among well-meaning labs. | Multipolar Racing vs. those who see governance as a real lever |

@@ -6,6 +6,8 @@ _site/
 # Quarto per-file build artifacts
 *_files/
 *.html
+# ...except the meta-note toggle, which is a real site feature (must deploy)
+!_meta-toggle.html
 
 # Archive (old working files, superseded by index.qmd)
 archive/

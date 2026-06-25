@@ -1,0 +1,37 @@
+<!-- _meta-toggle.html — local-only (gitignored via *.html).
+     Hides .meta-note editorial asides by default and adds a floating
+     show/hide toggle. include-after-body in _quarto.yml. -->
+<style>
+  .meta-note { transition: opacity .12s ease; }
+  body:not(.meta-visible) .meta-note { display: none !important; }
+  #meta-toggle-btn {
+    position: fixed; bottom: 1rem; right: 1rem; z-index: 9999;
+    font: 600 12px/1 system-ui, sans-serif; letter-spacing: .03em;
+    padding: .55rem .8rem; border-radius: 999px; cursor: pointer;
+    border: 1px solid rgba(0,0,0,.15); background: #fff; color: #333;
+    box-shadow: 0 2px 8px rgba(0,0,0,.15);
+  }
+  body.meta-visible #meta-toggle-btn { background: #b54708; color: #fff; border-color: #b54708; }
+  body.meta-visible .meta-note {
+    outline: 1px dashed #b54708; outline-offset: 3px;
+    background: rgba(181,71,8,.05);
+  }
+</style>
+<button id="meta-toggle-btn" type="button">META: off</button>
+<script>
+  (function () {
+    var KEY = "dd-post-meta-visible";
+    var btn = document.getElementById("meta-toggle-btn");
+    function apply(on) {
+      document.body.classList.toggle("meta-visible", on);
+      btn.textContent = "META: " + (on ? "on" : "off");
+      try { localStorage.setItem(KEY, on ? "1" : "0"); } catch (e) {}
+    }
+    var saved = false;
+    try { saved = localStorage.getItem(KEY) === "1"; } catch (e) {}
+    apply(saved);
+    btn.addEventListener("click", function () {
+      apply(!document.body.classList.contains("meta-visible"));
+    });
+  })();
+</script>

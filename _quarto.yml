@@ -1,17 +1,19 @@
 project:
   type: website
   output-dir: _site
+  # Only the current article (v2) builds. The earlier "Threat Models" (v1)
+  # and "Archetypes" drafts and their chapters stay in the repo as reference
+  # material, but are excluded from the rendered site.
+  render:
+    - index.qmd
+    - pages/threat-models-v2.qmd
 
 website:
   title: "AI Doom Debate Map"
   navbar:
     left:
       - text: "Threat Models"
-        href: pages/threat-models.qmd
-      - text: "Threat Models (v2 · tree)"
         href: pages/threat-models-v2.qmd
-      - text: "Archetypes"
-        href: pages/archetypes.qmd
     right:
       - icon: github
         href: https://github.com/JTuffy/doom-debate-archetypes
