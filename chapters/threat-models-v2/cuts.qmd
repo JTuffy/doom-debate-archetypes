@@ -1,14 +1,25 @@
-## Appendix: The Cruxes
+## IV. The Cruxes: Where Views Move
 
 ::: {.aside .meta-note}
-**META:** The factual bets the gallery pointed to, as a reference glossary. Warning shots dropped (it was the evidentiary axis applied to early signs, and the Christiano/Yudkowsky contrast in "What the layout reveals" already carries it). The transition map removed.
+**META:** Object-level levers only — factual bets that, settled, relocate a view within a shared frame. Coordination added so the multipolar branch has a lever. Transition in prose for now; diagram removed.
 :::
 
-The factual bets the gallery kept pointing to, collected here. Each could in principle be settled, which is what separates a crux from a framing choice, where there is nothing to settle. Settle one and a thinker moves from one position to another.
+The axes are the frame and the tree is the structure; the cruxes are the factual bets that move a thinker from one position to another. Each could in principle be settled, which is what makes them worth arguing, and what separates them from the axes, where there is nothing to settle.
 
 | Crux | What hangs on it | Who it separates |
 |---|---|---|
-| Agency, emergent or chosen? | If dangerous agency comes free with capability, architectural avoidance is wishful thinking. If it is a separable design choice, Bengio's agenda is coherent and the build path matters. | Sharp Left Turn vs. Architectural Agency |
-| Oversight, tractable in time? | Whether institutions can align advanced capability before deploying it, or whether the first real failure is already too late. | Sharp Left Turn vs. Control Failure |
-| Arrival, does the dangerous system come and how fast? | Whether scaling current architectures reaches the dangerous regime at all, and whether it arrives sharply or as a slow ramp. Fills or empties the dangerous branches. | the skeptics vs. the gallery, and fast vs. slow within it |
-| Coordination, can actors hold a line together? | Whether durable governance can change competitive incentives, or whether racing is structurally unavoidable even among well-meaning labs. | Multipolar Racing vs. those who see governance as a real lever |
+| Agency: emergent or chosen? | If dangerous agency comes free with capability, architectural avoidance is wishful thinking; if it is a separable design choice, Bengio's agenda is coherent and the build path matters. | Sharp Left Turn vs. Architectural Agency |
+| Oversight: tractable in time? | Whether institutions can align advanced capability before deploying it, or whether the first real failure is already too late. | Sharp Left Turn vs. Control Failure |
+| Arrival: does the dangerous system come, and how fast? | Whether scaling current architectures reaches the dangerous regime at all, and whether it arrives sharply or as a slow ramp. Fills or empties the dangerous branches. | the skeptics vs. the gallery; fast vs. slow within it |
+| Coordination: can actors hold a line together? | Whether durable governance can change competitive incentives, or whether racing is structurally unavoidable even among well-meaning labs. | Multipolar Racing vs. those who see governance as a real lever |
+| Warning shots: would they be actionable? | Whether early misalignment would be legible, timely, and politically actionable in time to matter. | Control Failure vs. Sharp Left Turn |
+
+On warning shots: this is the crux with the most near-term evidence available, and Sharp Left Turn and Control Failure proponents disagree on two things at once — whether anything already seen counts, and whether a future signal would arrive in time. People worried about Control Failure would count certain RLHF failures, emergent capabilities, and sleeper-agent results as early evidence; Sharp Left Turn proponents typically don't, because their model treats safe-looking behavior during evaluation as the expected initial state. So the two can watch the same events and disagree about whether things are improving, not from bad reasoning but from different priors about what a warning shot looks like before it is too late.
+
+### Where you'd move
+
+::: {.aside .meta-note}
+**META:** The dynamic payoff, in prose. Two motions: crux-flips (across the gallery) and an axis-shift (changing the question).
+:::
+
+Movement happens two ways, and telling them apart is the whole point of §II. Flip a crux and you slide to a neighbouring position inside the same frame: grant that agency is a design choice and the Sharp Left Turn becomes Architectural Agency; grant that oversight is tractable and it becomes Control Failure; decide the dangerous system never arrives and you leave the gallery for the skeptics; decide coordination is hopeless and you land in Multipolar Racing. Shift an axis instead and you have not crossed the gallery at all; you have changed the question. Widen "doom" to include present, distributed harm and you step off the frame onto the present-harms perimeter. That last move is not a crux you lost; it is a different map.

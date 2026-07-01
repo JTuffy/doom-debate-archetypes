@@ -1,7 +1,7 @@
-#### II.2.b No internal model
+### Node D: The Unwitting System *(the empty branch)*
 
-::: {.aside .meta-note}
-**META:** Empty branch, a finding, not a portrait. Once Christiano leans toward "expects," the single-dominant branch concentrates at the knowing-optimizer leaf, leaving this and the "mistake" node thin.
-:::
+The tree allows a branch almost no one defends: a system capable enough to dominate and cause catastrophe, with no internal model of the danger it creates. Posts 1 and 2 used a missile-detection system handed the retaliation decision, or any powerful optimizer that does not know what it is doing. The question is blunt. How likely is catastrophe from a dominant system that simply lacks the representation to grasp its own effect?
 
-The tree also acknowledges another mostly unoccupied branch, where a capable system causes catastrophe without an internal model of it. In [Post 2](https://www.lesswrong.com/posts/AZrMGwBPMJmAcgqX8/we-made-a-map-of-the-doom-debate-here-s-how-the-breakdown) we used the example of an oblivious parent who gives the wrong medicine, with all the power to cause harm and none of the understanding to avoid it. However, this is not a widely held concern. We believe this is because it is less flashy and less sharp than the other failures, and because many tacitly assume anything capable enough to dominate would not be that ignorant of its own effects.
+No established worldview is built on this branch. It catches edge cases from its neighbors, the out-of-distribution and butterfly-effect versions of control failure brush against it, but no major thinker centers it the way Yudkowsky centers Node A or Critch centers Node B.
+
+The absence is informative, and worth stating rather than hiding. The tree's joints and the debate's joints do not perfectly line up, and here the tree cuts finer than the conversation does. It may be a genuine blind spot, since dumb-but-powerful failure is under-theorized, or a sound bet that anything capable enough to dominate is unlikely to lack a world-model. Either way, an empty branch is a prompt. One of the more useful things a map can do is mark a region no one has walked.

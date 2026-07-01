@@ -1,60 +1,54 @@
 ---
-title: "We made a map of the doom debate. Part 3."
-date: "June 2026"
-author: "Sean Herrington, Josh Tuffy, Khai Tran, David Bravo, Kevin Caldwell, Paul Hindoian, Mikaela Cankosyan, Christopher A. Davis, Maryam Hampaei"
+title: "Threat Models of the Doom Debate"
+subtitle: "Mapping AI Risk Viewpoints, Tree-Organized (v2)"
+date: "March 2026"
+author: "[Author TBD]"
 ---
 
-*This is the third post in the series "We made a map of the doom debate," produced as part of the AI Safety Camp 2026 "Assumptions of the Doom Debate" project. The [first post](https://www.lesswrong.com/posts/dZZD5Lviid2mALAZL/we-made-a-map-of-the-doom-debate) introduces the tree and its resources; the [second](https://www.lesswrong.com/posts/AZrMGwBPMJmAcgqX8/we-made-a-map-of-the-doom-debate-here-s-how-the-breakdown) walks the nodes and explains how the breakdown works. This post maps the real-world viewpoints onto that tree. The interactive tree is [here](https://lifeuniversesafety.com/doom-assumptions/index.html).*
+::: {.callout-note .meta-note collapse="true" title="Document Meta — v2 experiment"}
+This is an **alternative organization** of the Threat Models post. The content is the same six worldviews, but §III is regrouped by **position on the shared tree** (Posts 1–2) instead of presented as a flat list. Worldviews that share a mechanism are nested under one node and differentiated on the other axes; one tree branch turns out to have no champion, and a couple of positions are handled as *distributional* claims about the tree rather than locations on it.
 
-TL;DR:
-
-- The AI-risk debate mixes two kinds of question: empirical ones evidence can settle, and framing choices which evidence cannot settle. These framing choices muddy the discussion.
-- We place the prominent figures and viewpoints of the AI debate on the previously described tree.
-- Grouping viewpoints based on failure mode, we see where viewpoints actually overlap, but differ on probability, prescription, or definition of doom.
-- We also note the tree is lopsided when populated with real viewpoints, with most voices piling onto a few branches, and with some nodes mostly empty.
-
-::: {.callout-note .meta-note collapse="true" title="Editor note (v2, tree-organized)"}
-Working version of Post 3, themed to match Posts 1–2. Intro merged to one section; the gallery walks the tree top-down (Non-AI, then AI-Driven and its branches); the cruxes moved to an appendix. The gallery is the focus. Kept alongside the flat-list draft until we settle.
+This version exists to compare for rigor and readability against the flat-list (v1) version. Keep both until we decide. v2 turns on one idea, stated in the intro and operationalized in §II: empirical questions that evidence can settle versus the axes you argue along that it can't. The gallery (§III) places people on the tree; the cruxes (§IV) are the bets that move them.
 :::
 
-## Why this map exists
+---
+
+## I. Why This Map Exists
 
 ::: {.aside .meta-note}
-**META:** Opens at the tree (the two-kinds-of-question thesis now lives in the TL;DR). The reading rule — sort by mechanism — and the payoff. Emphasis stays sparing.
+**META:** States the thesis (two kinds of question) as the hook and hands off. Withholds the diagnostic and the named axes for §II so the two sections don't double-explain.
 :::
 
-The first two posts in this series focus on how we approached the problem of decomposing the AI risk debate. Does powerful AI raise or lower risks? Does failure come from one system or many? Does the system expect the result? We sort failure modes by their broadest characteristics. Crucially, we separate framing questions to focus on actual cruxes, decision points with apparent empirical answers, through which the AI debate actually happens.
+The AI debate is confused, and people talk past each other. The same p(doom) can hide opposite pictures of the world; two very different numbers can hide the same one. A decade of shared evidence has barely moved anyone. When evidence stops moving a disagreement, the disagreement was never about evidence.
 
-Sorting viewpoints by this way helps shine a light on where true disagreements arise. In some cases, otherwise disparate views may appear on the same node but argue over the likelihood or timeframe of failure, or over humanity's ability to take control of the situation. This is also helpful data.
+Every estimate tangles two kinds of question. Some are empirical, and evidence settles them: does power-seeking come with capability, would a failure show before it was terminal. Some are not empirical at all: what counts as doom, whether an AI that quietly replaces us is a catastrophe or a worthy heir, over what horizon we are even asking, whether a calm model is reassurance or camouflage. No experiment touches the second kind; they decide what the experiments mean. Confuse the two and you argue forever.
 
-As the last post, we will step through our tree, this time placing prominent figures on it. These are our best approximations, based on past public comments and writing.
+The first two posts built the tree. This one puts people on it, placing the names that keep coming up, Yudkowsky, Bengio, LeCun, Christiano, Critch, where their reasoning actually sits. Read that way, the loudest fights get smaller and stranger: allies who agree on nothing but the conclusion, opponents a single crux apart.
 
-{{< include ../chapters/threat-models-v2/e-distributional.qmd >}}
+---
 
-## II. AI-Driven Pathway
+{{< include ../chapters/threat-models-v2/framing.qmd >}}
 
-Worlds where AI raises the danger, in one of two shapes: many systems at once, or a single dominant one. While it is not mutually exclusive to expect risks from both single optimizers and competing systems, we categorize here by a viewpoint's more likely failure mode.
+---
 
-{{< include ../chapters/threat-models-v2/b-distributed.qmd >}}
-
-### II.2 Single dominant AI pathway
-
-One system carries the danger. It splits by whether that system models what it is doing, and, if so, whether it expects the result.
-
-#### II.2.a Internal model pathway
-
-The system under this node knows what it is doing when it raises risks. This includes, for example, a system that willingly accepts a 5% chance of catastrophe. The branch is subdivided on whether the system expects its actions to cause harm.
+{{< include ../chapters/threat-models-v2/intro.qmd >}}
 
 {{< include ../chapters/threat-models-v2/a-knowing-optimizer.qmd >}}
+
+{{< include ../chapters/threat-models-v2/b-distributed.qmd >}}
 
 {{< include ../chapters/threat-models-v2/c-the-mistake.qmd >}}
 
 {{< include ../chapters/threat-models-v2/d-unwitting.qmd >}}
 
+{{< include ../chapters/threat-models-v2/e-distributional.qmd >}}
+
+{{< include ../chapters/threat-models-v2/adjacencies.qmd >}}
+
+---
+
+{{< include ../chapters/threat-models-v2/cuts.qmd >}}
+
 ---
 
 {{< include ../chapters/threat-models-v2/conclusion.qmd >}}
-
----
-
-{{< include ../chapters/threat-models-v2/sources.qmd >}}

@@ -1,9 +1,15 @@
-## I. Non-AI Pathway
+### Node E: Off the Dangerous Branches
 
-::: {.aside .meta-note}
-**META:** The skeptics. Not a threat model but the bet that none fire — three distinct reasons behind one low number. LeCun's real worry (concentration) is off-tree. Links: LeCun only.
+This is less a place on the tree than a bet about it: that the dangerous branches carry almost no probability. "Low p(doom)" is an output, not a position, and at least three different bets produce it. They share a conclusion, do not prepare for the science-fiction takeover, and little else.
+
+The first is capability skepticism, the bet that the dangerous system never arrives. Yann LeCun is the clean case, and his claim is architectural: large language models interpolate tokens without embodied world-models, persistent memory, or causal reasoning, so the Sharp Left Turn's prerequisite will not emerge from scaling transformers. That answers the arrival crux, "not like this," and it is not a claim that alignment is easy. A predictive tool cannot run a coup.
+
+The second is alignment optimism, the bet that the system arrives and stays controllable. The oversight crux resolves the friendly way, and the transition is survived rather than fumbled.
+
+The third is net-positive accelerationism, the bet that the system arrives and is, on balance, good, that AI lowers existential risk from disease and disorder more than it adds. This is the tree's non-AI branch proper, a large real-world camp a doom-side gallery otherwise erases.
+
+Most coverage flattens all three into "the skeptics," which is the move this map resists: they answer different cruxes differently and only land near the same number. None is a located threat model, so they sit off the gallery, represented by how they answer arrival and oversight rather than by a branch of their own.
+
+::: {.aside}
+Present harms, adjacent not absent. Another family puts the real catastrophe in the present: compute oligopolies, labor displaced before retraining exists, prediction tools entrenched in already-fragile systems. This is not a branch but an axis shift, a different answer to what counts as doom, which moves off the gallery's frame entirely. The map treats it as out of scope because these thinkers do not frame their concern as existential, but it belongs on the perimeter: change the definition of doom and you can arrive here from anywhere.
 :::
-
-This branch focuses on pathways where AI development decreases, or at least does not increase, existential risk. Our top optimist figure is LeCun, who bases his argument on architectural limitations. He bets that large language models are [token-interpolators without the world-models, memory, or planning](https://openreview.net/pdf?id=BZ5a1r-kVsf) the dangerous scenarios require, so the dangerous system never arrives. He has called the extinction worry ["complete B.S."](https://techcrunch.com/2024/10/12/metas-yann-lecun-says-worries-about-a-i-s-existential-threat-are-complete-b-s/) His bet is that the risk never materializes in the first place and we could call him a skeptic.
-
-Alternative flavors of viewpoints on this node argue that dangerous systems arrive but remain controllable, or that ASI does arrive and is inherently good.

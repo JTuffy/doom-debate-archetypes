@@ -1,9 +1,9 @@
+## III. The Gallery
+
 ::: {.aside .meta-note}
-**META (v2):** Gallery lead. The reading rule: **sort by mechanism** (walk the tree), then distinguish people on the same branch only by what's needed — their number, their prescription, or their frame. Apparent "two places at once" is almost always a different one of those questions, not a second mechanism; reserve "straddle" for genuine split belief across branches (Christiano). Located vs distributional. Top-down, slightly reordered from the site.
+**META (v2):** Gallery laid out along the tree. Kept short; the frame/fact machinery lives in §II. Where two worldviews share a node, the contrast is drawn on an axis or a crux, never on the mechanism they share.
 :::
 
-We sort by mechanism: walk the tree, and put each figure on the branch whose scenario they actually expect. A branch is an agreement, not a bucket — to share one is to agree on how the catastrophe works. So when two people sit on the same branch and still read as opposites, the split is never the mechanism. It is one of three things: how much weight they put on that branch, what they would do about it, or what they would even count as doom. We name which, and let the rest go.
+Each worldview sits on the branch where its catastrophe happens. If the tree is carved right, every serious view has to land somewhere on it, which lets us check each branch for a champion and notice the ones no one defends.
 
-This also dissolves most of what looks like someone standing in two places at once. Public figures are famous for what they would do, or for a vivid scenario, or for insisting on a different definition of doom — rarely for a clean statement of mechanism. Read one of those as a mechanism claim and they seem to span the tree; separate the question and they snap to a branch. Genuine split belief across branches — real probability on two incompatible mechanisms — is rare, and we flag it when it is real.
-
-One last distinction to carry in. Most worldviews are located, picking a branch and saying the danger is here. A few are distributional: they do not pick a branch so much as bet that the dangerous ones are nearly empty, and they attach to the branch they most deny.
+Most worldviews are located: they name a branch and say the danger is there. A few are distributional. Rather than pick a branch, they bet the dangerous ones are nearly empty, and attach to the one they most deny.

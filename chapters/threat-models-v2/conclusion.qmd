@@ -1,9 +1,13 @@
-## Conclusion
+## Conclusion: What the Map Is For
 
 ::: {.aside .meta-note}
-**META:** One tight conclusion. The diagnostic, the honest caveat folded to two sentences, the next-post pointer. No recap of the gallery.
+**META:** The real conclusion (folds the old "what this map is good for"). Four beats — what it shows, the diagnostic, the honest caveat, the call to action. No new content; this is a landing.
 :::
 
-This map was built to help locate disagreements. We separate out framing choices and identify core crux questions where most disagreements lie. We also try to represent different sources of risk under a unified framework. We find that, even after accounting for differences in framing and within the same failure node, there is still room to disagree about prescription and likelihood.
+The map is good for one thing: locating where a disagreement actually lives. If the strange neighbors a few sections back changed how you read the fight, opponents a single crux apart and allies who share only a conclusion, then it did its job.
 
-The next and final post will focus specifically on optimization, since this is one of the central cruxes between those who expect dangerous agency to emerge from optimization and those who believe it can be designed out.
+It also leaves you with an order of operations. When a debate stalls, don't trade p(doom) numbers. First ask whether you share a frame: the same definition of doom, the same window, the same standard for what counts as evidence. If you don't, that is the disagreement, and no evidence will close it, because what looks like an argument about danger is two people running different questions. Only once the frame is shared is it worth finding the crux, the factual bet you actually differ on, because that is the part evidence can move.
+
+An honest caveat: the map takes a position by existing. It assumes the debate is in good faith, that decomposition is the productive move, and that these disagreements are legible to this kind of analysis, a decomposition-first, empirically-conditioned stance that a committed prior-dominant thinker may find beside the point. If you've read this far and feel it missed something essential about the structure of the problem, that, too, is worth naming, and it will be a disagreement about the frame, not the facts.
+
+So the next time you are stuck, stop asking for a number. Ask first whether you are even answering the same question, and then ask which crux the other person is treating as settled.

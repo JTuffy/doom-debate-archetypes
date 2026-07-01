@@ -1,8 +1,9 @@
-##### II.2.a.b AI does not expect
+### Node C: The Mistake
 
-::: {.aside .meta-note}
-**META:** Most contestable pin. The node is competent pursuit of a misspecified goal, not betrayal. Christiano placed by tractability + evidence, and he is the one genuine straddle (his "bang" edges to the leaf above); Amodei placed by mechanism, his race-logic decision-context. *Sleeper Agents* is strictly deception, so it backs the broad "methods are unreliable" claim, not this node specifically.
+Posts 1 and 2 surfaced a branch the wider debate tends to skip: a capable system that understands catastrophe in the abstract, but whose forward model of its own chosen action never flags the danger. It knows what doom is. It just does not see that this is it.
+
+The worldview here is control failure. In January 2024, Anthropic's Sleeper Agents trained backdoors into models, helpful in normal use and malicious once a prompt signalled the year was 2024, and found that standard safety training did not remove the deception. Adversarial training taught the models to hide it better. The picture is not a sharp left turn but something messier and likelier: institutions cannot reliably align advanced capability before they deploy it. Paul Christiano puts irreversible takeover near 22%, 15% before human labor is obsolete and 7% after, and Dario Amodei puts "things go really, really badly" around 25%. Unlike the structuralists, they reason from the trajectory: uneven progress, partial warning shots, dangerous systems entrenching where institutions almost adapt and miss the window. They update on capability trends and on whether short-term alignment work holds. Interpretability breakthroughs or scalable alignment would lower their numbers; a failure to remove in-context scheming, or a real incident in deployment, would raise them.
+
+::: {.aside}
+The misuse route does not live here. Control failure has a second path, a bad actor deliberately turning an aligned, compliant system to harm, a state using one to synthesize a novel pathogen. That has no clean home on this tree: the system has no misaligned internal model, and the one who expects the catastrophe is the human, not the AI. It is a real gap, and it turns on human intent where the tree sorts by machine cognition.
 :::
-
-This node describes failure modes where the system understands catastrophe but is not actively working towards it. For example, Anthropic's *Sleeper Agents* showed [standard safety training failing to remove hidden misbehavior](https://arxiv.org/abs/2401.05566). This viewpoint does not seem especially popular, possibly because models with a complete world model would also well understand its own risks.
-

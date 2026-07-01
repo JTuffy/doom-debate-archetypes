@@ -1,10 +1,10 @@
-## What the Layout Reveals
+### What the Layout Reveals
 
 ::: {.aside .meta-note}
 **META:** The payoff beat. Concentrates the strange adjacencies the gallery exposes so they read as a pattern, not as scattered asides. Pays off the intro's "narrower and stranger than the shouting" promise. Three contrasts, no more.
 :::
 
-Laid out this way, the debate stops matching its own volume.
+Three patterns stand out.
 
 The sharpest opponents are often a single crux apart. Bengio and Yudkowsky sit on the same branch and share almost the whole threat assessment. They diverge on one question, whether agency is separable from capability, and that lone disagreement is the entire distance between "ban the agents" and "ban the intelligence."
 
